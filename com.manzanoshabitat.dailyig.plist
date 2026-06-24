@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+LaunchAgent: publicación diaria @manzanoshabitat.
+Dispara a 4 horas distintas (≠ palacio/wines) para coger el Mac despierto.
+El motor es idempotente (1 publicación/día por .daily_state.json) y solo
+publica en días PARES (cadencia 1-sí-1-no).
+
+Instalación:
+  cp ~/manzanoshabitat-social/com.manzanoshabitat.dailyig.plist ~/Library/LaunchAgents/
+  launchctl load -w ~/Library/LaunchAgents/com.manzanoshabitat.dailyig.plist
+-->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.manzanoshabitat.dailyig</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/victor/manzanoshabitat-social/run_daily.sh</string>
+    </array>
+    <key>StartCalendarInterval</key>
+    <array>
+        <dict><key>Hour</key><integer>12</integer><key>Minute</key><integer>8</integer></dict>
+        <dict><key>Hour</key><integer>14</integer><key>Minute</key><integer>41</integer></dict>
+        <dict><key>Hour</key><integer>16</integer><key>Minute</key><integer>53</integer></dict>
+        <dict><key>Hour</key><integer>18</integer><key>Minute</key><integer>37</integer></dict>
+    </array>
+    <key>StandardOutPath</key>
+    <string>/Users/victor/manzanoshabitat-social/launchd.out.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/victor/manzanoshabitat-social/launchd.err.log</string>
+    <key>RunAtLoad</key>
+    <false/>
+</dict>
+</plist>
