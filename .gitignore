@@ -1,0 +1,10 @@
+.daily_state.json
+daily.log
+*.err.log
+*.out.log
+token-refresh.log
+__pycache__/
+.DS_Store
+raw/
+reales/
+assets/*.svg
