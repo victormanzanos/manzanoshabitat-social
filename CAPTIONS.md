@@ -9,7 +9,7 @@ invertir en tu futuro — siempre anclado a un proyecto real en venta o a la zon
 
 ---
 
-## 24 POSTS
+## 30 POSTS
 
 ### `01-villafranca.jpg`
 El esfuerzo de hoy es el hogar de mañana. 🏡
@@ -179,9 +179,51 @@ Conoce el proyecto. Bio.
 
 #ManzanosHabitat #SanAdrian #Navarra #ObraNueva #Inversion #Rentabilidad #ComunidadUrbana #ViviendaNueva
 
+### `21-logrono.jpg`
+Las grandes decisiones se toman con la cabeza fría y la vista en alto. 🌇
+Logroño, capital de La Rioja: gastronomía, servicios y una calidad de vida que enamora. La ciudad donde merece la pena echar raíces.
+Descubre la obra nueva de Manzanos Hábitat en Navarra y La Rioja. Más información en el link de la bio.
+
+#ManzanosHabitat #Logrono #LaRioja #ObraNueva #Inmobiliaria #Vivienda #Inversion #CalidadDeVida
+
+### `22-pamplona.jpg`
+Trabajar cerca de la ciudad, vivir con la calma del campo. 🏡
+La comarca de Pamplona une empleo, servicios y naturaleza en un mismo entorno. El lugar perfecto para tu próxima vivienda en Navarra.
+Conoce los proyectos de obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #Pamplona #Navarra #ObraNueva #Inmobiliaria #Vivienda #Inversion #CalidadDeVida
+
+### `23-tudela.jpg`
+El sur de Navarra crece, y con él tus oportunidades. 🌆
+Tudela, capital de la Ribera: industria, huerta y una ciudad con vida propia que mira al futuro. Un gran lugar para invertir y crecer.
+Obra nueva de Manzanos Hábitat en la Ribera de Navarra. Más información en el link de la bio.
+
+#ManzanosHabitat #Tudela #Navarra #RiberaDeNavarra #ObraNueva #Inmobiliaria #Vivienda #Inversion
+
+### `24-valle-ebro.jpg`
+Donde el Ebro marca el camino, el progreso lo sigue. 🌾
+El corredor del Ebro une Navarra y La Rioja: el eje del empleo, la agroindustria y la oportunidad del norte. Aquí construimos futuro.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #ValleDelEbro #Navarra #LaRioja #ObraNueva #Inversion #Inmobiliaria #Vivienda
+
+### `25-financiacion.jpg`
+El mejor momento para comprar llega cuando tienes un buen plan. 🔑
+Comprar obra nueva con Manzanos Hábitat: financiación, aval bancario y todas las garantías. Te acompañamos en cada paso hacia tu vivienda.
+Más información en el link de la bio.
+
+#ManzanosHabitat #ObraNueva #Financiacion #Hipoteca #Vivienda #Inmobiliaria #Inversion #Navarra
+
+### `26-eficiencia-energetica.jpg`
+Quien construye bien, ahorra toda la vida. ♻️
+La obra nueva de Manzanos Hábitat se entrega con la máxima calificación energética: menos consumo, más confort y más valor para tu hogar.
+Más información en el link de la bio.
+
+#ManzanosHabitat #EficienciaEnergetica #ObraNueva #Sostenibilidad #Vivienda #Navarra #LaRioja #Inmobiliaria
+
 ---
 
-## 8 STORIES
+## 14 STORIES
 
 ### `01-villafranca-story.jpg`
 🏡 MH Villafranca · Reserva por 100 € · Link en bio
@@ -206,3 +248,21 @@ Conoce el proyecto. Bio.
 
 ### `08-entrerios-story.jpg`
 ⏳ MH Entre Ríos · Último ático disponible
+
+### `21-logrono-story.jpg`
+🌇 Logroño · Capital de La Rioja · Obra nueva en Navarra y La Rioja
+
+### `22-pamplona-story.jpg`
+🏡 Comarca de Pamplona · Vivir con la calma del campo
+
+### `23-tudela-story.jpg`
+🌆 Tudela · Capital de la Ribera de Navarra
+
+### `24-valle-ebro-story.jpg`
+🌾 Corredor del Ebro · Navarra y La Rioja · Futuro
+
+### `25-financiacion-story.jpg`
+🔑 Obra nueva con financiación y aval bancario · Link en bio
+
+### `26-eficiencia-energetica-story.jpg`
+♻️ Obra nueva con máxima eficiencia energética
