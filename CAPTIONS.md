@@ -9,7 +9,7 @@ invertir en tu futuro — siempre anclado a un proyecto real en venta o a la zon
 
 ---
 
-## 30 POSTS
+## 36 POSTS
 
 ### `01-villafranca.jpg`
 El esfuerzo de hoy es el hogar de mañana. 🏡
@@ -220,6 +220,48 @@ La obra nueva de Manzanos Hábitat se entrega con la máxima calificación energ
 Más información en el link de la bio.
 
 #ManzanosHabitat #EficienciaEnergetica #ObraNueva #Sostenibilidad #Vivienda #Navarra #LaRioja #Inmobiliaria
+
+### `27-azagra-valor.jpg`
+El valor de una vivienda no es solo lo que cuesta: es lo que se construye a su alrededor. 🏡
+Azagra, en plena Ribera de Navarra, une calidad de vida, servicios y obra nueva pensada para durar.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #Azagra #Navarra #RiberaDeNavarra #ObraNueva #Inmobiliaria #Vivienda #Inversion
+
+### `28-calahorra-ciudad.jpg`
+Hay ciudades que conservan su historia mientras miran hacia adelante. 🏛️
+Calahorra reúne patrimonio, servicios y oportunidad en el corazón de La Rioja Baja. El lugar ideal para tu próxima vivienda.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #Calahorra #LaRioja #ObraNueva #Inmobiliaria #Vivienda #Inversion #Patrimonio
+
+### `29-haro-atalaya.jpg`
+Invertir donde la vida tiene buena vista. 🍇
+Haro, capital del vino de La Rioja, es sinónimo de calidad, prestigio y proyección. Una zona donde elegir obra nueva es también una buena decisión.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #Haro #LaRioja #ObraNueva #Inmobiliaria #Vivienda #Inversion #RiojaAlta
+
+### `30-logrono-casco.jpg`
+En el casco antiguo de Logroño cada calle cuenta una historia; tú escribes la tuya. ✨
+La capital riojana ofrece vida urbana, cultura y gastronomía con la comodidad de una ciudad a medida. Tu hogar te espera.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #Logrono #LaRioja #ObraNueva #Inmobiliaria #Vivienda #Inversion #VidaUrbana
+
+### `31-tafalla.jpg`
+El progreso también se vive en las ciudades medias. 🌳
+Tafalla, en el corazón de Navarra, combina tradición, servicios y tranquilidad a un paso de Pamplona. Un entorno ideal para tu vivienda.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #Tafalla #Navarra #ObraNueva #Inmobiliaria #Vivienda #Inversion #CalidadDeVida
+
+### `32-villafranca-plaza.jpg`
+Construir patrimonio empieza por elegir bien el lugar. 🏡
+Villafranca, en la Ribera de Navarra, ofrece la calma de un pueblo con todos los servicios y a 35 min de Pamplona. Obra nueva pensada para vivir.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #Villafranca #Navarra #RiberaDeNavarra #ObraNueva #Inmobiliaria #Vivienda #Inversion
 
 ---
 
