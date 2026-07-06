@@ -9,7 +9,7 @@ invertir en tu futuro — siempre anclado a un proyecto real en venta o a la zon
 
 ---
 
-## 36 POSTS
+## 42 POSTS
 
 ### `01-villafranca.jpg`
 El esfuerzo de hoy es el hogar de mañana. 🏡
@@ -263,9 +263,51 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 #ManzanosHabitat #Villafranca #Navarra #RiberaDeNavarra #ObraNueva #Inmobiliaria #Vivienda #Inversion
 
+### `33-san-adrian.jpg`
+El progreso se construye donde hay futuro. 🌇
+San Adrián, en la Ribera de Navarra, crece al ritmo de su industria y sus servicios. Una ciudad con proyección donde la obra nueva tiene todo el sentido.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #SanAdrian #Navarra #RiberaDeNavarra #ObraNueva #Inmobiliaria #Vivienda #Inversion
+
+### `34-logrono-obra-nueva.jpg`
+La obra nueva marca el ritmo de una ciudad que crece. 🏗️
+Logroño consolida su mercado de vivienda nueva: calidad, eficiencia y demanda estable en la capital de La Rioja. Un buen momento para dar el paso.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #Logrono #LaRioja #ObraNueva #Inmobiliaria #Vivienda #Inversion #ViviendaNueva
+
+### `35-haro-inversion.jpg`
+Invertir en el corazón del Rioja siempre es buena decisión. 🍇
+Haro, capital del vino de La Rioja Alta, une prestigio, servicios y demanda constante. Su centro es uno de los lugares con más proyección de la zona.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #Haro #LaRioja #RiojaAlta #ObraNueva #Inversion #Inmobiliaria #Vivienda
+
+### `36-tudela-barrios.jpg`
+Conocer la ciudad es el primer paso para elegir bien. 🌆
+Tudela, capital de la Ribera de Navarra, ofrece barrios con carácter propio, servicios y una gran calidad de vida. Elegir dónde vivir también es invertir.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #Tudela #Navarra #RiberaDeNavarra #ObraNueva #Inmobiliaria #Vivienda #Inversion
+
+### `37-impuestos-rioja.jpg`
+Comprar bien también es conocer los números. 🧾
+Comprar vivienda nueva en La Rioja tiene sus impuestos y sus ventajas: planificarlo desde el principio te ayuda a decidir con confianza. Te acompañamos en cada paso.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #LaRioja #ObraNueva #Vivienda #Inmobiliaria #ComprarVivienda #Inversion #ViviendaNueva
+
+### `38-vivienda-sostenible.jpg`
+El hogar del futuro se construye con conciencia. ♻️
+Vivienda sostenible en la Ribera de Navarra: eficiencia energética, confort y menos consumo para toda la vida. Construir bien es cuidar tu bolsillo y tu entorno.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #Sostenibilidad #ObraNueva #EficienciaEnergetica #RiberaDeNavarra #Navarra #Vivienda #Inmobiliaria
+
 ---
 
-## 14 STORIES
+## 20 STORIES
 
 ### `01-villafranca-story.jpg`
 🏡 MH Villafranca · Reserva por 100 € · Link en bio
@@ -308,3 +350,21 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 ### `26-eficiencia-energetica-story.jpg`
 ♻️ Obra nueva con máxima eficiencia energética
+
+### `33-san-adrian-story.jpg`
+🌇 San Adrián · Ribera de Navarra · Ciudad con futuro
+
+### `34-logrono-obra-nueva-story.jpg`
+🏗️ Logroño · Obra nueva en la capital de La Rioja
+
+### `35-haro-inversion-story.jpg`
+🍇 Haro · Invertir en el corazón del Rioja Alta
+
+### `36-tudela-barrios-story.jpg`
+🌆 Tudela · Barrios con carácter en la Ribera de Navarra
+
+### `37-impuestos-rioja-story.jpg`
+🧾 Comprar vivienda nueva en La Rioja · Link en bio
+
+### `38-vivienda-sostenible-story.jpg`
+♻️ Vivienda sostenible en la Ribera de Navarra
