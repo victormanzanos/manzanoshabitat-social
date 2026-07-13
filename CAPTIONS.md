@@ -9,7 +9,7 @@ invertir en tu futuro — siempre anclado a un proyecto real en venta o a la zon
 
 ---
 
-## 42 POSTS
+## 48 POSTS
 
 ### `01-villafranca.jpg`
 El esfuerzo de hoy es el hogar de mañana. 🏡
@@ -305,9 +305,51 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 #ManzanosHabitat #Sostenibilidad #ObraNueva #EficienciaEnergetica #RiberaDeNavarra #Navarra #Vivienda #Inmobiliaria
 
+### `39-obra-nueva-segunda-mano.jpg`
+Elegir obra nueva es elegir tranquilidad. 🏡
+Frente a la segunda mano, la obra nueva ofrece eficiencia, garantías y espacios pensados para la vida de hoy. Estrenar tu hogar es empezar sin sorpresas.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #ObraNueva #Vivienda #Inmobiliaria #Navarra #LaRioja #ComprarVivienda #ViviendaNueva
+
+### `40-orientacion-luz.jpg`
+La luz también se elige al comprar tu casa. ☀️
+Una buena orientación aporta luz natural, ahorro energético y bienestar durante todo el año. En Manzanos Hábitat diseñamos cada vivienda para aprovecharla al máximo.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #ObraNueva #LuzNatural #EficienciaEnergetica #Vivienda #Inmobiliaria #Navarra #LaRioja
+
+### `41-jardin-verano.jpg`
+El verano se disfruta más en casa propia. 🌿
+Jardines, terrazas y zonas verdes para vivir al aire libre en la Ribera. Espacios pensados para disfrutar en familia en cada estación del año.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #ObraNueva #RiberaDeNavarra #Navarra #Vivienda #Inmobiliaria #CalidadDeVida #ViviendaNueva
+
+### `42-logrono-espolon.jpg`
+Vivir en Logroño es vivir su ritmo. 🌳
+El Espolón, corazón verde de la capital de La Rioja, resume su calidad de vida: parques, cultura y buena gastronomía a un paso de casa.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #Logrono #LaRioja #ObraNueva #Vivienda #Inmobiliaria #CalidadDeVida #Inversion
+
+### `43-villafranca-zonas-comunes.jpg`
+Una urbanización que se vive más allá de tu puerta. 🌳
+En MH Villafranca, las zonas comunes están pensadas para compartir: espacios cuidados donde disfrutar del día a día en comunidad.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #Villafranca #Navarra #ObraNueva #Vivienda #Inmobiliaria #ZonasComunes #CalidadDeVida
+
+### `44-calahorra-2026.jpg`
+2026 es un buen momento para comprar en Calahorra. 🌆
+Segunda ciudad de La Rioja, une servicios, empleo y proyección de futuro. Una gran oportunidad para invertir en obra nueva con buena relación calidad-precio.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #Calahorra #LaRioja #ObraNueva #Vivienda #Inmobiliaria #Inversion #ComprarVivienda
+
 ---
 
-## 20 STORIES
+## 26 STORIES
 
 ### `01-villafranca-story.jpg`
 🏡 MH Villafranca · Reserva por 100 € · Link en bio
@@ -368,3 +410,21 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 ### `38-vivienda-sostenible-story.jpg`
 ♻️ Vivienda sostenible en la Ribera de Navarra
+
+### `39-obra-nueva-segunda-mano-story.jpg`
+🏡 Obra nueva vs segunda mano · Estrenar sin sorpresas
+
+### `40-orientacion-luz-story.jpg`
+☀️ Orientación y luz natural · Obra nueva bien diseñada
+
+### `41-jardin-verano-story.jpg`
+🌿 Jardines y terrazas · Vivir al aire libre en la Ribera
+
+### `42-logrono-espolon-story.jpg`
+🌳 Logroño · El Espolón, corazón de La Rioja
+
+### `43-villafranca-zonas-comunes-story.jpg`
+🌳 MH Villafranca · Zonas comunes para disfrutar
+
+### `44-calahorra-2026-story.jpg`
+🌆 Calahorra · Comprar obra nueva en 2026 · Link en bio
