@@ -9,7 +9,7 @@ invertir en tu futuro — siempre anclado a un proyecto real en venta o a la zon
 
 ---
 
-## 48 POSTS
+## 54 POSTS
 
 ### `01-villafranca.jpg`
 El esfuerzo de hoy es el hogar de mañana. 🏡
@@ -347,9 +347,51 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 #ManzanosHabitat #Calahorra #LaRioja #ObraNueva #Vivienda #Inmobiliaria #Inversion #ComprarVivienda
 
+### `45-san-adrian-plaza-mh.jpg`
+Construir futuro también es elegir dónde vivirlo. 🏘️
+San Adrián combina la tranquilidad de la Ribera con servicios de ciudad y una economía industrial sólida. Un entorno con proyección para asentar tu proyecto de vida.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #SanAdrian #Navarra #ObraNueva #Vivienda #Inmobiliaria #RiberaDeNavarra #ComprarVivienda
+
+### `46-passivhaus-tudela.jpg`
+La eficiencia no se ve, se nota cada mes. 🌿
+La obra nueva de alto rendimiento energético reduce el consumo y mejora el confort durante todo el año. Invertir en eficiencia es invertir en el largo plazo.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #Tudela #Navarra #ObraNueva #EficienciaEnergetica #Vivienda #Sostenibilidad #Inmobiliaria
+
+### `47-villafranca-vivir.jpg`
+Una casa con jardín, a 35 minutos de Pamplona. 🏡
+MH Villafranca es vivienda unifamiliar en la Ribera de Navarra: espacio propio, urbanización privada y la calma de un municipio con vida.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #Villafranca #Navarra #ObraNueva #ViviendaNueva #Unifamiliar #RiberaDeNavarra #Inmobiliaria
+
+### `48-haro-plaza-mayor.jpg`
+Haro: capital del vino, ciudad para vivir. 🍇
+Patrimonio, gastronomía y una calidad de vida difícil de igualar en La Rioja Alta. Un destino consolidado que mantiene su atractivo residencial.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #Haro #LaRioja #ObraNueva #Vivienda #Inmobiliaria #CalidadDeVida #Inversion
+
+### `49-logrono-portales.jpg`
+Vivir en Logroño es vivir a pie de calle. 🌆
+Capital de La Rioja, con todo a distancia caminable: comercio, cultura y servicios. Una ciudad a escala humana donde el día a día funciona.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #Logrono #LaRioja #ObraNueva #Vivienda #Inmobiliaria #CalidadDeVida #ComprarVivienda
+
+### `50-personalizar-interior.jpg`
+Comprar sobre plano tiene una ventaja: decides tú. ✨
+Acabados, distribución, materiales. La obra nueva permite ajustar la vivienda a tu forma de vivir antes de que esté terminada.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #ObraNueva #Vivienda #Inmobiliaria #Navarra #LaRioja #SobrePlano #ViviendaNueva
+
 ---
 
-## 26 STORIES
+## 32 STORIES
 
 ### `01-villafranca-story.jpg`
 🏡 MH Villafranca · Reserva por 100 € · Link en bio
@@ -428,3 +470,21 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 ### `44-calahorra-2026-story.jpg`
 🌆 Calahorra · Comprar obra nueva en 2026 · Link en bio
+
+### `45-san-adrian-plaza-mh-story.jpg`
+🏘️ San Adrián · Obra nueva en la Ribera · Link en bio
+
+### `46-passivhaus-tudela-story.jpg`
+🌿 Alta eficiencia energética · Menos consumo, más confort
+
+### `47-villafranca-vivir-story.jpg`
+🏡 MH Villafranca · Unifamiliares con jardín · Link en bio
+
+### `48-haro-plaza-mayor-story.jpg`
+🍇 Haro · Vivir en La Rioja Alta · Link en bio
+
+### `49-logrono-portales-story.jpg`
+🌆 Logroño · Ciudad a escala humana · Link en bio
+
+### `50-personalizar-interior-story.jpg`
+✨ Sobre plano · Personaliza tu vivienda · Link en bio
