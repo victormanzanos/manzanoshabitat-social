@@ -164,6 +164,12 @@ def api(path, params, method="POST"):
         with urllib.request.urlopen(req) as r: return json.load(r)
     except urllib.error.HTTPError as e:
         return {"_http_error": e.code, "body": e.read().decode()}
+    except Exception as e:
+        # WHY: un fallo de red (URLError/DNS/timeout) NUNCA debe propagar y matar el
+        # script. El 2026-07-05 un URLError al pedir el permalink DESPUÉS de que
+        # media_publish ya había publicado el post crasheó main() antes de save_state();
+        # el estado no se guardó y el post de Haro se republicó el 07-07 (duplicado).
+        return {"_net_error": str(e)}
 
 def wait_ready(cid):
     for _ in range(20):
@@ -183,7 +189,11 @@ def publish_image(url, caption=None, story=False):
     r = api(f"{IGID}/media_publish", {"creation_id": cid, "access_token": TOK})
     mid = r.get("id")
     if not mid: return {"error": r}
-    return api(mid, {"fields": "permalink", "access_token": TOK}, "GET")
+    # El post YA está publicado (tenemos mid). El permalink es informativo: si su
+    # fetch falla (red), devolvemos igualmente el id para que el caller marque el
+    # post como OK y persista el estado — así no se republica al día siguiente.
+    perma = api(mid, {"fields": "permalink", "access_token": TOK}, "GET")
+    return {"id": mid, "permalink": perma.get("permalink")}
 
 
 # ── EMAIL RESUMEN ─────────────────────────────────────────────────────────
@@ -205,6 +215,28 @@ def email_summary(html, post_path, story_path, subject):
                           context=ssl.create_default_context()) as srv:
         srv.login("assistant@manzanosenterprises.com", pw)
         srv.send_message(msg)
+
+
+# ── IDEMPOTENCIA SERVER-SIDE (evita post duplicado aunque falle el estado) ─
+def caption_body(cap):
+    """Cuerpo del caption sin las líneas de hashtags (estable frente a rotación)."""
+    lines = []
+    for ln in (cap or "").split("\n"):
+        toks = ln.split()
+        if toks and all(t.startswith("#") for t in toks):
+            continue
+        lines.append(ln)
+    return "\n".join(lines).strip()
+
+def latest_post_body():
+    """Cuerpo (sin hashtags) del último post del feed, o None si no se puede leer.
+    Fail-open: ante cualquier error de red devuelve None y NO bloquea la publicación."""
+    ensure_creds()
+    r = api(f"{IGID}/media", {"fields": "caption", "limit": "1", "access_token": TOK}, "GET")
+    data = r.get("data") if isinstance(r, dict) else None
+    if not data:
+        return None
+    return caption_body(data[0].get("caption"))
 
 
 # ── CAPTION ROTATION (anti-spam hashtags) ─────────────────────────────────
@@ -258,6 +290,19 @@ def main():
     if s.get("last_date") == today:
         print(f"Ya se publicó hoy ({today}).")
         return
+    # Idempotencia server-side: si el post de marca de hoy YA es el último del feed
+    # (p. ej. el estado se perdió/corrompió), NO republicar — solo re-sincronizar el
+    # estado y salir. Defensa extra contra el duplicado del 07-07. Solo para posts de
+    # marca (la foto real cambia de imagen cada vez). Fail-open ante error de red.
+    if not do_real:
+        body_today = caption_body(cap)
+        if body_today and latest_post_body() == body_today:
+            print("Post de hoy YA es el último del feed (idempotencia API) — re-sincronizo estado, no republico.")
+            s["last_date"] = today
+            s["post"] += 1
+            s["since_real"] = s.get("since_real", 0) + 1
+            save_state(s)
+            return
     if datetime.datetime.now().hour < 14 and random.random() < 0.40:
         print("Aplazo a franja posterior (rompe patrón horario).")
         return
@@ -272,7 +317,9 @@ def main():
             url = gh_upload(real_path, f"{base}-{h}{ext.lower()}")
             time.sleep(5)
             pr = publish_image(url, caption=real_cap)
-            if pr.get("permalink"):
+            # WHY: id basta — el post YA está publicado aunque el fetch del permalink
+            # falle por red; sin esto se publicaba TAMBIÉN el post de marca (duplicado)
+            if pr.get("permalink") or pr.get("id"):
                 is_real = True; cap = real_cap; post_url = url
             else:
                 print("Foto real falló, fallback a marca:", json.dumps(pr)[:200])
@@ -283,11 +330,11 @@ def main():
     else:
         pr = publish_image(post_url, caption=cap)
 
-    time.sleep(random.randint(20, 120))  # gap humano antes del story
-    sr = publish_image(story_url, story=True)
-
-    post_ok  = bool(pr.get("permalink"))
-    story_ok = bool(sr.get("permalink") or sr.get("id"))
+    # WHY: persistir el estado JUSTO cuando el post está confirmado publicado
+    # (tenemos permalink o id), ANTES de publicar el story / enviar el email. Si
+    # algún paso posterior crashea (red, etc.), last_date ya está guardado y el post
+    # NO se republicará al día siguiente. `id` cuenta como OK aunque falte permalink.
+    post_ok = bool(pr.get("permalink") or pr.get("id"))
     if post_ok:
         s["last_date"] = today
         if is_real:
@@ -295,11 +342,18 @@ def main():
         else:
             s["post"] += 1
             s["since_real"] = s.get("since_real", 0) + 1
+        save_state(s)
+
+    time.sleep(random.randint(20, 120))  # gap humano antes del story
+    sr = publish_image(story_url, story=True)
+    story_ok = bool(sr.get("permalink") or sr.get("id"))
     if story_ok:
         s["story"] += 1
-    save_state(s)
+        save_state(s)
 
-    plink = pr.get("permalink") or ("ERROR: " + json.dumps(pr)[:220])
+    plink = (pr.get("permalink")
+             or (f"publicado (id {pr.get('id')}, permalink no disponible)" if pr.get("id")
+                 else "ERROR: " + json.dumps(pr)[:220]))
     sok   = "publicada ✅" if story_ok else ("ERROR: " + json.dumps(sr)[:220])
     print("post:", plink, "(real)" if is_real else "(marca)")
     print("story:", sok)
