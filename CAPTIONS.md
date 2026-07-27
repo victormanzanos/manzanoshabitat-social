@@ -9,7 +9,7 @@ invertir en tu futuro — siempre anclado a un proyecto real en venta o a la zon
 
 ---
 
-## 54 POSTS
+## 60 POSTS
 
 ### `01-villafranca.jpg`
 El esfuerzo de hoy es el hogar de mañana. 🏡
@@ -391,7 +391,61 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 ---
 
-## 32 STORIES
+### `51-garantias-obra-nueva.jpg`
+Estrenar vivienda es también estrenar tranquilidad. 🔑
+La obra nueva llega con garantías que la segunda mano no ofrece: seguro decenal, memoria de calidades y todo por estrenar. Comprar sobre plano con el respaldo de una promotora consolidada.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #ObraNueva #Vivienda #Inmobiliaria #Navarra #LaRioja #ViviendaNueva #Garantias
+
+---
+
+### `52-personalizar-calidades.jpg`
+Una vivienda a tu medida empieza por las calidades. ✨
+Comprar sobre plano te permite elegir acabados y materiales antes de que la obra esté terminada. Detalles que marcan la diferencia en el día a día.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #ObraNueva #Calidades #Vivienda #Inmobiliaria #Navarra #LaRioja #SobrePlano
+
+---
+
+### `53-amueblar-casa-nueva.jpg`
+El placer de estrenar y empezar de cero. 🏡
+Una vivienda nueva es un lienzo en blanco: espacios diáfanos, distribución actual y todo listo para hacerlo tuyo. Así es vivir en obra nueva.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #ObraNueva #Vivienda #Interiorismo #Inmobiliaria #Navarra #LaRioja #ViviendaNueva
+
+---
+
+### `54-mh-azagra-unifamiliar.jpg`
+MH Azagra: vivir en unifamiliar en el corazón de la Ribera. 🌿
+Chalets de obra nueva con jardín, en un entorno tranquilo de Navarra. La comodidad de una casa a estrenar, pensada para la vida en familia.
+Descubre MH Azagra. Más información en el link de la bio.
+
+#ManzanosHabitat #MHAzagra #Azagra #Navarra #ObraNueva #Unifamiliar #Vivienda #Inmobiliaria
+
+---
+
+### `55-san-adrian-asequible.jpg`
+San Adrián, obra nueva en una Ribera con futuro. 🌇
+Una localidad con fuerte tejido industrial y buena calidad de vida, ideal para quienes buscan estrenar vivienda sin renunciar a la cercanía. Vivir en la Ribera de Navarra.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #SanAdrian #Navarra #ObraNueva #Vivienda #Inmobiliaria #Ribera #ViviendaNueva
+
+---
+
+### `56-ahorro-vivienda-nueva.jpg`
+Comprar obra nueva también es una decisión inteligente. 💡
+Mayor eficiencia energética, menos mantenimiento y una vivienda que conserva mejor su valor con el tiempo. Estrenar suma a largo plazo.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #ObraNueva #Vivienda #Inversion #Eficiencia #Inmobiliaria #Navarra #LaRioja
+
+---
+
+## 38 STORIES
 
 ### `01-villafranca-story.jpg`
 🏡 MH Villafranca · Reserva por 100 € · Link en bio
@@ -488,3 +542,22 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 ### `50-personalizar-interior-story.jpg`
 ✨ Sobre plano · Personaliza tu vivienda · Link en bio
+
+### `51-garantias-obra-nueva-story.jpg`
+🔑 Obra nueva con garantías · Estrena con tranquilidad
+
+### `52-personalizar-calidades-story.jpg`
+✨ Personaliza las calidades de tu vivienda · Sobre plano
+
+### `53-amueblar-casa-nueva-story.jpg`
+🏡 Estrena vivienda · Un lienzo en blanco para hacerlo tuyo
+
+### `54-mh-azagra-unifamiliar-story.jpg`
+🌿 MH Azagra · Unifamiliares de obra nueva en la Ribera
+
+### `55-san-adrian-asequible-story.jpg`
+🌇 San Adrián · Obra nueva en la Ribera de Navarra · Link en bio
+
+### `56-ahorro-vivienda-nueva-story.jpg`
+💡 Obra nueva · Eficiencia y valor a largo plazo · Link en bio
+
