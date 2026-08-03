@@ -9,7 +9,7 @@ invertir en tu futuro — siempre anclado a un proyecto real en venta o a la zon
 
 ---
 
-## 60 POSTS
+## 83 POSTS
 
 ### `01-villafranca.jpg`
 El esfuerzo de hoy es el hogar de mañana. 🏡
@@ -445,7 +445,169 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 ---
 
-## 38 STORIES
+
+### `g28d-01.jpg`
+El lujo está en los detalles que no se ven a la primera. ✨
+Cocina de MH Grande 28 con electrodomésticos de primeras firmas y acabados de mármol natural. 4 residencias de 350 m² en el centro histórico de Calahorra.
+Descúbrela en la bio.
+
+#ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #ViviendaDeLujo #Interiorismo #CocinaDeLujo #ObraNueva
+
+### `g28d-02.jpg`
+Construye con la calma de quien sabe lo que quiere. 🏛️
+Cada rincón de MH Grande 28 está pensado al milímetro: luz, materiales nobles y espacio de sobra. La promoción más exclusiva de La Rioja.
+Bio para más.
+
+#ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #ViviendaDeLujo #Arquitectura #Interiorismo #Exclusivo
+
+### `g28d-03.jpg`
+El éxito también se cocina en casa. 👨‍🍳
+Isla de cocina con mármol y madera noble en MH Grande 28, Calahorra. 350 m² por residencia, solo 4 propietarios.
+Solicita información en la bio.
+
+#ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #CocinaDeLujo #Interiorismo #ViviendaDeLujo #Lifestyle
+
+### `g28d-04.jpg`
+Los grandes proyectos se disfrutan en los pequeños momentos. 🥂
+Detalle interior de MH Grande 28: diseño editorial, materiales de primera y domótica integrada en pleno centro de Calahorra.
+Link en la bio.
+
+#ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #ViviendaDeLujo #Domotica #Interiorismo #ObraNueva
+
+### `g28d-05.jpg`
+Que tu casa hable de ti sin decir una palabra. 🤍
+Texturas, luz cálida y proporciones generosas: así es el interior de MH Grande 28. 4 residencias únicas en La Rioja.
+Más en la bio.
+
+#ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #Interiorismo #DiseñoInterior #ViviendaDeLujo #Exclusivo
+
+### `g28d-06.jpg`
+Invertir en calidad nunca pasa de moda. 📈
+MH Grande 28: acabados nobles, suelo radiante, aerotermia y spa privado del edificio. El lujo que se revaloriza.
+Descubre cómo en la bio.
+
+#ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #Inversion #ViviendaDeLujo #ObraNueva #Patrimonio
+
+### `g28d-07.jpg`
+Un hogar a la altura de tu esfuerzo. 🌟
+Detalle del interior de MH Grande 28 en Calahorra: cada material elegido para durar generaciones.
+Solo 4 residencias. Bio.
+
+#ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #ViviendaDeLujo #Interiorismo #Calidad #Exclusivo
+
+### `g28d-08.jpg`
+La elegancia es una forma de pensar. 🏛️
+Interior de MH Grande 28: arquitectura clásica por fuera, vanguardia por dentro. El equilibrio perfecto en el centro histórico de Calahorra.
+Bio para saber más.
+
+#ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #Arquitectura #Interiorismo #ViviendaDeLujo #ObraNueva
+
+### `g28d-09.jpg`
+Espacios que inspiran a quien los habita. 💫
+350 m² por residencia en MH Grande 28: luz natural, techos altos y diseño sin concesiones.
+La Rioja nunca tuvo algo así. Bio.
+
+#ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #ViviendaDeLujo #DiseñoInterior #Exclusivo #Lifestyle
+
+### `g28d-10.jpg`
+Lo extraordinario empieza donde acaba lo estándar. ✨
+Detalle de MH Grande 28, la promoción más exclusiva de La Rioja: 4 residencias, una por planta, en pleno centro de Calahorra.
+Link en bio.
+
+#ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #ViviendaDeLujo #Exclusivo #ObraNueva #Interiorismo
+
+### `g28d-11.jpg`
+Cada amanecer merece un escenario así. 🌅
+Interior de MH Grande 28: materiales que envejecen bien y espacios que se disfrutan todos los días.
+Descúbrelo en la bio.
+
+#ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #Interiorismo #ViviendaDeLujo #Hogar #Lifestyle
+
+### `g28d-12.jpg`
+El detalle es el nuevo lujo. 🖤
+MH Grande 28, Calahorra: iluminación pensada, mármol natural y carpintería a medida en cada residencia.
+Solo 4. Bio.
+
+#ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #ViviendaDeLujo #Interiorismo #DiseñoInterior #Exclusivo
+
+### `g28d-13.jpg`
+Hay casas que se enseñan y hogares que se presumen. 🏆
+Detalle del proyecto MH Grande 28 en el casco histórico de Calahorra. Domótica, aerotermia y acabados premium.
+Más en bio.
+
+#ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #ViviendaDeLujo #Domotica #ObraNueva #Lifestyle
+
+### `g28d-14.jpg`
+Diseñado para quien no necesita impresionar a nadie. 🤍
+La discreción del verdadero lujo: interior de MH Grande 28, Calahorra. 4 residencias de 350 m².
+Bio para más información.
+
+#ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #ViviendaDeLujo #Exclusivo #Interiorismo #Elegancia
+
+### `g28d-15.jpg`
+El futuro pertenece a los que construyen hoy. 🔑
+MH Grande 28: la oportunidad de vivir (o invertir) en la promoción más exclusiva de La Rioja.
+Reserva tu visita en la bio.
+
+#ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #Inversion #ViviendaDeLujo #ObraNueva #Patrimonio
+
+### `g28d-16.jpg`
+Las mejores decisiones se toman en espacios que inspiran. 💭
+Detalle interior de MH Grande 28, Calahorra: luz, orden y materiales que hablan por sí solos.
+Descúbrelo en la bio.
+
+#ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #Interiorismo #DiseñoInterior #ViviendaDeLujo #Calma
+
+### `g28d-17.jpg`
+El lujo silencioso también existe en La Rioja. 🌾
+MH Grande 28: sin estridencias, solo calidad en cada centímetro. 4 residencias en el centro histórico de Calahorra.
+Bio.
+
+#ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #QuietLuxury #ViviendaDeLujo #Exclusivo #Interiorismo
+
+### `g28d-18.jpg`
+Tu próximo capítulo merece este escenario. 📖
+Interior de MH Grande 28: pensado para vivirse a diario y disfrutarse siempre.
+Solo 4 residencias. Link en bio.
+
+#ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #ViviendaDeLujo #Hogar #Lifestyle #ObraNueva
+
+### `g28d-19.jpg`
+La excelencia no grita: susurra. ✨
+Detalle de MH Grande 28 en Calahorra — carpintería a medida, iluminación de autor y mármol natural.
+Más en la bio.
+
+#ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #Interiorismo #ViviendaDeLujo #DiseñoInterior #Elegancia
+
+### `g28d-20.jpg`
+Vivir bien es el mejor plan de negocio. 📊
+MH Grande 28: 350 m² de residencia, spa y gimnasio privados, rooftop con piscina. Centro histórico de Calahorra.
+Infórmate en la bio.
+
+#ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #Inversion #ViviendaDeLujo #Lifestyle #Exclusivo
+
+### `g28d-21.jpg`
+Los clásicos nunca pasan de moda. Los buenos materiales tampoco. 🏛️
+Interior de MH Grande 28, la promoción más exclusiva de La Rioja.
+Descúbrela en la bio.
+
+#ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #Arquitectura #ViviendaDeLujo #Interiorismo #ObraNueva
+
+### `g28d-22.jpg`
+El hogar como obra de arte habitable. 🖼️
+Cada residencia de MH Grande 28 ocupa una planta completa: luz, volumen y detalle en el corazón de Calahorra.
+Bio para más.
+
+#ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #ViviendaDeLujo #DiseñoInterior #Exclusivo #Arte
+
+### `g28d-23.jpg`
+Cuando el trabajo bien hecho se convierte en hogar. 🥂
+MH Grande 28, Calahorra: 4 residencias de lujo, spa privado, rooftop con piscina y el casco histórico a tus pies.
+Reserva información en la bio.
+
+#ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #ViviendaDeLujo #Rooftop #Exclusivo #LaRiojaApetece
+
+## 46 STORIES
 
 ### `01-villafranca-story.jpg`
 🏡 MH Villafranca · Reserva por 100 € · Link en bio
@@ -561,3 +723,26 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 ### `56-ahorro-vivienda-nueva-story.jpg`
 💡 Obra nueva · Eficiencia y valor a largo plazo · Link en bio
 
+### `g28d-01-story.jpg`
+✨ MH Grande 28 · Detalles de lujo · Calahorra
+
+### `g28d-02-story.jpg`
+🏛️ La promoción más exclusiva de La Rioja · Link en bio
+
+### `g28d-03-story.jpg`
+🤍 350 m² de diseño por residencia · MH Grande 28
+
+### `g28d-04-story.jpg`
+🥂 Solo 4 residencias · Centro histórico de Calahorra
+
+### `g28d-05-story.jpg`
+🔑 Domótica, aerotermia y acabados nobles · Bio
+
+### `g28d-06-story.jpg`
+💫 El lujo silencioso existe · MH Grande 28
+
+### `g28d-07-story.jpg`
+🌅 Interior de autor en Calahorra · Link en bio
+
+### `g28d-08-story.jpg`
+🏆 MH Grande 28 · Una residencia por planta · La Rioja
