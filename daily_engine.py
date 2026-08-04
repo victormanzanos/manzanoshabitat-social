@@ -380,5 +380,36 @@ def main():
     )
 
 
+
+# ── ERP SOCIAL HUB (agolfcars.com/erp → vista Social) ─────────────────────
+# El equipo puede BLOQUEAR tarjetas o CORREGIR captions desde el ERP; este motor
+# consulta esos controles justo antes de publicar. Fail-open: sin red, sin
+# secreto o con respuesta rara → la rotación sigue intacta. (2026-08-04)
+def _hub_controls():
+    import os as _os, json as _json, subprocess as _sp, urllib.request as _ur, urllib.parse as _up
+    try:
+        sec = _sp.check_output([_os.path.expanduser("~/Code/CyberSecurity/scripts/secrets.sh"),
+                                "get", "AGC_SOCIAL_SYNC_SECRET"], timeout=15).decode().strip()
+        if not sec:
+            return set(), {}
+        q = _up.urlencode({"handle": "manzanoshabitat", "secret": sec})
+        req = _ur.Request("https://agolfcars.com/api/social-sync.php?" + q,
+                          headers={"User-Agent": "Mozilla/5.0 (social-engine)"})
+        with _ur.urlopen(req, timeout=8) as r:
+            d = _json.load(r)
+        ov = d.get("overrides") or {}
+        return set(d.get("blocked") or []), (ov if isinstance(ov, dict) else {})
+    except Exception:
+        return set(), {}
+
+_HUB_BLOCKED, _HUB_OVERRIDES = (set(), {}) if os.environ.get("DRY") == "1" else _hub_controls()
+if _HUB_BLOCKED or _HUB_OVERRIDES:
+    def _hub_tuples(lst):
+        kept = [(f, _HUB_OVERRIDES.get(f, c)) for f, c in lst if f not in _HUB_BLOCKED]
+        return kept or lst  # nunca vaciar una baraja entera
+    POSTS[:] = _hub_tuples(POSTS)
+    STORIES[:] = _hub_tuples(STORIES)
+    STORY_FILES[:] = [fn for fn, _ in STORIES]
+
 if __name__ == "__main__":
     main()
