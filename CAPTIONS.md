@@ -144,6 +144,27 @@ Obra nueva con futuro. Link en la bio.
 
 #ManzanosHabitat #Aerotermia #EficienciaEnergetica #ObraNueva #Sostenibilidad #Navarra #LaRioja #Ahorro
 
+### `g28-launch-fachada.jpg`
+Ya disponible: lo más exclusivo de La Rioja. 🏛️
+Lanzamos MH Grande 28, en pleno centro histórico de Calahorra. 4 viviendas únicas de 350 m², con 6 habitaciones, 7 baños y 3 plazas de parking cada una.
+Quedan 3 de 4. Resérvala por 10.000 € reembolsables. Link en la bio.
+
+#ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #ObraNueva #ViviendaDeLujo #Exclusivo #Inversion
+
+### `g28-launch-rooftop.jpg`
+El éxito también se disfruta en las alturas. 🌅
+El rooftop privado de MH Grande 28: piscina, solárium y vistas sobre el casco histórico de Calahorra. Tu recompensa, sobre el cielo de La Rioja.
+4 viviendas de lujo, solo 3 disponibles. Bio.
+
+#ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #Rooftop #PiscinaPrivada #ViviendaDeLujo #Lifestyle
+
+### `g28-launch-interior.jpg`
+El lujo está en cada detalle. ✨
+Interiores de 350 m² en MH Grande 28: mármol natural, madera noble, suelo radiante, domótica y cocina de alta gama. Acabados premium incluidos, solo a falta de mobiliario.
+La promoción más exclusiva de Calahorra. Link en la bio.
+
+#ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #ViviendaDeLujo #DiseñoInterior #ObraNueva #Exclusivo
+
 ### `20-sobre-plano.jpg`
 Los que se adelantan, ganan. 📐
 Comprar sobre plano con Manzanos Hábitat: mejor precio, personalización y aval bancario. Tu vivienda de obra nueva con todas las garantías.
