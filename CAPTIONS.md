@@ -687,6 +687,15 @@ Reserva información en la bio.
 ### `37-impuestos-rioja-story.jpg`
 🧾 Comprar vivienda nueva en La Rioja · Link en bio
 
+### `g28-story-fachada.jpg`
+🏛️ Ya disponible: MH Grande 28 · Lujo en el centro histórico de Calahorra · Link en bio
+
+### `g28-story-rooftop.jpg`
+🌅 Rooftop privado con piscina y solárium · MH Grande 28, Calahorra · Link en bio
+
+### `g28-story-interior.jpg`
+✨ 350 m² de acabados premium · MH Grande 28 · Solo quedan 3 de 4 · Link en bio
+
 ### `38-vivienda-sostenible-story.jpg`
 ♻️ Vivienda sostenible en la Ribera de Navarra
 
