@@ -9,8 +9,7 @@ invertir en tu futuro — siempre anclado a un proyecto real en venta o a la zon
 
 ---
 
-## 83 POSTS
-
+## 89 POSTS
 ### `01-villafranca.jpg`
 El esfuerzo de hoy es el hogar de mañana. 🏡
 MH Villafranca: 34 viviendas unifamiliares con piscina, pádel y jardín privado en la Ribera de Navarra. A 35 min de Pamplona.
@@ -628,8 +627,61 @@ Reserva información en la bio.
 
 #ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #ViviendaDeLujo #Rooftop #Exclusivo #LaRiojaApetece
 
-## 46 STORIES
+### `63-villafranca-comparativa.jpg`
+Estrenar cuesta menos de lo que imaginas. 🏡
+MH Villafranca: obra nueva con piscina, pádel y jardín en la Ribera de Navarra, a 35 minutos de Pamplona. Comparar merece la pena cuando la calidad y la eficiencia están de tu lado.
+Descubre MH Villafranca. Más información en el link de la bio.
 
+#ManzanosHabitat #MHVillafranca #Villafranca #Navarra #ObraNueva #Vivienda #Inmobiliaria #RiberaDeNavarra
+
+---
+
+### `64-san-adrian-industria.jpg`
+Donde crece la industria, crece el hogar. 🏭
+San Adrián es una de las localidades con mayor tejido industrial de la Ribera de Navarra: empleo, servicios y calidad de vida para quien busca estrenar vivienda cerca de todo.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #SanAdrian #Navarra #ObraNueva #Vivienda #Ribera #Inmobiliaria #ViviendaNueva
+
+---
+
+### `65-rentabilidad-ribera.jpg`
+Tu vivienda también puede trabajar para ti. 📈
+La Ribera de Navarra combina precios competitivos y demanda estable de alquiler. Comprar obra nueva es invertir en un activo que conserva su valor y suma a largo plazo.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #Inversion #Rentabilidad #ObraNueva #RiberaDeNavarra #Navarra #Vivienda #Inmobiliaria
+
+---
+
+### `66-logrono-ramblasque.jpg`
+Vivir en Logroño, capital de La Rioja. 🌇
+El dinamismo de la capital riojana con la calidad de vida que buscas. Obra nueva en Navarra y La Rioja para quienes quieren estrenar en el mejor entorno.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #Logrono #LaRioja #ObraNueva #Vivienda #Inmobiliaria #ViviendaNueva #Inversion
+
+---
+
+### `67-tudela-nuevo-barrio.jpg`
+Tudela crece hacia el futuro. 🏗️
+Capital de la Ribera de Navarra, Tudela suma nuevos barrios y obra nueva pensada para la vida de hoy: espacios eficientes, luminosos y bien conectados.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #Tudela #Navarra #ObraNueva #RiberaDeNavarra #Vivienda #Inmobiliaria #ViviendaNueva
+
+---
+
+### `68-aval-primera-vivienda.jpg`
+Tu primera vivienda está más cerca de lo que crees. 🔑
+Con los avales y ayudas para el acceso a la primera vivienda, estrenar obra nueva es una meta al alcance. Planifica, invierte en tu futuro y da el paso.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #PrimeraVivienda #ObraNueva #Financiacion #Navarra #LaRioja #Vivienda #Inmobiliaria
+
+---
+
+## 52 STORIES
 ### `01-villafranca-story.jpg`
 🏡 MH Villafranca · Reserva por 100 € · Link en bio
 
@@ -776,3 +828,21 @@ Reserva información en la bio.
 
 ### `g28d-08-story.jpg`
 🏆 MH Grande 28 · Una residencia por planta · La Rioja
+
+### `63-villafranca-comparativa-story.jpg`
+🏡 MH Villafranca · Obra nueva con piscina y pádel en la Ribera · Link en bio
+
+### `64-san-adrian-industria-story.jpg`
+🏭 San Adrián · Obra nueva en la Ribera industrial de Navarra
+
+### `65-rentabilidad-ribera-story.jpg`
+📈 Invertir en obra nueva · Rentabilidad en la Ribera de Navarra · Link en bio
+
+### `66-logrono-ramblasque-story.jpg`
+🌇 Logroño · Capital de La Rioja · Obra nueva en Navarra y La Rioja
+
+### `67-tudela-nuevo-barrio-story.jpg`
+🏗️ Tudela · Nuevos barrios en la capital de la Ribera de Navarra
+
+### `68-aval-primera-vivienda-story.jpg`
+🔑 Tu primera vivienda de obra nueva · Aval y financiación · Link en bio
