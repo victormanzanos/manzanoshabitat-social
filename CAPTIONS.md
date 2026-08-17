@@ -9,7 +9,7 @@ invertir en tu futuro — siempre anclado a un proyecto real en venta o a la zon
 
 ---
 
-## 89 POSTS
+## 95 POSTS
 ### `01-villafranca.jpg`
 El esfuerzo de hoy es el hogar de mañana. 🏡
 MH Villafranca: 34 viviendas unifamiliares con piscina, pádel y jardín privado en la Ribera de Navarra. A 35 min de Pamplona.
@@ -681,7 +681,61 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 ---
 
-## 52 STORIES
+### `69-azagra.jpg`
+Azagra, tu próxima casa en la Ribera de Navarra. 🌳
+Un municipio tranquilo junto al Ebro donde estrenar obra nueva pensada para vivir bien: espacios amplios, luz natural y calidades cuidadas. MH Azagra, viviendas para crecer en familia.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #Azagra #Navarra #ObraNueva #RiberaDeNavarra #Vivienda #Inmobiliaria #ViviendaNueva
+
+---
+
+### `70-vivir-tudela.jpg`
+Vivir en Tudela es vivir la Ribera. ☀️
+Capital de la Ribera de Navarra, con servicios, gastronomía y una calidad de vida difícil de igualar. Estrenar obra nueva aquí es apostar por el mejor sitio para tu día a día.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #Tudela #Navarra #ObraNueva #RiberaDeNavarra #Vivienda #Inmobiliaria #CalidadDeVida
+
+---
+
+### `71-calahorra-casco.jpg`
+Calahorra, historia y futuro en La Rioja Baja. 🏛️
+Una ciudad con siglos de historia que sigue creciendo con obra nueva de calidad. Estrenar vivienda en Calahorra es unir la vida de una ciudad completa con el confort de un hogar a medida.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #Calahorra #LaRioja #ObraNueva #Vivienda #Inmobiliaria #ViviendaNueva #LaRiojaBaja
+
+---
+
+### `72-placas-solares.jpg`
+El sol trabaja para tu hogar. ☀️
+La obra nueva de Manzanos Hábitat integra soluciones de energía solar y alta eficiencia: menos consumo, más confort y un ahorro que se nota cada mes. Vivir mejor también es vivir de forma sostenible.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #EnergiaSolar #EficienciaEnergetica #ObraNueva #ViviendaSostenible #Navarra #LaRioja #Vivienda
+
+---
+
+### `73-domotica.jpg`
+Tu hogar, conectado e inteligente. 📱
+Climatización, iluminación y seguridad al alcance de un toque. La obra nueva de Manzanos Hábitat incorpora domótica pensada para hacerte la vida más cómoda, eficiente y segura.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #Domotica #HogarInteligente #ObraNueva #ViviendaNueva #Navarra #LaRioja #Inmobiliaria
+
+---
+
+### `74-villafranca-plaza.jpg`
+Villafranca, calidad de vida junto al Ebro. 🌿
+Un municipio con encanto en el corazón de la Ribera de Navarra donde estrenar tu chalet de obra nueva. MH Villafranca: espacios amplios, zonas comunes y todo pensado para disfrutar en familia.
+Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
+
+#ManzanosHabitat #Villafranca #Navarra #ObraNueva #RiberaDeNavarra #Vivienda #Inmobiliaria #ViviendaNueva
+
+---
+
+## 58 STORIES
 ### `01-villafranca-story.jpg`
 🏡 MH Villafranca · Reserva por 100 € · Link en bio
 
@@ -846,3 +900,33 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 ### `68-aval-primera-vivienda-story.jpg`
 🔑 Tu primera vivienda de obra nueva · Aval y financiación · Link en bio
+
+### `69-azagra-story.jpg`
+🌳 Azagra · Obra nueva junto al Ebro · Ribera de Navarra · Link en bio
+
+---
+
+### `70-vivir-tudela-story.jpg`
+☀️ Vivir en Tudela · Capital de la Ribera de Navarra · Obra nueva
+
+---
+
+### `71-calahorra-casco-story.jpg`
+🏛️ Calahorra · La Rioja Baja · Obra nueva de calidad · Link en bio
+
+---
+
+### `72-placas-solares-story.jpg`
+☀️ Energía solar y eficiencia · Obra nueva sostenible · Manzanos Hábitat
+
+---
+
+### `73-domotica-story.jpg`
+📱 Hogar inteligente · Domótica en obra nueva · Manzanos Hábitat
+
+---
+
+### `74-villafranca-plaza-story.jpg`
+🌿 Villafranca · Chalets de obra nueva · Ribera de Navarra · Link en bio
+
+---
