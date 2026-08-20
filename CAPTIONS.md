@@ -9,7 +9,7 @@ invertir en tu futuro — siempre anclado a un proyecto real en venta o a la zon
 
 ---
 
-## 95 POSTS
+## 101 POSTS
 ### `01-villafranca.jpg`
 El esfuerzo de hoy es el hogar de mañana. 🏡
 MH Villafranca: 34 viviendas unifamiliares con piscina, pádel y jardín privado en la Ribera de Navarra. A 35 min de Pamplona.
@@ -735,7 +735,61 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 ---
 
-## 58 STORIES
+### `75-hipoteca-autonomos.jpg`
+Ser autónomo no te cierra la puerta a la casa nueva. 🔑
+La banca pide más papeles y más antigüedad, pero el proyecto de obra nueva juega a tu favor: los plazos de construcción te dan meses para ordenar declaraciones, ahorro y aportación inicial antes de firmar.
+Te acompañamos en todo el proceso. Más información en el link de la bio.
+
+#ManzanosHabitat #ObraNueva #Hipoteca #Navarra #LaRioja #RiberaDeNavarra #Vivienda #Inmobiliaria
+
+---
+
+### `76-ibi-vivienda-nueva.jpg`
+El impuesto que se paga cada año, no solo el día de la firma. 🧾
+En Navarra se llama Contribución Territorial y en La Rioja, IBI. Cambia el nombre, cambia el tipo y cambia el ayuntamiento: conocer la cifra antes de comprar es parte de calcular bien tu vivienda.
+Analizamos contigo todos los costes reales. Más información en el link de la bio.
+
+#ManzanosHabitat #ObraNueva #Navarra #LaRioja #Vivienda #Inmobiliaria #ViviendaNueva #ComprarCasa
+
+---
+
+### `77-obra-nueva-la-rioja.jpg`
+En La Rioja se construye poco, y eso se nota en el precio. 🏗️
+La oferta de obra nueva es escasa y la demanda no para de crecer. Quien entra pronto en una promoción compra mejor: elige vivienda, elige orientación y elige acabados antes que nadie.
+Descubre nuestras promociones. Más información en el link de la bio.
+
+#ManzanosHabitat #LaRioja #ObraNueva #Calahorra #Vivienda #Inmobiliaria #ViviendaNueva #Inversion
+
+---
+
+### `78-vender-para-comprar.jpg`
+Vender tu casa para estrenar otra: cuestión de orden. 🔄
+La obra nueva regala algo que la segunda mano no tiene: tiempo. Entre la reserva y la entrega tienes margen para vender sin prisas, sin malvender y sin dormir en dos sitios a la vez.
+Planifiquemos juntos tu cambio de casa. Más información en el link de la bio.
+
+#ManzanosHabitat #ObraNueva #Navarra #LaRioja #Vivienda #Inmobiliaria #ComprarCasa #ViviendaNueva
+
+---
+
+### `79-seguro-hogar.jpg`
+Tu casa nueva ya nace protegida. 🛡️
+Además del seguro de hogar, la obra nueva incorpora garantías propias que acompañan a la vivienda desde la entrega. Saber qué cubre cada una evita duplicar coberturas y pagar de más.
+Resolvemos tus dudas sin compromiso. Más información en el link de la bio.
+
+#ManzanosHabitat #ObraNueva #Vivienda #Navarra #LaRioja #Inmobiliaria #ViviendaNueva #Hogar
+
+---
+
+### `80-subrogar-hipoteca.jpg`
+Subrogar la hipoteca del promotor: a veces sí, a veces no. 🏦
+Ahorra en gastos de constitución, pero no siempre gana en tipo. La decisión correcta sale de comparar las dos ofertas con números encima de la mesa, no de una regla general.
+Te ayudamos a hacer esa comparación. Más información en el link de la bio.
+
+#ManzanosHabitat #ObraNueva #Hipoteca #Navarra #LaRioja #Vivienda #Inmobiliaria #ComprarCasa
+
+---
+
+## 64 STORIES
 ### `01-villafranca-story.jpg`
 🏡 MH Villafranca · Reserva por 100 € · Link en bio
 
@@ -928,5 +982,35 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 ### `74-villafranca-plaza-story.jpg`
 🌿 Villafranca · Chalets de obra nueva · Ribera de Navarra · Link en bio
+
+---
+
+### `75-hipoteca-autonomos-story.jpg`
+🔑 Autónomo y con casa nueva · Obra nueva en Navarra y La Rioja · Link en bio
+
+---
+
+### `76-ibi-vivienda-nueva-story.jpg`
+🧾 IBI y Contribución Territorial · Lo que cuesta tu casa cada año
+
+---
+
+### `77-obra-nueva-la-rioja-story.jpg`
+🏗️ Obra nueva en La Rioja · Poca oferta, mucha demanda · Link en bio
+
+---
+
+### `78-vender-para-comprar-story.jpg`
+🔄 Vender para estrenar · La obra nueva te da tiempo · Manzanos Hábitat
+
+---
+
+### `79-seguro-hogar-story.jpg`
+🛡️ Seguro y garantías de la casa nueva · Obra nueva protegida · Link en bio
+
+---
+
+### `80-subrogar-hipoteca-story.jpg`
+🏦 Subrogar la hipoteca del promotor · ¿Ahorra o no? · Manzanos Hábitat
 
 ---
