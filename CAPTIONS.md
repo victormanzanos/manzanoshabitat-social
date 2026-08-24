@@ -9,7 +9,7 @@ invertir en tu futuro — siempre anclado a un proyecto real en venta o a la zon
 
 ---
 
-## 101 POSTS
+## 110 POSTS
 ### `01-villafranca.jpg`
 El esfuerzo de hoy es el hogar de mañana. 🏡
 MH Villafranca: 34 viviendas unifamiliares con piscina, pádel y jardín privado en la Ribera de Navarra. A 35 min de Pamplona.
@@ -789,7 +789,61 @@ Te ayudamos a hacer esa comparación. Más información en el link de la bio.
 
 ---
 
-## 64 STORIES
+### `81-irpf-vivienda.jpg`
+Catorce kilómetros y un puente deciden si tu casa desgrava. 🧾
+Entre Azagra y Calahorra hay dos sistemas fiscales distintos. En Navarra la deducción por comprar vivienda habitual desapareció en 2018; en La Rioja sigue viva para menores de 36 años. Es una diferencia que casi nadie pone sobre la mesa al comparar dos viviendas, y que no se arregla después de firmar.
+Lo analizamos contigo antes de decidir. Más información en el link de la bio.
+
+#ManzanosHabitat #ObraNueva #Navarra #LaRioja #Vivienda #Inmobiliaria #ComprarCasa #ViviendaNueva
+
+---
+
+### `82-tramites-suministros.jpg`
+Te dan las llaves. ¿Y ahora qué? 🔑
+El día de la entrega es el bonito. El siguiente es el de la luz, el agua y el padrón. Nada de eso es un problema, pero sí una lista de trámites que conviene tener ordenada antes de la mudanza y no después.
+Te acompañamos también en esa parte. Más información en el link de la bio.
+
+#ManzanosHabitat #ObraNueva #Navarra #LaRioja #ViviendaNueva #Inmobiliaria #ComprarCasa #Hogar
+
+---
+
+### `83-gastos-notaria.jpg`
+Lo que la hipoteca no te paga. 📝
+Desde 2019 el banco asume los gastos de la escritura de hipoteca, pero la compra de la vivienda es un documento distinto: notaría, registro y gestoría de la compraventa las sigue pagando el comprador. No es dinero perdido, es lo que convierte la casa en tuya sobre el papel.
+Calculamos contigo el coste real. Más información en el link de la bio.
+
+#ManzanosHabitat #ObraNueva #Hipoteca #Navarra #LaRioja #Vivienda #Inmobiliaria #ComprarCasa
+
+---
+
+### `84-licencia-primera-ocupacion.jpg`
+La obra terminada, las llaves esperando y aún falta un papel. 🏢
+Es la licencia de primera ocupación: sin ella no hay alta de luz, ni de agua, ni escritura. El último eslabón entre una casa construida y una casa donde vivir, y uno de los trámites peor entendidos de la compra de obra nueva.
+Nosotros lo gestionamos por ti. Más información en el link de la bio.
+
+#ManzanosHabitat #ObraNueva #Navarra #LaRioja #ViviendaNueva #Inmobiliaria #ComprarCasa #Vivienda
+
+---
+
+### `85-aislamiento-acustico.jpg`
+Cierras la puerta y la calle desaparece. 🤫
+Ese silencio no es suerte del vecino: es una prestación de la vivienda, tan medible como los metros cuadrados o la etiqueta energética. En obra nueva viene garantizado por normativa, y es una de las diferencias que más se notan al vivir.
+Ven a comprobarlo en nuestras promociones. Más información en el link de la bio.
+
+#ManzanosHabitat #ObraNueva #Vivienda #Navarra #LaRioja #Inmobiliaria #ViviendaNueva #CalidadDeVida
+
+---
+
+### `86-certificado-energetico.jpg`
+Dos casas idénticas por fuera, una gasta cinco veces más. 🔤
+La diferencia no está en la fachada: está en una letra, de la A a la G, impresa en el certificado energético. Decide buena parte de lo que pagarás cada mes durante los próximos veinte años, y la obra nueva parte con la mejor nota.
+Descubre nuestras viviendas eficientes. Más información en el link de la bio.
+
+#ManzanosHabitat #ObraNueva #EficienciaEnergetica #Sostenibilidad #Navarra #LaRioja #Vivienda #ViviendaNueva
+
+---
+
+## 73 STORIES
 ### `01-villafranca-story.jpg`
 🏡 MH Villafranca · Reserva por 100 € · Link en bio
 
@@ -1012,5 +1066,35 @@ Te ayudamos a hacer esa comparación. Más información en el link de la bio.
 
 ### `80-subrogar-hipoteca-story.jpg`
 🏦 Subrogar la hipoteca del promotor · ¿Ahorra o no? · Manzanos Hábitat
+
+---
+
+### `81-irpf-vivienda-story.jpg`
+🧾 ¿Desgrava comprar casa? Navarra y La Rioja, dos respuestas · Link en bio
+
+---
+
+### `82-tramites-suministros-story.jpg`
+🔑 Luz, agua y padrón en tu casa nueva · La lista ordenada · Link en bio
+
+---
+
+### `83-gastos-notaria-story.jpg`
+📝 Notaría, registro y gestoría · El gasto que la hipoteca no cubre
+
+---
+
+### `84-licencia-primera-ocupacion-story.jpg`
+🏢 Licencia de primera ocupación · El papel que te deja estrenar · Link en bio
+
+---
+
+### `85-aislamiento-acustico-story.jpg`
+🤫 El silencio se compra · Aislamiento acústico en obra nueva · Manzanos Hábitat
+
+---
+
+### `86-certificado-energetico-story.jpg`
+🔤 Certificado energético · La letra que decide tu factura · Link en bio
 
 ---
