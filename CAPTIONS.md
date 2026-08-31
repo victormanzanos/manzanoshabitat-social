@@ -9,7 +9,7 @@ invertir en tu futuro — siempre anclado a un proyecto real en venta o a la zon
 
 ---
 
-## 110 POSTS
+## 116 POSTS
 ### `01-villafranca.jpg`
 El esfuerzo de hoy es el hogar de mañana. 🏡
 MH Villafranca: 34 viviendas unifamiliares con piscina, pádel y jardín privado en la Ribera de Navarra. A 35 min de Pamplona.
@@ -843,7 +843,61 @@ Descubre nuestras viviendas eficientes. Más información en el link de la bio.
 
 ---
 
-## 73 STORIES
+### `87-tav-ribera.jpg`
+La obra cara del TAV ya está hecha. 🚄
+La plataforma entre Castejón y Olite está terminada: lo que queda por delante no es excavadora, sino montaje de vía y electrificación. El corredor suma 65,2 kilómetros hasta la comarca de Pamplona y la estación de Tudela se mantendrá en su ubicación actual. Todavía no hay fecha de puesta en servicio cerrada, y quien compra hoy en la Ribera lo hace antes de que llegue.
+Más información en el link de la bio.
+
+#ManzanosHabitat #RiberaDeNavarra #Tudela #Navarra #ObraNueva #Inversion #Infraestructuras #ViviendaNueva
+
+---
+
+### `88-donacion-entrada.jpg`
+Los padres ponen la entrada. Hacienda también quiere saberlo. 🏦
+En Navarra una donación de padres a hijos tributa al 0,80% hasta 250.000 euros: sesenta mil euros son 480 euros de impuesto. En La Rioja, con la deducción del 99% de la cuota, esos mismos 60.000 se saldan con unos 63 euros. Los plazos son cortos, dos meses en Navarra y 30 días hábiles en La Rioja, y quien no lo declara a tiempo pierde justo aquello que lo hacía barato.
+Más información en el link de la bio.
+
+#ManzanosHabitat #Navarra #LaRioja #GuiaDeCompra #Financiacion #ObraNueva #Vivienda #RiberaDeNavarra
+
+---
+
+### `89-colegios-ribera.jpg`
+El colegio es la variable que más veces se mira tarde. 🎒
+Se comparan metros, orientación y cuota de hipoteca durante semanas, y solo al final alguien pregunta dónde estudiará el mayor a partir de los doce años. En Navarra las clases de Infantil y Primaria arrancan entre el 4 y el 8 de septiembre; en La Rioja, el 9. La comunidad foral gestiona 357 rutas de transporte escolar que mueven cada día a unos 15.000 alumnos.
+Más información en el link de la bio.
+
+#ManzanosHabitat #RiberaDeNavarra #Navarra #LaRioja #Familia #CalidadDeVida #Vivienda #ObraNueva
+
+---
+
+### `90-rehabilitar-vs-obra-nueva.jpg`
+Una casa de pueblo a 60.000 euros parece resuelta antes de empezar. 🧱
+No lo está. El precio de compra es la única partida que se conoce el primer día. Una rehabilitación integral se mueve entre 600 y 900 euros por metro cuadrado: sobre 120 m² son entre 72.000 y 108.000 euros de obra, a sumar a la compra y a los impuestos. En segunda mano se paga ITP, un 6% en Navarra y un 7% en La Rioja; en obra nueva, IVA del 10% más AJD.
+Más información en el link de la bio.
+
+#ManzanosHabitat #ObraNueva #Rehabilitacion #Navarra #LaRioja #GuiaDeCompra #RiberaDeNavarra #Vivienda
+
+---
+
+### `91-desglose-precio.jpg`
+¿A dónde va cada euro de una casa nueva? 📐
+El precio no es un número redondo que alguien decide: es la suma de cuatro bloques, suelo, ejecución de obra, impuestos y margen. El suelo puede pesar entre un 20% y un 30% del total, la construcción ronda los 1.400 a 2.200 euros por metro cuadrado en calidades medias, y los impuestos y cargas públicas superan el 26% sobre el coste de referencia. Por eso la misma calidad de obra vale mucho menos en la Ribera que en una capital.
+En la imagen, MH Azagra. Más información en el link de la bio.
+
+#ManzanosHabitat #ObraNueva #Azagra #Navarra #GuiaDeCompra #ViviendaNueva #RiberaDeNavarra #Inversion
+
+---
+
+### `92-vivir-tudela.jpg`
+Segunda ciudad de Navarra y capital de la Ribera. 🏜️
+Tudela ronda los 36.000 habitantes y tiene servicios de capital, hospital público, campus, comercio y oferta cultural, con una escala en la que casi todo queda a diez minutos a pie. Está a una hora escasa por autovía de Pamplona, Zaragoza y Logroño, unos 90 kilómetros en cada caso, y la vivienda se mueve en torno a los 1.636 euros por metro cuadrado, muy por debajo de la media foral. A un paso, las Bardenas Reales.
+Más información en el link de la bio.
+
+#ManzanosHabitat #Tudela #Navarra #RiberaDeNavarra #Bardenas #CalidadDeVida #Vivienda #ObraNueva
+
+---
+
+## 79 STORIES
 ### `01-villafranca-story.jpg`
 🏡 MH Villafranca · Reserva por 100 € · Link en bio
 
@@ -1096,5 +1150,35 @@ Descubre nuestras viviendas eficientes. Más información en el link de la bio.
 
 ### `86-certificado-energetico-story.jpg`
 🔤 Certificado energético · La letra que decide tu factura · Link en bio
+
+---
+
+### `87-tav-ribera-story.jpg`
+🚄 El TAV ya cruza la Ribera · Qué está construido y qué no · Link en bio
+
+---
+
+### `88-donacion-entrada-story.jpg`
+🏦 Los padres ponen la entrada · 480 € en Navarra, 63 € en La Rioja · Link en bio
+
+---
+
+### `89-colegios-ribera-story.jpg`
+🎒 Colegios en la Ribera · 4 de septiembre en Navarra, 9 en La Rioja · Link en bio
+
+---
+
+### `90-rehabilitar-vs-obra-nueva-story.jpg`
+🧱 Rehabilitar o estrenar · La cuenta completa, impuestos incluidos · Link en bio
+
+---
+
+### `91-desglose-precio-story.jpg`
+📐 A dónde va cada euro de tu casa nueva · Suelo, obra, impuestos y margen
+
+---
+
+### `92-vivir-tudela-story.jpg`
+🏜️ Vivir en Tudela · 1.636 €/m² y servicios de capital · Link en bio
 
 ---
