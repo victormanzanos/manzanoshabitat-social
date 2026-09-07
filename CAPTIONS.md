@@ -9,7 +9,7 @@ invertir en tu futuro — siempre anclado a un proyecto real en venta o a la zon
 
 ---
 
-## 116 POSTS
+## 122 POSTS
 ### `01-villafranca.jpg`
 El esfuerzo de hoy es el hogar de mañana. 🏡
 MH Villafranca: 34 viviendas unifamiliares con piscina, pádel y jardín privado en la Ribera de Navarra. A 35 min de Pamplona.
@@ -897,7 +897,61 @@ Más información en el link de la bio.
 
 ---
 
-## 79 STORIES
+### `93-coste-mantener-casa.jpg`
+La casa no acaba en la cuota de la hipoteca. 🧾
+Casi todo el mundo llega a la firma sabiendo su cuota al céntimo, y muy pocos sabiendo lo otro: tener la casa abierta cuesta entre 2.600 y 3.900 euros al año en una vivienda nueva de la Ribera, unos 215 a 325 euros al mes que no aparecen en ninguna simulación bancaria. Suministros en torno a 1.430 euros, comunidad de 50 a 110 al mes, seguro de hogar entre 150 y 400, y la Contribución Territorial o el IBI entre 200 y 600. La obra nueva arranca con la parte de mantenimiento casi a cero: instalaciones nuevas, sin averías acumuladas y sin derramas heredadas.
+Más información en el link de la bio.
+
+#ManzanosHabitat #ObraNueva #Navarra #LaRioja #GuiaDeCompra #ViviendaNueva #RiberaDeNavarra #Inversion
+
+---
+
+### `94-piscina-privada-comunitaria.jpg`
+Septiembre es cuando se decide la piscina del año que viene. 💧
+Y es la pregunta que casi nadie hace con números delante. Un vaso de obra de 6x3 ronda los 13.000 a 17.000 euros; uno de 8x4 gunitado, entre 18.000 y 28.000. El mantenimiento anual va de 600 a 1.500 euros entre química, bomba, agua y puestas a punto. Además se incorpora al valor catastral, así que sube la Contribución Territorial en Navarra y el IBI en La Rioja, y necesita permiso municipal e ICIO. En MH Azagra y MH Villafranca la piscina es comunitaria y el jardín, privado: el gasto se reparte en la cuota.
+Más información en el link de la bio.
+
+#ManzanosHabitat #ObraNueva #Azagra #Villafranca #Navarra #RiberaDeNavarra #CasasConPiscina #GuiaDeCompra
+
+---
+
+### `95-punto-recarga.jpg`
+El enchufe que ya viene puesto. 🔌
+Casi nadie pregunta por ello al visitar una promoción y sin embargo está en la normativa: una vivienda unifamiliar de nueva construcción con garaje debe entregarse con el punto de recarga del coche eléctrico ya instalado. No es una preinstalación ni un tubo esperando mejores tiempos, la guía técnica de la ITC-BT-52 exige el circuito C13 completo, con canalización, cables, protecciones y punto. Son entre 900 y 1.900 euros que quien compra obra nueva no desembolsa después, y cargar en casa en horas valle sale por debajo de 2 euros cada 100 kilómetros.
+Más información en el link de la bio.
+
+#ManzanosHabitat #ObraNueva #Navarra #LaRioja #Sostenibilidad #EficienciaEnergetica #ViviendaNueva #CocheElectrico
+
+---
+
+### `96-retraso-entrega.jpg`
+La fecha de entrega no es una previsión optimista. 📅
+Es una obligación con consecuencias, y conviene saberlo antes de firmar. La Disposición Adicional Primera de la Ley 38/1999 obliga al promotor a garantizar, desde que obtiene la licencia de edificación, la devolución del dinero anticipado si la obra no llega a buen fin en el plazo convenido. Si la vivienda no se entrega puedes rescindir el contrato y recuperar lo entregado, impuestos incluidos, con los intereses legales, o conceder una prórroga, que no vale de palabra: la ley exige un anexo al contrato con la nueva fecha. Y el dinero anticipado debe estar en una cuenta separada de los fondos del promotor.
+Más información en el link de la bio.
+
+#ManzanosHabitat #ObraNueva #Navarra #LaRioja #GuiaDeCompra #Garantias #RiberaDeNavarra #ViviendaNueva
+
+---
+
+### `97-tasacion-baja.jpg`
+El banco no presta sobre lo que pagas, sino sobre lo que escribe un tasador. 🏦
+Firmas por 280.000 euros y semanas después llega el informe: 262.000. La banca financia hasta el 80% del menor de dos números, precio y tasación, así que el préstamo baja de 224.000 a 209.600 y esos 14.400 euros los pones tú en efectivo. Dos cosas que conviene saber antes: la Ley 5/2019 exige un tasador homologado e independiente del prestamista, y obliga a la entidad a aceptar una tasación que aportes tú si está certificada y no ha caducado, algo que ocurre a los seis meses. En obra nueva se tasa bajo la hipótesis de edificio terminado.
+En la imagen, Cárcar. Más información en el link de la bio.
+
+#ManzanosHabitat #Hipoteca #ObraNueva #Navarra #LaRioja #RiberaDeNavarra #GuiaDeCompra #Financiacion
+
+---
+
+### `98-tav-castejon.jpg`
+El TAV ya cruza la Ribera. 🚄
+Si conduces entre Villafranca y Marcilla ya no hace falta imaginárselo: la plataforma de los subtramos Castejón-Villafranca y Villafranca-Olite está terminada, y lo que viene ya no es excavadora sino montaje de vía y electrificación. El 2 de julio de 2026 Adif adjudicó por 6,03 millones el proyecto del último tramo pendiente, los 13,2 kilómetros de Campanas a la nueva estación de Pamplona. La estación de Tudela se mantendrá en su ubicación actual. Conviene separar lo construido de lo que aún es un plano: ninguna de estas obras tiene hoy fecha de puesta en servicio cerrada.
+En la imagen, la estación de Castejón. Más información en el link de la bio.
+
+#ManzanosHabitat #TAV #RiberaDeNavarra #Villafranca #Navarra #Infraestructuras #ObraNueva #Vivienda
+
+---
+
+## 85 STORIES
 ### `01-villafranca-story.jpg`
 🏡 MH Villafranca · Reserva por 100 € · Link en bio
 
@@ -1180,5 +1234,34 @@ Más información en el link de la bio.
 
 ### `92-vivir-tudela-story.jpg`
 🏜️ Vivir en Tudela · 1.636 €/m² y servicios de capital · Link en bio
+
+---
+### `93-coste-mantener-casa-story.jpg`
+🧾 Mantener la casa · 2.600 a 3.900 € al año en la Ribera · Link en bio
+
+---
+
+### `94-piscina-privada-comunitaria-story.jpg`
+💧 Piscina propia · 13.000 € de obra y hasta 1.500 al año · Link en bio
+
+---
+
+### `95-punto-recarga-story.jpg`
+🔌 Obra nueva con garaje · El punto de recarga viene instalado por norma
+
+---
+
+### `96-retraso-entrega-story.jpg`
+📅 Si la entrega se retrasa · Rescisión con intereses o prórroga por anexo
+
+---
+
+### `97-tasacion-baja-story.jpg`
+🏦 Tasación por debajo del precio · La diferencia la pones tú · Link en bio
+
+---
+
+### `98-tav-castejon-story.jpg`
+🚄 TAV en la Ribera · Castejón-Olite ya con plataforma terminada · Link en bio
 
 ---
