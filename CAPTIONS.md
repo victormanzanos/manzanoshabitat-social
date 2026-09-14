@@ -9,7 +9,7 @@ invertir en tu futuro — siempre anclado a un proyecto real en venta o a la zon
 
 ---
 
-## 122 POSTS
+## 128 POSTS
 ### `01-villafranca.jpg`
 El esfuerzo de hoy es el hogar de mañana. 🏡
 MH Villafranca: 34 viviendas unifamiliares con piscina, pádel y jardín privado en la Ribera de Navarra. A 35 min de Pamplona.
@@ -951,7 +951,61 @@ En la imagen, la estación de Castejón. Más información en el link de la bio.
 
 ---
 
-## 85 STORIES
+### `99-ine-navarra-frena.jpg`
+Navarra frena. La Rioja, no. 📊
+El INE publicó el 7 de septiembre su Índice de Precios de Vivienda del segundo trimestre de 2026: Navarra es la comunidad de España donde menos sube la vivienda, un 9,5% en un año. Y dentro de Navarra la brecha importa aún más: la segunda mano sube un 11,9% y la obra nueva solo un 4,1%, tras seis trimestres seguidos de moderación desde el 16,7% de finales de 2024. Al otro lado del Ebro, La Rioja sube un 14,4%, con la obra nueva al 12,5%. Ninguna comunidad baja; lo que cambia es la velocidad.
+En la imagen, Mendavia. Más información en el link de la bio.
+
+#ManzanosHabitat #Navarra #LaRioja #ObraNueva #MercadoInmobiliario #PrecioVivienda #RiberaDeNavarra #Vivienda
+
+---
+
+### `100-clausula-financiacion.jpg`
+¿Y si el banco dice que no? 🏦
+En obra nueva la hipoteca no se firma al reservar: se solicita dos o tres meses antes de la entrega de llaves, y entre una cosa y otra pueden pasar dos años. El aval del promotor protege tu dinero si la promoción falla, no si falla tu financiación. Por eso conviene una cláusula de financiación en el contrato privado que fije tres cosas: importe mínimo, plazo para acreditarlo y qué se devuelve. Y un dato más: una preconcesión bancaria suele caducar entre tres y seis meses.
+Más información en el link de la bio.
+
+#ManzanosHabitat #ObraNueva #Hipoteca #GuiaDeCompra #Navarra #LaRioja #ComprarVivienda #Vivienda
+
+---
+
+### `101-teletrabajo-fibra.jpg`
+Teletrabajar en la Ribera ya no depende de la conexión. 💻
+Los datos de cobertura lo dejan claro: Azagra tiene un 91,99% de fibra y un 97,78% de hogares con 1 Gbps, por encima de la media de España. Villafranca ha dado el mayor salto, del 82,52% de fibra en 2023 al 93,86% en 2025. Navarra (96,48%) y La Rioja (97,23%) superan a la media española (95,92%). La pregunta ya no es si llega la fibra, sino dónde pones la mesa: un buen rincón de trabajo se decide sobre plano.
+Más información en el link de la bio.
+
+#ManzanosHabitat #Teletrabajo #RiberaDeNavarra #Azagra #Villafranca #ObraNueva #Navarra #LaRioja
+
+---
+
+### `102-alquiler-a-casa-nueva.jpg`
+Del alquiler a tu casa nueva, sin pagar de más. 📦
+Si compras sobre plano mientras vives de alquiler, la Ley de Arrendamientos Urbanos te da dos caminos. No renovar al cumplir una anualidad: avisas con 30 días de antelación y te vas sin indemnización. Desistir a mitad de contrato, pasados seis meses: también con 30 días de aviso, pero si tu contrato lo recoge, el casero puede reclamar una mensualidad por cada año que reste, prorrateada. Revisa tu contrato antes de fijar la fecha de la mudanza.
+Más información en el link de la bio.
+
+#ManzanosHabitat #ObraNueva #Alquiler #Mudanza #GuiaDeCompra #Navarra #LaRioja #ViviendaNueva
+
+---
+
+### `103-casa-sin-barreras.jpg`
+Una casa pensada para toda la vida. 🏠
+Dentro de una vivienda unifamiliar la ley no exige accesibilidad, así que las decisiones que la hacen cómoda a cualquier edad se toman sobre plano. Las medidas de referencia del Código Técnico son fáciles de recordar: paso de puerta de 0,80 m, pasillo de 1,20 m y un giro de 1,50 m. Y en un chalet de dos alturas, un dormitorio y un baño completo en planta baja es lo que más futuro compra. Sobre plano cuesta atención; después, obra.
+Más información en el link de la bio.
+
+#ManzanosHabitat #ObraNueva #Accesibilidad #DiseñoDeVivienda #Navarra #LaRioja #ViviendaNueva #Hogar
+
+---
+
+### `104-comprar-en-pareja.jpg`
+Comprar en pareja: el 50/50 no existe. 🔑
+El porcentaje que figura en la escritura manda sobre lo que cada uno aportó de verdad, salvo que se documente lo contrario en el mismo acto. La hipoteca, en cambio, no entiende de porcentajes: los dos titulares responden del 100% de la deuda. Si estáis casados sin capitulaciones, en Navarra rige la sociedad de conquistas del Fuero Nuevo y en La Rioja la de gananciales. Y sin testamento, la pareja no casada no hereda. Conviene hablarlo antes de firmar.
+Más información en el link de la bio.
+
+#ManzanosHabitat #ComprarVivienda #Pareja #GuiaDeCompra #Navarra #LaRioja #ObraNueva #Vivienda
+
+---
+
+## 91 STORIES
 ### `01-villafranca-story.jpg`
 🏡 MH Villafranca · Reserva por 100 € · Link en bio
 
@@ -1263,5 +1317,35 @@ En la imagen, la estación de Castejón. Más información en el link de la bio.
 
 ### `98-tav-castejon-story.jpg`
 🚄 TAV en la Ribera · Castejón-Olite ya con plataforma terminada · Link en bio
+
+---
+
+### `99-ine-navarra-frena-story.jpg`
+📊 INE 2T 2026 · En Navarra la obra nueva sube solo un 4,1% · Link en bio
+
+---
+
+### `100-clausula-financiacion-story.jpg`
+🏦 ¿Y si el banco dice no? · La cláusula de financiación · Link en bio
+
+---
+
+### `101-teletrabajo-fibra-story.jpg`
+💻 Teletrabajo en la Ribera · Azagra, 97,78% con gigabit · Link en bio
+
+---
+
+### `102-alquiler-a-casa-nueva-story.jpg`
+📦 Del alquiler a tu casa nueva · 30 días de aviso · Link en bio
+
+---
+
+### `103-casa-sin-barreras-story.jpg`
+🏠 Casa sin barreras · 7 decisiones sobre plano · Link en bio
+
+---
+
+### `104-comprar-en-pareja-story.jpg`
+🔑 Comprar en pareja · El 50/50 no existe · Link en bio
 
 ---
