@@ -86,9 +86,10 @@ def draw_corner_accents(im, margin, size, line):
     return Image.alpha_composite(canvas, overlay).convert("RGB")
 
 
-def add_logo_bottom(im, story=False):
-    """Compone el logo MH (blanco) abajo, centrado, sobre panel translúcido oscuro
-    con una fina línea dorada encima. El logo es el cierre de marca que pidió Victor."""
+def add_logo_bottom(im, story=False, logo_path=LOGO_WHITE):
+    """Compone el logo MH abajo, centrado, sobre panel translúcido oscuro
+    con una fina línea dorada encima. El logo es el cierre de marca que pidió Victor.
+    `logo_path` permite usar el logo DORADO (LOGO_GOLD) en días especiales."""
     w, h = im.size
     canvas = im.convert("RGBA")
 
@@ -106,8 +107,8 @@ def add_logo_bottom(im, story=False):
     d = ImageDraw.Draw(canvas)
     d.line([(w * 0.34, panel_y), (w * 0.66, panel_y)], fill=GOLD, width=2)
 
-    # Logo blanco centrado dentro del panel
-    logo = Image.open(LOGO_WHITE).convert("RGBA")
+    # Logo centrado dentro del panel (blanco por defecto, dorado en días especiales)
+    logo = Image.open(logo_path).convert("RGBA")
     target_w = int(w * (0.56 if story else 0.50))
     target_h = int(target_w * logo.height / logo.width)
     logo = logo.resize((target_w, target_h), Image.LANCZOS)

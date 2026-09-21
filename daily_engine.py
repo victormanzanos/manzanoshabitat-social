@@ -40,6 +40,10 @@ REAL_EVERY = 3
 TDIR     = os.path.join(LOCAL, "reales")
 DONE_DIR = os.path.join(TDIR, "published")
 IMG_EXT  = (".jpg", ".jpeg", ".png")
+VID_EXT  = (".mp4", ".mov")        # reels editados del tour 360 / dron
+# GitHub Contents API + ingesta de vídeo de IG fallan con ficheros grandes; el motor
+# salta cualquier vídeo por encima de este tope y avisa (reels de 15-30 s caben de sobra).
+VID_MAX_BYTES = 95 * 1024 * 1024   # 95 MB — margen bajo el límite de 100 MB de GitHub
 DEFAULT_REAL_CAPTION = (
     "Una imagen de nuestros proyectos 🏡\n"
     "Construimos hogares en Navarra y La Rioja. Más en el link de la bio.\n\n"
@@ -47,6 +51,14 @@ DEFAULT_REAL_CAPTION = (
 )
 
 DRY = os.environ.get("DRY") == "1"
+
+# ── NINGUNA FOTO SE REPITE EN 360 DÍAS (Victor, 21-sep-2026) ──────────────
+# WHY fail-closed: sin el registro de identidad no sabemos si la foto de hoy ya
+# salió; publicar a ciegas es justo el fallo que se cierra (58 publicaciones del
+# log = solo 31 fotos distintas). Ver image_registry.py y images_tool.py.
+import sys as _sys
+_sys.path.insert(0, LOCAL)
+import image_registry as REG  # noqa: E402
 
 # Credenciales — lazy load para que DRY=1 funcione sin credenciales
 TOK = None
@@ -95,6 +107,117 @@ assert POSTS,   "No se parsearon posts de CAPTIONS.md"
 assert STORIES, "No se parsearon stories de CAPTIONS.md"
 
 
+# ── CAMPAÑA MH GRANDE 28 (prioridad temporal, reversible) ──────────────────
+# Petición de Laura (2026-08-10): durante 4 semanas Grande 28 es prioridad. Mientras
+# hoy <= CAMPAIGN_UNTIL, el feed prioriza G28: 3 de cada CAMPAIGN_G28_EVERY posts son
+# Grande 28 (rota launch + los 23 g28d del dossier), 1 es otra promoción (regla de
+# Laura: no canibalizar el feed). Pasada la fecha, el motor vuelve SOLO a la rotación
+# normal sin tocar los contadores `post`/`story` — idempotencia intacta.
+# Para desactivar antes de tiempo: poner CAMPAIGN_UNTIL = "".
+CAMPAIGN_UNTIL     = "2026-09-07"   # 4 semanas desde el lanzamiento del 2026-08-10
+CAMPAIGN_G28_EVERY = 4              # 1 de cada 4 publicaciones = otra promoción; 3 = G28
+G28_RE = re.compile(r"grande28|g28|calahorra", re.I)
+
+def _is_g28(fn):
+    return bool(G28_RE.search(fn))
+
+def campaign_active(today_str):
+    # Comparación lexicográfica válida para fechas ISO YYYY-MM-DD.
+    return bool(CAMPAIGN_UNTIL) and today_str <= CAMPAIGN_UNTIL
+
+# Arco semanal de Laura (2026-08-10): orden en que salen las tarjetas G28 durante la
+# campaña. A ~1 post cada 2 días con 3 de cada 4 = G28, en 4 semanas se emiten ≈ las
+# primeras 11-12 de esta lista → mapean a las 4 semanas temáticas. El resto (dossier)
+# continúa después. Las tarjetas G28 no listadas se añaden al final en orden de fichero.
+# Las stories están emparejadas POSICIÓN A POSICIÓN con los posts (mismo índice).
+#   S1 el edificio + ubicación · S2 la residencia · S3 la vida arriba · S4 quedan 3.
+CAMPAIGN_POST_SCRIPT = [
+    # Semana 1 — el edificio y la ubicación
+    "g28-launch-fachada.jpg", "04-grande28-fachada.jpg", "16-calahorra.jpg",
+    # Semana 2 — la residencia (interiores / producto)
+    "g28-launch-interior.jpg", "10-grande28-salon.jpg", "15-grande28-lujo.jpg",
+    # Semana 3 — la vida arriba (rooftop + spa)
+    "g28-launch-rooftop.jpg", "05-grande28-rooftop.jpg", "12-grande28-spa.jpg",
+    # Semana 4 — quedan 3 / conversión
+    "g28d-06.jpg", "g28d-20.jpg", "44-calahorra-2026.jpg",
+    # Continuación (semanas siguientes / publicaciones extra): resto del dossier
+    "28-calahorra-ciudad.jpg",
+    "g28d-01.jpg", "g28d-02.jpg", "g28d-03.jpg", "g28d-04.jpg", "g28d-05.jpg",
+    "g28d-07.jpg", "g28d-08.jpg", "g28d-09.jpg", "g28d-10.jpg", "g28d-11.jpg",
+    "g28d-12.jpg", "g28d-13.jpg", "g28d-14.jpg", "g28d-15.jpg", "g28d-16.jpg",
+    "g28d-17.jpg", "g28d-18.jpg", "g28d-19.jpg", "g28d-21.jpg", "g28d-22.jpg", "g28d-23.jpg",
+]
+CAMPAIGN_STORY_SCRIPT = [
+    # emparejadas con los posts de arriba (misma posición)
+    "g28-story-fachada.jpg", "g28d-02-story.jpg", "07-calahorra-story.jpg",       # S1
+    "g28-story-interior.jpg", "g28d-03-story.jpg", "g28d-05-story.jpg",           # S2
+    "g28-story-rooftop.jpg", "03-grande28-story.jpg", "06-grande28-spa-story.jpg",# S3
+    "g28d-04-story.jpg", "g28d-08-story.jpg", "44-calahorra-2026-story.jpg",      # S4
+    "g28d-01-story.jpg", "g28d-06-story.jpg", "g28d-07-story.jpg",                # continuación
+]
+
+def _scripted_playlist(script, pairs):
+    """Ordena `pairs` [(fn,caption)] según la lista de ficheros `script` (arco de
+    campaña). Ficheros del script ausentes (p. ej. bloqueados por el hub) se saltan;
+    las tarjetas G28 no listadas se añaden al final en orden de fichero (sin duplicar)."""
+    cap = {}
+    for fn, c in pairs:
+        cap.setdefault(fn, c)   # primera aparición = caption canónico
+    scripted = [(fn, cap[fn]) for fn in script if fn in cap]
+    inscript = set(script)
+    seen, leftover = set(), []
+    for fn, c in pairs:
+        if _is_g28(fn) and fn not in inscript and fn not in seen:
+            seen.add(fn); leftover.append((fn, c))
+    return scripted + leftover
+
+
+# ── SELECCIÓN SIN REPETIR FOTO ────────────────────────────────────────────
+def pick_fresh(items, start, sub, blocked, idx, extra_phashes=()):
+    """Primera entrada de `items` (desde `start`, circular) cuya FOTO no se haya
+    publicado en NO_REPEAT_DAYS ni coincida con `extra_phashes` (la foto del post
+    de hoy, para la story). `items` = [(fichero, caption)] o [fichero].
+    Devuelve (índice REAL usado, item, aviso). WHY el índice y no `+= 1`: al saltar
+    tarjetas, un avance a ciegas re-propondría la misma cada día
+    ([[ig-rotation-tail-latency]]). Si todo está bloqueado NO se calla: publica la
+    tarjeta cuya foto lleva más tiempo sin salir y devuelve '⚠️ BARAJA AGOTADA'."""
+    n = len(items)
+    extra = [(p, "hoy", "?", "post de hoy") for p in extra_phashes if p]
+    for k in range(n):
+        i = (start + k) % n
+        fn = items[i][0] if isinstance(items[i], tuple) else items[i]
+        ph = REG.card_phash(f"{sub}/{fn}", idx)
+        bad, why = REG.is_blocked(ph, blocked + extra)
+        if not bad:
+            return i, items[i], ""
+        print(f"  ⏭  salto {sub}/{fn}: {why}")
+    # Baraja agotada → la que lleve más tiempo sin publicarse (y nunca la del post de hoy)
+    last = {}
+    for bph, d, _, _ in blocked:
+        last[bph] = max(last.get(bph, ""), d)
+    best, best_d = None, None
+    for k in range(n):
+        i = (start + k) % n
+        fn = items[i][0] if isinstance(items[i], tuple) else items[i]
+        ph = REG.card_phash(f"{sub}/{fn}", idx)
+        if not ph or REG.is_blocked(ph, extra)[0]:
+            continue
+        d = max([v for kk, v in last.items() if REG.same_photo(kk, ph)] or [""])
+        if best is None or d < best_d:
+            best, best_d = i, d
+    if best is None:
+        best = start % n
+    return best, items[best], f"⚠️ BARAJA AGOTADA ({sub}): repito la foto más antigua (última vez {best_d or '?'})"
+
+
+def _ledger(date, kind, card, idx, ph=None, photo=None):
+    # Nunca debe tumbar el flujo tras publicar; si falla, que se vea en el log.
+    try:
+        REG.record(date, kind, card, idx, ph=ph, photo=photo)
+    except Exception as e:
+        print(f"⚠️ NO se pudo anotar {card} en .published_images.json: {e}")
+
+
 # ── STATE ─────────────────────────────────────────────────────────────────
 def state():
     s = json.load(open(STATE)) if os.path.exists(STATE) else {}
@@ -108,6 +231,9 @@ def save_state(s):
 
 # ── FOTO REAL intercalada (drop folder) ───────────────────────────────────
 def real_collect():
+    """Material real del drop folder: fotos (JPG/PNG) y reels (MP4/MOV).
+    Devuelve [(path, caption, is_video), ...]. Un .txt con el mismo nombre base
+    aporta el caption; si falta, se usa DEFAULT_REAL_CAPTION."""
     if not os.path.isdir(TDIR):
         return []
     out = []
@@ -116,11 +242,17 @@ def real_collect():
         if not os.path.isfile(path):
             continue
         base, ext = os.path.splitext(name)
-        if ext.lower() not in IMG_EXT:
+        ext = ext.lower()
+        is_video = ext in VID_EXT
+        if ext not in IMG_EXT and not is_video:
+            continue
+        if is_video and os.path.getsize(path) > VID_MAX_BYTES:
+            print(f"⚠️ Reel {name} supera {VID_MAX_BYTES // (1024*1024)} MB — omitido "
+                  f"(recórtalo/comprímelo). GitHub/IG lo rechazarían.")
             continue
         cap_file = os.path.join(TDIR, base + ".txt")
         cap = open(cap_file, encoding="utf-8").read().strip() if os.path.exists(cap_file) else DEFAULT_REAL_CAPTION
-        out.append((path, cap))
+        out.append((path, cap, is_video))
     return out
 
 def gh_upload(local_path, remote_name):
@@ -133,10 +265,16 @@ def gh_upload(local_path, remote_name):
     if probe.returncode == 0:
         try:    sha = json.loads(probe.stdout).get("sha")
         except: sha = None
+        # WHY: el cuerpo va por STDIN (--input -), NUNCA como argumento -f content=<b64>.
+    # Incidencia 2026-08-20 (@manzanosenterprises): una foto de 899 KB da un base64 de
+    # ~1,20 MB y revienta el ARG_MAX de macOS (1.048.576 B) con "[Errno 7] Argument list
+    # too long". Toda foto real de mas de ~780 KB fallaba SIEMPRE y caia al post de marca,
+    # en silencio. Por stdin no hay limite de tamano.
+    body = {"message": f"Add real photo {remote_name}", "content": content_b64}
+    if sha: body["sha"] = sha
     args = ["gh", "api", "--method", "PUT", f"/repos/{REPO}/contents/{remote_path}",
-            "-f", f"message=Add real photo {remote_name}", "-f", f"content={content_b64}"]
-    if sha: args += ["-f", f"sha={sha}"]
-    r = subprocess.run(args, capture_output=True, text=True)
+            "--input", "-"]
+    r = subprocess.run(args, input=json.dumps(body), capture_output=True, text=True)
     if r.returncode != 0:
         raise RuntimeError(f"gh upload failed: {r.stderr.strip()[:300]}")
     return f"{RAW}/{remote_path}"
@@ -171,8 +309,9 @@ def api(path, params, method="POST"):
         # el estado no se guardó y el post de Haro se republicó el 07-07 (duplicado).
         return {"_net_error": str(e)}
 
-def wait_ready(cid):
-    for _ in range(20):
+def wait_ready(cid, tries=20):
+    # tries por defecto = 20 (imagen). El vídeo tarda más en procesarse → más reintentos.
+    for _ in range(tries):
         st = api(cid, {"fields": "status_code", "access_token": TOK}, "GET").get("status_code")
         if st in ("FINISHED", "ERROR", "EXPIRED"): return st
         time.sleep(4)
@@ -195,13 +334,29 @@ def publish_image(url, caption=None, story=False):
     perma = api(mid, {"fields": "permalink", "access_token": TOK}, "GET")
     return {"id": mid, "permalink": perma.get("permalink")}
 
+def publish_reel(video_url, caption=None):
+    """Publica un REEL (vídeo vertical 9:16) desde una URL pública. Mismo contrato
+    de retorno que publish_image: {id, permalink} o {error}. El vídeo tarda más en
+    procesarse, por eso wait_ready usa más reintentos."""
+    ensure_creds()
+    p = {"media_type": "REELS", "video_url": video_url, "access_token": TOK}
+    if caption: p["caption"] = caption
+    c = api(f"{IGID}/media", p); cid = c.get("id")
+    if not cid: return {"error": c}
+    if wait_ready(cid, tries=45) != "FINISHED": return {"error": "container not ready (video)"}
+    r = api(f"{IGID}/media_publish", {"creation_id": cid, "access_token": TOK})
+    mid = r.get("id")
+    if not mid: return {"error": r}
+    perma = api(mid, {"fields": "permalink", "access_token": TOK}, "GET")
+    return {"id": mid, "permalink": perma.get("permalink")}
+
 
 # ── EMAIL RESUMEN ─────────────────────────────────────────────────────────
 def email_summary(html, post_path, story_path, subject):
-    pw = _secret("MANZANOS_SMTP_PASSWORD")
+    pw = _secret("VICTORIA_STERLING_EMAIL_PASSWORD")
     msg = MIMEMultipart("related")
     msg["Subject"] = subject
-    msg["From"]    = "assistant@manzanosenterprises.com"
+    msg["From"]    = "victoriasterling@manzanos.eu"
     msg["To"]      = "victor@manzanos.com"
     msg.attach(MIMEText(html, "html", "utf-8"))
     for cid, path in (("postimg", post_path), ("storyimg", story_path)):
@@ -211,9 +366,9 @@ def email_summary(html, post_path, story_path, subject):
             img.add_header("Content-Disposition", "inline", filename=os.path.basename(path))
             msg.attach(img)
         except Exception as e: print("attach failed", path, e)
-    with smtplib.SMTP_SSL("manzanosenterprises-com.correoseguro.dinaserver.com", 465,
+    with smtplib.SMTP_SSL("manzanos-eu.correoseguro.dinaserver.com", 465,
                           context=ssl.create_default_context()) as srv:
-        srv.login("assistant@manzanosenterprises.com", pw)
+        srv.login("victoriasterling@manzanos.eu", pw)
         srv.send_message(msg)
 
 
@@ -262,28 +417,83 @@ def rotate_caption(cap):
 # ── MAIN ──────────────────────────────────────────────────────────────────
 def main():
     s = state()
+    today = str(datetime.date.today())
+    camp  = campaign_active(today)
+
+    # Playlists construidas AQUÍ (no al import) para respetar los controles del hub,
+    # que mutan POSTS/STORIES en tiempo de import. `or ... or POSTS` evita baraja vacía.
+    # Los posts/stories G28 salen en el ORDEN del arco semanal de Laura (guion explícito);
+    # CAPTIONS.md no se toca, así la rotación normal queda intacta.
+    g28_posts     = _scripted_playlist(CAMPAIGN_POST_SCRIPT, POSTS) or [t for t in POSTS if _is_g28(t[0])] or POSTS
+    g28_stories   = _scripted_playlist(CAMPAIGN_STORY_SCRIPT, STORIES) or [t for t in STORIES if _is_g28(t[0])] or STORIES
+    other_posts   = [t for t in POSTS   if not _is_g28(t[0])] or POSTS
+    other_stories = [t for t in STORIES if not _is_g28(t[0])] or STORIES
+
     real_items = real_collect()
-    do_real    = bool(real_items) and s.get("since_real", 0) >= REAL_EVERY
+    # Durante la campaña, el material REAL (edificio, reel del tour 360) lidera: se
+    # publica en cuanto exista. Fuera de campaña, 1 de cada REAL_EVERY posts (como antes).
+    do_real    = bool(real_items) and (camp or s.get("since_real", 0) >= REAL_EVERY)
     real_path  = real_items[0][0] if real_items else None
     real_cap   = real_items[0][1] if real_items else None
+    real_isvid = real_items[0][2] if real_items else False
 
-    pf, cap = POSTS[s["post"] % len(POSTS)]
+    # ── Selección del POST de marca (campaña vs rotación normal) ────────────
+    # Todas las vías pasan por pick_fresh: ninguna foto se repite en 360 días,
+    # y la story nunca lleva la misma foto que el post del mismo día.
+    idx     = REG.load_index()
+    blocked = REG.blocked_hashes(today)
+    warns   = []
+    if camp:
+        slot = s.get("camp_slot", 0)
+        # 3 de cada CAMPAIGN_G28_EVERY publicaciones son G28; la última del bloque, otra promo.
+        g28_slot = (slot % CAMPAIGN_G28_EVERY != CAMPAIGN_G28_EVERY - 1)
+        ckey = "camp_g28" if g28_slot else "camp_other"
+        plist, slist = (g28_posts, g28_stories) if g28_slot else (other_posts, other_stories)
+        pi, (pf, cap), w1 = pick_fresh(plist, s.get(ckey, 0), "posts", blocked, idx)
+        si, (sf, _),   w2 = pick_fresh(slist, s.get(ckey, 0), "stories", blocked, idx,
+                                       [REG.card_phash(f"posts/{pf}", idx)])
+    else:
+        ckey = None
+        pi, (pf, cap), w1 = pick_fresh(POSTS, s["post"], "posts", blocked, idx)
+        si, sf, w2 = pick_fresh(STORY_FILES, s["story"], "stories", blocked, idx,
+                                [REG.card_phash(f"posts/{pf}", idx)])
+    warns = [w for w in (w1, w2) if w]
+    for w in warns:
+        print(w)
     cap = rotate_caption(cap)
-    sf  = STORY_FILES[s["story"] % len(STORY_FILES)]
     post_url  = f"{RAW}/posts/{pf}"
     story_url = f"{RAW}/stories/{sf}"
 
+    # advance_post/advance_story: avanzan los contadores del modo activo. En campaña se
+    # mueven camp_slot + camp_g28/camp_other (post y story comparten índice); los
+    # contadores normales `post`/`story` quedan intactos y la rotación normal se reanuda
+    # exactamente donde estaba al terminar la campaña.
+    # WHY índice usado + 1 (no += 1): pick_fresh puede haber saltado tarjetas.
+    def advance_post(st):
+        if camp:
+            st[ckey] = pi + 1
+            st["camp_slot"] = st.get("camp_slot", 0) + 1
+        else:
+            st["post"] = pi + 1
+            st["since_real"] = st.get("since_real", 0) + 1
+    def advance_story(st):
+        # En campaña la story avanza junto al post (mismo índice) vía advance_post.
+        if not camp:
+            st["story"] = si + 1
+
+    mode = ("CAMPAÑA·G28" if (camp and (s.get('camp_slot',0) % CAMPAIGN_G28_EVERY != CAMPAIGN_G28_EVERY-1))
+            else "CAMPAÑA·otra-promo" if camp else "normal")
     if do_real:
-        print(f"NEXT = FOTO REAL: {os.path.basename(real_path)}  (since_real={s.get('since_real',0)} ≥ {REAL_EVERY})")
+        print(f"NEXT = {'REEL' if real_isvid else 'FOTO'} REAL: {os.path.basename(real_path)}  "
+              f"(campaña={camp}, since_real={s.get('since_real',0)})")
         print(f"--- CAPTION ---\n{real_cap}\n---  (story: {sf})")
     else:
-        print(f"NEXT = POST MARCA: {pf}\nSTORY: {sf}\n--- CAPTION ---\n{cap}\n---  (real en {REAL_EVERY - s.get('since_real',0)} posts)")
+        print(f"NEXT [{mode}] = POST: {pf}\nSTORY: {sf}\n--- CAPTION ---\n{cap}\n---")
 
     if DRY:
         print("DRY RUN — nada publicado.")
         return
 
-    today = str(datetime.date.today())
     if os.environ.get("FORCE") != "1" and datetime.date.today().toordinal() % CYCLE_DIV != CYCLE_DAY:
         print(f"Día de descanso ({today}) — Manzanos Hábitat publica cuando ordinal%{CYCLE_DIV}=={CYCLE_DAY}.")
         return
@@ -299,9 +509,11 @@ def main():
         if body_today and latest_post_body() == body_today:
             print("Post de hoy YA es el último del feed (idempotencia API) — re-sincronizo estado, no republico.")
             s["last_date"] = today
-            s["post"] += 1
-            s["since_real"] = s.get("since_real", 0) + 1
+            advance_post(s)
+            advance_story(s)
             save_state(s)
+            if not any(r.get("date") == today and r.get("kind") == "post" for r in REG.load_ledger()):
+                _ledger(today, "post", f"posts/{pf}", idx)
             return
     if datetime.datetime.now().hour < 14 and random.random() < 0.40:
         print("Aplazo a franja posterior (rompe patrón horario).")
@@ -315,17 +527,17 @@ def main():
             h = hashlib.sha1(open(real_path, "rb").read()).hexdigest()[:8]
             base, ext = os.path.splitext(os.path.basename(real_path))
             url = gh_upload(real_path, f"{base}-{h}{ext.lower()}")
-            time.sleep(5)
-            pr = publish_image(url, caption=real_cap)
+            time.sleep(8 if real_isvid else 5)
+            pr = publish_reel(url, real_cap) if real_isvid else publish_image(url, caption=real_cap)
             # WHY: id basta — el post YA está publicado aunque el fetch del permalink
             # falle por red; sin esto se publicaba TAMBIÉN el post de marca (duplicado)
             if pr.get("permalink") or pr.get("id"):
                 is_real = True; cap = real_cap; post_url = url
             else:
-                print("Foto real falló, fallback a marca:", json.dumps(pr)[:200])
+                print("Drop real falló, fallback a marca:", json.dumps(pr)[:200])
                 pr = publish_image(post_url, caption=cap)
         except Exception as e:
-            print("EXCEPCIÓN foto real, fallback a marca:", e)
+            print("EXCEPCIÓN drop real, fallback a marca:", e)
             pr = publish_image(post_url, caption=cap)
     else:
         pr = publish_image(post_url, caption=cap)
@@ -340,16 +552,26 @@ def main():
         if is_real:
             archive_real(real_path); s["since_real"] = 0
         else:
-            s["post"] += 1
-            s["since_real"] = s.get("since_real", 0) + 1
+            advance_post(s)
         save_state(s)
+        # Ledger de fotos JUSTO tras confirmar, igual que save_state.
+        if is_real:
+            try:
+                rph = REG.phash(os.path.join(DONE_DIR, os.path.basename(real_path))) if not real_isvid else None
+            except Exception:
+                rph = None
+            _ledger(today, "post", f"reales/{os.path.basename(real_path)}", idx,
+                    ph=rph, photo=f"reales/published/{os.path.basename(real_path)}")
+        else:
+            _ledger(today, "post", f"posts/{pf}", idx)
 
     time.sleep(random.randint(20, 120))  # gap humano antes del story
     sr = publish_image(story_url, story=True)
     story_ok = bool(sr.get("permalink") or sr.get("id"))
     if story_ok:
-        s["story"] += 1
+        advance_story(s)
         save_state(s)
+        _ledger(today, "story", f"stories/{sf}", idx)
 
     plink = (pr.get("permalink")
              or (f"publicado (id {pr.get('id')}, permalink no disponible)" if pr.get("id")
@@ -363,7 +585,12 @@ def main():
             "⚠️ FALLO al publicar — Instagram Manzanos Hábitat (revisar)")
     post_path  = real_path if is_real else os.path.join(LOCAL, "posts", pf)
     story_path = os.path.join(LOCAL, "stories", sf)
-    kind = "Foto real (drop folder)" if is_real else f"Post {s['post']}/{len(POSTS)}"
+    if is_real:
+        kind = ("Reel real (drop folder)" if real_isvid else "Foto real (drop folder)")
+    elif camp:
+        kind = f"CAMPAÑA MH Grande 28 · {mode} (hasta {CAMPAIGN_UNTIL})"
+    else:
+        kind = f"Post {s['post']}/{len(POSTS)}"
     email_summary(
         f"<p>Publicado hoy en <b>@manzanoshabitat</b> · <b>{kind}</b>:</p>"
         f"<p>📸 <b>Post:</b> <a href='{plink}'>{plink}</a><br>📱 <b>Story:</b> {sok}</p>"
@@ -375,7 +602,9 @@ def main():
         f"</tr></table>"
         f"<p style='color:#888;font-size:12px'>Caption:</p>"
         f"<pre style='white-space:pre-wrap;color:#555;font-size:12px'>{cap}</pre>"
-        f"<p style='color:#aaa;font-size:11px'>Cadencia 1-sí-1-no (días pares) · rotación automática.</p>",
+        + "".join(f"<p style='color:#b00;font-weight:bold'>{w}</p>" for w in warns) +
+        f"<p style='color:#aaa;font-size:11px'>Cadencia 1-sí-1-no (días pares) · rotación automática · "
+        f"ninguna foto se repite en {REG.NO_REPEAT_DAYS} días.</p>",
         post_path, story_path, subject=subj
     )
 

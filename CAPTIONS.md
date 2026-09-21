@@ -9,7 +9,7 @@ invertir en tu futuro — siempre anclado a un proyecto real en venta o a la zon
 
 ---
 
-## 128 POSTS
+## 218 POSTS
 ### `01-villafranca.jpg`
 El esfuerzo de hoy es el hogar de mañana. 🏡
 MH Villafranca: 34 viviendas unifamiliares con piscina, pádel y jardín privado en la Ribera de Navarra. A 35 min de Pamplona.
@@ -206,12 +206,26 @@ Descubre la obra nueva de Manzanos Hábitat en Navarra y La Rioja. Más informac
 
 #ManzanosHabitat #Logrono #LaRioja #ObraNueva #Inmobiliaria #Vivienda #Inversion #CalidadDeVida
 
+### `106-g28-fachada.jpg`
+Una calle, tres fachadas, cuatro residencias. 🏛️
+MH Grande 28 levanta en la Calle Grande de Calahorra un edificio de arquitectura clásica señorial restaurada con criterio contemporáneo, con fachadas a Calle Grande, Calle Sol y Calle Cavas.
+Precio bajo solicitud en la web. Link en la bio.
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #Interiorismo #LuxuryRealEstate
+
 ### `22-pamplona.jpg`
 Trabajar cerca de la ciudad, vivir con la calma del campo. 🏡
 La comarca de Pamplona une empleo, servicios y naturaleza en un mismo entorno. El lugar perfecto para tu próxima vivienda en Navarra.
 Conoce los proyectos de obra nueva de Manzanos Hábitat. Más información en el link de la bio.
 
 #ManzanosHabitat #Pamplona #Navarra #ObraNueva #Inmobiliaria #Vivienda #Inversion #CalidadDeVida
+
+### `107-azagra-aza-int.jpg`
+Una casa que se entiende nada más entrar. 🏡
+Interior de MH Azagra: 8 casas con piscina y jardín en la Ribera de Navarra.
+¿Qué es lo primero que miras en una casa nueva?
+
+#ManzanosHabitat #MHAzagra #Azagra #Navarra #ObraNueva #RiberaDeNavarra #CasaConJardin #ViviendaNueva
 
 ### `23-tudela.jpg`
 El sur de Navarra crece, y con él tus oportunidades. 🌆
@@ -220,12 +234,26 @@ Obra nueva de Manzanos Hábitat en la Ribera de Navarra. Más información en el
 
 #ManzanosHabitat #Tudela #Navarra #RiberaDeNavarra #ObraNueva #Inmobiliaria #Vivienda #Inversion
 
+### `108-g28-cocina.jpg`
+El corazón de la casa, a la vista. ✨
+Gran salón con cocina abierta de 76 m² e isla de mármol natural: así se vive cada residencia de MH Grande 28.
+Tour virtual y dossier en el link de la bio.
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #LuxuryRealEstate #Exclusivo
+
 ### `24-valle-ebro.jpg`
 Donde el Ebro marca el camino, el progreso lo sigue. 🌾
 El corredor del Ebro une Navarra y La Rioja: el eje del empleo, la agroindustria y la oportunidad del norte. Aquí construimos futuro.
 Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
 
 #ManzanosHabitat #ValleDelEbro #Navarra #LaRioja #ObraNueva #Inversion #Inmobiliaria #Vivienda
+
+### `186-villafranca-vil-calle.jpg`
+Una urbanización privada con calle interior. 🌳
+MH Villafranca: 34 viviendas con piscina, pádel y jardín en la Ribera de Navarra.
+Pre-reserva reembolsable en la web. Link en la bio.
+
+#ManzanosHabitat #MHVillafranca #Villafranca #Navarra #ObraNueva #RiberaDeNavarra #CasasConPiscina #Unifamiliar
 
 ### `25-financiacion.jpg`
 El mejor momento para comprar llega cuando tienes un buen plan. 🔑
@@ -234,12 +262,26 @@ Más información en el link de la bio.
 
 #ManzanosHabitat #ObraNueva #Financiacion #Hipoteca #Vivienda #Inmobiliaria #Inversion #Navarra
 
+### `109-g28-dorm.jpg`
+Seis dormitorios. Ninguno de relleno. 🛏️
+Cada residencia de MH Grande 28 tiene 6 dormitorios y 7 baños: cuatro dormitorios adicionales con baño completo, además de la suite.
+Pre-reserva reembolsable. Más información en la bio.
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #DiseñoInterior #ViviendaDeLujo
+
 ### `26-eficiencia-energetica.jpg`
 Quien construye bien, ahorra toda la vida. ♻️
 La obra nueva de Manzanos Hábitat se entrega con la máxima calificación energética: menos consumo, más confort y más valor para tu hogar.
 Más información en el link de la bio.
 
 #ManzanosHabitat #EficienciaEnergetica #ObraNueva #Sostenibilidad #Vivienda #Navarra #LaRioja #Inmobiliaria
+
+### `160-azagra-aza-dorm.jpg`
+Dormir bien empieza por la casa. 🌙
+Dormitorio de MH Azagra, obra nueva con piscina y jardín en la Ribera de Navarra.
+Planos, vídeo y memoria en el link de la bio.
+
+#ManzanosHabitat #MHAzagra #Azagra #Navarra #ObraNueva #RiberaDeNavarra #CasaConJardin #ViviendaNueva
 
 ### `27-azagra-valor.jpg`
 El valor de una vivienda no es solo lo que cuesta: es lo que se construye a su alrededor. 🏡
@@ -248,12 +290,26 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 #ManzanosHabitat #Azagra #Navarra #RiberaDeNavarra #ObraNueva #Inmobiliaria #Vivienda #Inversion
 
+### `110-g28-bano.jpg`
+Siete baños. Cada uno con su carácter. 🤍
+Mármol natural y firmas premium en los baños de MH Grande 28. Todo incluido, salvo el mobiliario.
+¿Qué pesa más para usted: metros o ubicación?
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #Exclusivo #Interiorismo
+
 ### `28-calahorra-ciudad.jpg`
 Hay ciudades que conservan su historia mientras miran hacia adelante. 🏛️
 Calahorra reúne patrimonio, servicios y oportunidad en el corazón de La Rioja Baja. El lugar ideal para tu próxima vivienda.
 Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
 
 #ManzanosHabitat #Calahorra #LaRioja #ObraNueva #Inmobiliaria #Vivienda #Inversion #Patrimonio
+
+### `111-g28-rooftop.jpg`
+Una piscina sobre los tejados de Calahorra. 🌅
+Rooftop de MH Grande 28 con piscina exterior, solárium y vistas al casco histórico.
+Precio bajo solicitud en la web. Link en la bio.
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #ViviendaDeLujo #Rooftop
 
 ### `29-haro-atalaya.jpg`
 Invertir donde la vida tiene buena vista. 🍇
@@ -262,12 +318,26 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 #ManzanosHabitat #Haro #LaRioja #ObraNueva #Inmobiliaria #Vivienda #Inversion #RiojaAlta
 
+### `161-azagra-aza-dorm.jpg`
+Una habitación para cada uno. 🛏️
+MH Azagra: 8 casas de obra nueva en Azagra, Navarra.
+¿Qué es lo primero que miras en una casa nueva?
+
+#ManzanosHabitat #MHAzagra #Azagra #Navarra #ObraNueva #RiberaDeNavarra #CasaConJardin #ViviendaNueva
+
 ### `30-logrono-casco.jpg`
 En el casco antiguo de Logroño cada calle cuenta una historia; tú escribes la tuya. ✨
 La capital riojana ofrece vida urbana, cultura y gastronomía con la comodidad de una ciudad a medida. Tu hogar te espera.
 Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
 
 #ManzanosHabitat #Logrono #LaRioja #ObraNueva #Inmobiliaria #Vivienda #Inversion #VidaUrbana
+
+### `112-g28-dorm.jpg`
+Descansar también es un lujo. 🌙
+Dormitorios con baño propio, luz natural y climatización en todas las estancias. MH Grande 28, Calahorra.
+Compra sobre plano con aval bancario y financiación de hasta el 90%. Bio.
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #Interiorismo #LuxuryRealEstate
 
 ### `31-tafalla.jpg`
 El progreso también se vive en las ciudades medias. 🌳
@@ -276,12 +346,26 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 #ManzanosHabitat #Tafalla #Navarra #ObraNueva #Inmobiliaria #Vivienda #Inversion #CalidadDeVida
 
+### `187-villafranca-vil-calle.jpg`
+A 35 minutos de Pamplona, a un paso de casa. 🏡
+MH Villafranca, obra nueva en Villafranca, Navarra.
+Planos, vídeo y memoria en el link de la bio.
+
+#ManzanosHabitat #MHVillafranca #Villafranca #Navarra #ObraNueva #RiberaDeNavarra #CasasConPiscina #Unifamiliar
+
 ### `32-villafranca-plaza.jpg`
 Construir patrimonio empieza por elegir bien el lugar. 🏡
 Villafranca, en la Ribera de Navarra, ofrece la calma de un pueblo con todos los servicios y a 35 min de Pamplona. Obra nueva pensada para vivir.
 Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
 
 #ManzanosHabitat #Villafranca #Navarra #RiberaDeNavarra #ObraNueva #Inmobiliaria #Vivienda #Inversion
+
+### `113-g28-dorm.jpg`
+Una habitación para cada etapa de la vida. 🤍
+MH Grande 28 está pensado para familias con niños y para quien quiere vivirlo todo a pie, sin depender del coche.
+¿Rooftop al atardecer o spa en invierno?
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #Rooftop #DiseñoInterior
 
 ### `33-san-adrian.jpg`
 El progreso se construye donde hay futuro. 🌇
@@ -290,12 +374,26 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 #ManzanosHabitat #SanAdrian #Navarra #RiberaDeNavarra #ObraNueva #Inmobiliaria #Vivienda #Inversion
 
+### `162-azagra-aza-dorm.jpg`
+El dormitorio principal que siempre quisiste. ✨
+Interior de MH Azagra, en el corazón de la Ribera de Navarra.
+Pre-reserva reembolsable en la web. Link en la bio.
+
+#ManzanosHabitat #MHAzagra #Azagra #Navarra #ObraNueva #RiberaDeNavarra #CasaConJardin #ViviendaNueva
+
 ### `34-logrono-obra-nueva.jpg`
 La obra nueva marca el ritmo de una ciudad que crece. 🏗️
 Logroño consolida su mercado de vivienda nueva: calidad, eficiencia y demanda estable en la capital de La Rioja. Un buen momento para dar el paso.
 Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
 
 #ManzanosHabitat #Logrono #LaRioja #ObraNueva #Inmobiliaria #Vivienda #Inversion #ViviendaNueva
+
+### `114-g28-cocina.jpg`
+Cocinar también es un plan. 🍽️
+Cocina completa incluida y abierta al salón en MH Grande 28. Todo incluido, salvo el mobiliario.
+Pre-reserva reembolsable. Más información en la bio.
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #LuxuryRealEstate #Exclusivo
 
 ### `35-haro-inversion.jpg`
 Invertir en el corazón del Rioja siempre es buena decisión. 🍇
@@ -304,12 +402,26 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 #ManzanosHabitat #Haro #LaRioja #RiojaAlta #ObraNueva #Inversion #Inmobiliaria #Vivienda
 
+### `115-g28-comedor.jpg`
+Una mesa para doce, porque en casa siempre cabe alguien más. 🍷
+Comedor para doce comensales en cada residencia de MH Grande 28. Una planta completa, un solo propietario.
+Solo cuatro propietarios. Sea uno de ellos. Dossier en la bio.
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #DiseñoInterior #ViviendaDeLujo
+
 ### `36-tudela-barrios.jpg`
 Conocer la ciudad es el primer paso para elegir bien. 🌆
 Tudela, capital de la Ribera de Navarra, ofrece barrios con carácter propio, servicios y una gran calidad de vida. Elegir dónde vivir también es invertir.
 Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
 
 #ManzanosHabitat #Tudela #Navarra #RiberaDeNavarra #ObraNueva #Inmobiliaria #Vivienda #Inversion
+
+### `163-azagra-aza-int.jpg`
+Luz natural, espacios limpios, vida tranquila. 🌿
+Así se vive por dentro MH Azagra, obra nueva en el corazón de la Ribera.
+Planos, vídeo y memoria en el link de la bio.
+
+#ManzanosHabitat #MHAzagra #Azagra #Navarra #ObraNueva #RiberaDeNavarra #CasaConJardin #ViviendaNueva
 
 ### `37-impuestos-rioja.jpg`
 Comprar bien también es conocer los números. 🧾
@@ -318,12 +430,26 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 #ManzanosHabitat #LaRioja #ObraNueva #Vivienda #Inmobiliaria #ComprarVivienda #Inversion #ViviendaNueva
 
+### `116-g28-pasillo.jpg`
+Una planta completa. Un solo propietario. 🏛️
+350 m² por residencia en MH Grande 28, con ascensor que llega directo a la vivienda.
+¿Cena en la terraza o sobremesa en casa?
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #Exclusivo #Interiorismo
+
 ### `38-vivienda-sostenible.jpg`
 El hogar del futuro se construye con conciencia. ♻️
 Vivienda sostenible en la Ribera de Navarra: eficiencia energética, confort y menos consumo para toda la vida. Construir bien es cuidar tu bolsillo y tu entorno.
 Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
 
 #ManzanosHabitat #Sostenibilidad #ObraNueva #EficienciaEnergetica #RiberaDeNavarra #Navarra #Vivienda #Inmobiliaria
+
+### `188-villafranca-vil-calle.jpg`
+Calles tranquilas para crecer. 🚲
+MH Villafranca: vivienda unifamiliar en urbanización privada.
+¿Qué es lo primero que miras en una casa nueva?
+
+#ManzanosHabitat #MHVillafranca #Villafranca #Navarra #ObraNueva #RiberaDeNavarra #CasasConPiscina #Unifamiliar
 
 ### `39-obra-nueva-segunda-mano.jpg`
 Elegir obra nueva es elegir tranquilidad. 🏡
@@ -332,12 +458,26 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 #ManzanosHabitat #ObraNueva #Vivienda #Inmobiliaria #Navarra #LaRioja #ComprarVivienda #ViviendaNueva
 
+### `117-g28-sauna.jpg`
+Sauna y baño turco, un piso más abajo. 🧖
+Spa privado en la planta baja de MH Grande 28: sauna, baño turco y piscina interior climatizada.
+Compra sobre plano con aval bancario y financiación de hasta el 90%. Bio.
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #ViviendaDeLujo #Rooftop
+
 ### `40-orientacion-luz.jpg`
 La luz también se elige al comprar tu casa. ☀️
 Una buena orientación aporta luz natural, ahorro energético y bienestar durante todo el año. En Manzanos Hábitat diseñamos cada vivienda para aprovecharla al máximo.
 Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
 
 #ManzanosHabitat #ObraNueva #LuzNatural #EficienciaEnergetica #Vivienda #Inmobiliaria #Navarra #LaRioja
+
+### `164-azagra-aza-dorm.jpg`
+Espacio para crecer. 🤍
+Casas de obra nueva para la vida en familia en MH Azagra.
+¿Qué es lo primero que miras en una casa nueva?
+
+#ManzanosHabitat #MHAzagra #Azagra #Navarra #ObraNueva #RiberaDeNavarra #CasaConJardin #ViviendaNueva
 
 ### `41-jardin-verano.jpg`
 El verano se disfruta más en casa propia. 🌿
@@ -346,12 +486,26 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 #ManzanosHabitat #ObraNueva #RiberaDeNavarra #Navarra #Vivienda #Inmobiliaria #CalidadDeVida #ViviendaNueva
 
+### `118-g28-spa.jpg`
+Bienestar de hotel, privacidad de hogar. 💧
+El spa de MH Grande 28, para solo cuatro familias en el centro de Calahorra.
+Tour virtual y dossier en el link de la bio.
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #Interiorismo #LuxuryRealEstate
+
 ### `42-logrono-espolon.jpg`
 Vivir en Logroño es vivir su ritmo. 🌳
 El Espolón, corazón verde de la capital de La Rioja, resume su calidad de vida: parques, cultura y buena gastronomía a un paso de casa.
 Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
 
 #ManzanosHabitat #Logrono #LaRioja #ObraNueva #Vivienda #Inmobiliaria #CalidadDeVida #Inversion
+
+### `119-g28-dorm.jpg`
+El silencio del centro histórico, dentro de casa. 🕊️
+Dormitorio de MH Grande 28, en pleno casco antiguo de Calahorra. Domótica integrada y aerotermia.
+¿Con qué estancia se quedaría?
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #Rooftop #DiseñoInterior
 
 ### `43-villafranca-zonas-comunes.jpg`
 Una urbanización que se vive más allá de tu puerta. 🌳
@@ -360,12 +514,26 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 #ManzanosHabitat #Villafranca #Navarra #ObraNueva #Vivienda #Inmobiliaria #ZonasComunes #CalidadDeVida
 
+### `165-azagra-aza-salon.jpg`
+El salón donde pasa todo. 🛋️
+Salón y cocina abiertos en MH Azagra, obra nueva con piscina y jardín en Navarra.
+Pre-reserva reembolsable en la web. Link en la bio.
+
+#ManzanosHabitat #MHAzagra #Azagra #Navarra #ObraNueva #RiberaDeNavarra #CasaConJardin #ViviendaNueva
+
 ### `44-calahorra-2026.jpg`
 2026 es un buen momento para comprar en Calahorra. 🌆
 Segunda ciudad de La Rioja, une servicios, empleo y proyección de futuro. Una gran oportunidad para invertir en obra nueva con buena relación calidad-precio.
 Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
 
 #ManzanosHabitat #Calahorra #LaRioja #ObraNueva #Vivienda #Inmobiliaria #Inversion #ComprarVivienda
+
+### `120-g28-dorm.jpg`
+La suite que merece un día largo. ✨
+Suite principal con doble vestidor y baño en mármol en cada residencia de MH Grande 28.
+Solo cuatro propietarios. Sea uno de ellos. Dossier en la bio.
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #LuxuryRealEstate #Exclusivo
 
 ### `45-san-adrian-plaza-mh.jpg`
 Construir futuro también es elegir dónde vivirlo. 🏘️
@@ -374,12 +542,26 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 #ManzanosHabitat #SanAdrian #Navarra #ObraNueva #Vivienda #Inmobiliaria #RiberaDeNavarra #ComprarVivienda
 
+### `189-villafranca-vil-calle.jpg`
+Primavera en tu calle. 🌸
+MH Villafranca, 34 viviendas en la Ribera de Navarra.
+Pre-reserva reembolsable en la web. Link en la bio.
+
+#ManzanosHabitat #MHVillafranca #Villafranca #Navarra #ObraNueva #RiberaDeNavarra #CasasConPiscina #Unifamiliar
+
 ### `46-passivhaus-tudela.jpg`
 La eficiencia no se ve, se nota cada mes. 🌿
 La obra nueva de alto rendimiento energético reduce el consumo y mejora el confort durante todo el año. Invertir en eficiencia es invertir en el largo plazo.
 Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
 
 #ManzanosHabitat #Tudela #Navarra #ObraNueva #EficienciaEnergetica #Vivienda #Sostenibilidad #Inmobiliaria
+
+### `121-g28-comedor.jpg`
+Las mejores sobremesas necesitan espacio. 🕯️
+Salón comedor de MH Grande 28: 350 m² por planta y luz natural en todas las estancias.
+Precio bajo solicitud en la web. Link en la bio.
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #DiseñoInterior #ViviendaDeLujo
 
 ### `47-villafranca-vivir.jpg`
 Una casa con jardín, a 35 minutos de Pamplona. 🏡
@@ -388,12 +570,26 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 #ManzanosHabitat #Villafranca #Navarra #ObraNueva #ViviendaNueva #Unifamiliar #RiberaDeNavarra #Inmobiliaria
 
+### `166-azagra-aza-int.jpg`
+La planta de arriba, pensada para descansar. 🤍
+Distribución de MH Azagra: casas de obra nueva con piscina y jardín en Azagra, Navarra.
+Planos, vídeo y memoria en el link de la bio.
+
+#ManzanosHabitat #MHAzagra #Azagra #Navarra #ObraNueva #RiberaDeNavarra #CasaConJardin #ViviendaNueva
+
 ### `48-haro-plaza-mayor.jpg`
 Haro: capital del vino, ciudad para vivir. 🍇
 Patrimonio, gastronomía y una calidad de vida difícil de igualar en La Rioja Alta. Un destino consolidado que mantiene su atractivo residencial.
 Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la bio.
 
 #ManzanosHabitat #Haro #LaRioja #ObraNueva #Vivienda #Inmobiliaria #CalidadDeVida #Inversion
+
+### `122-g28-bano.jpg`
+El primer lujo del día. ☕
+Baño en mármol de MH Grande 28, en el centro histórico de Calahorra.
+¿Qué pesa más para usted: metros o ubicación?
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #Exclusivo #Interiorismo
 
 ### `49-logrono-portales.jpg`
 Vivir en Logroño es vivir a pie de calle. 🌆
@@ -402,6 +598,13 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 #ManzanosHabitat #Logrono #LaRioja #ObraNueva #Vivienda #Inmobiliaria #CalidadDeVida #ComprarVivienda
 
+### `123-g28-vestidor.jpg`
+Doble vestidor. Sin negociaciones. 😉
+La suite principal de MH Grande 28 incluye doble vestidor y baño en mármol.
+Tour virtual y dossier en el link de la bio.
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #ViviendaDeLujo #Rooftop
+
 ### `50-personalizar-interior.jpg`
 Comprar sobre plano tiene una ventaja: decides tú. ✨
 Acabados, distribución, materiales. La obra nueva permite ajustar la vivienda a tu forma de vivir antes de que esté terminada.
@@ -409,7 +612,13 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 #ManzanosHabitat #ObraNueva #Vivienda #Inmobiliaria #Navarra #LaRioja #SobrePlano #ViviendaNueva
 
----
+
+### `167-azagra-aza-int.jpg`
+Bienvenido a casa. 🔑
+Recibidor de MH Azagra, obra nueva en la Ribera de Navarra.
+¿Qué es lo primero que miras en una casa nueva?
+
+#ManzanosHabitat #MHAzagra #Azagra #Navarra #ObraNueva #RiberaDeNavarra #CasaConJardin #ViviendaNueva
 
 ### `51-garantias-obra-nueva.jpg`
 Estrenar vivienda es también estrenar tranquilidad. 🔑
@@ -418,7 +627,13 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 #ManzanosHabitat #ObraNueva #Vivienda #Inmobiliaria #Navarra #LaRioja #ViviendaNueva #Garantias
 
----
+
+### `124-g28-rooftop.jpg`
+La mejor terraza de Calahorra no es de un bar. 🥂
+Piscina exterior y solárium en la cubierta de MH Grande 28, solo para cuatro familias.
+Pre-reserva reembolsable. Más información en la bio.
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #Interiorismo #LuxuryRealEstate
 
 ### `52-personalizar-calidades.jpg`
 Una vivienda a tu medida empieza por las calidades. ✨
@@ -427,7 +642,13 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 #ManzanosHabitat #ObraNueva #Calidades #Vivienda #Inmobiliaria #Navarra #LaRioja #SobrePlano
 
----
+
+### `193-villafranca-vil-juegos.jpg`
+Que los niños jueguen en la puerta de casa. 🛝
+Zonas comunes de MH Villafranca, urbanización privada en la Ribera de Navarra.
+Planos, vídeo y memoria en el link de la bio.
+
+#ManzanosHabitat #MHVillafranca #Villafranca #Navarra #ObraNueva #RiberaDeNavarra #CasasConPiscina #Unifamiliar
 
 ### `53-amueblar-casa-nueva.jpg`
 El placer de estrenar y empezar de cero. 🏡
@@ -436,7 +657,13 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 #ManzanosHabitat #ObraNueva #Vivienda #Interiorismo #Inmobiliaria #Navarra #LaRioja #ViviendaNueva
 
----
+
+### `125-g28-rooftop.jpg`
+Verano en casa, a la altura de los tejados. ☀️
+El rooftop de MH Grande 28: piscina, solárium y comedor exterior sobre el centro histórico.
+¿Rooftop al atardecer o spa en invierno?
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #Rooftop #DiseñoInterior
 
 ### `54-mh-azagra-unifamiliar.jpg`
 MH Azagra: vivir en unifamiliar en el corazón de la Ribera. 🌿
@@ -445,7 +672,13 @@ Descubre MH Azagra. Más información en el link de la bio.
 
 #ManzanosHabitat #MHAzagra #Azagra #Navarra #ObraNueva #Unifamiliar #Vivienda #Inmobiliaria
 
----
+
+### `168-azagra-aza-salon.jpg`
+Doble altura, doble luz. ☀️
+Interior de MH Azagra: espacios amplios y luminosos en la Ribera.
+Pre-reserva reembolsable en la web. Link en la bio.
+
+#ManzanosHabitat #MHAzagra #Azagra #Navarra #ObraNueva #RiberaDeNavarra #CasaConJardin #ViviendaNueva
 
 ### `55-san-adrian-asequible.jpg`
 San Adrián, obra nueva en una Ribera con futuro. 🌇
@@ -454,7 +687,13 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 #ManzanosHabitat #SanAdrian #Navarra #ObraNueva #Vivienda #Inmobiliaria #Ribera #ViviendaNueva
 
----
+
+### `126-g28-rooftop.jpg`
+Atardeceres privados. 🌇
+Cubierta de MH Grande 28 con piscina exterior y vistas al casco histórico de Calahorra.
+Precio bajo solicitud en la web. Link en la bio.
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #LuxuryRealEstate #Exclusivo
 
 ### `56-ahorro-vivienda-nueva.jpg`
 Comprar obra nueva también es una decisión inteligente. 💡
@@ -463,8 +702,14 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 #ManzanosHabitat #ObraNueva #Vivienda #Inversion #Eficiencia #Inmobiliaria #Navarra #LaRioja
 
----
 
+
+### `127-g28-rooftop-comedor.jpg`
+Cenar bajo el cielo de La Rioja. 🌙
+Comedor exterior en el rooftop de MH Grande 28, con vistas al casco histórico de Calahorra.
+Compra sobre plano con aval bancario y financiación de hasta el 90%. Bio.
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #DiseñoInterior #ViviendaDeLujo
 
 ### `g28d-01.jpg`
 El lujo está en los detalles que no se ven a la primera. ✨
@@ -473,12 +718,26 @@ Descúbrela en la bio.
 
 #ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #ViviendaDeLujo #Interiorismo #CocinaDeLujo #ObraNueva
 
+### `169-azagra-aza-salon.jpg`
+Una escalera que es casi una escultura. ✨
+Salón de MH Azagra, 8 casas de obra nueva en Azagra, Navarra.
+Planos, vídeo y memoria en el link de la bio.
+
+#ManzanosHabitat #MHAzagra #Azagra #Navarra #ObraNueva #RiberaDeNavarra #CasaConJardin #ViviendaNueva
+
 ### `g28d-02.jpg`
 Construye con la calma de quien sabe lo que quiere. 🏛️
 Cada rincón de MH Grande 28 está pensado al milímetro: luz, materiales nobles y espacio de sobra. La promoción más exclusiva de La Rioja.
 Bio para más.
 
 #ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #ViviendaDeLujo #Arquitectura #Interiorismo #Exclusivo
+
+### `128-g28-vestidor.jpg`
+Orden a medida. ✨
+Carpintería interior a medida en MH Grande 28: armarios y vestidores pensados para cada residencia.
+¿Cena en la terraza o sobremesa en casa?
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #Exclusivo #Interiorismo
 
 ### `g28d-03.jpg`
 El éxito también se cocina en casa. 👨‍🍳
@@ -487,12 +746,26 @@ Solicita información en la bio.
 
 #ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #CocinaDeLujo #Interiorismo #ViviendaDeLujo #Lifestyle
 
+### `194-villafranca-vil-calle.jpg`
+Aparcar en la puerta de casa. 🔑
+Viviendas unifamiliares con jardín privado en MH Villafranca.
+¿Qué es lo primero que miras en una casa nueva?
+
+#ManzanosHabitat #MHVillafranca #Villafranca #Navarra #ObraNueva #RiberaDeNavarra #CasasConPiscina #Unifamiliar
+
 ### `g28d-04.jpg`
 Los grandes proyectos se disfrutan en los pequeños momentos. 🥂
 Detalle interior de MH Grande 28: diseño editorial, materiales de primera y domótica integrada en pleno centro de Calahorra.
 Link en la bio.
 
 #ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #ViviendaDeLujo #Domotica #Interiorismo #ObraNueva
+
+### `129-g28-dorm.jpg`
+Espacio para crecer sin mudarse. 🏡
+6 dormitorios, 7 baños y 3 plazas de garaje por residencia. MH Grande 28, Calahorra.
+Pre-reserva reembolsable. Más información en la bio.
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #ViviendaDeLujo #Rooftop
 
 ### `g28d-05.jpg`
 Que tu casa hable de ti sin decir una palabra. 🤍
@@ -501,12 +774,26 @@ Más en la bio.
 
 #ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #Interiorismo #DiseñoInterior #ViviendaDeLujo #Exclusivo
 
+### `170-azagra-aza-dorm.jpg`
+Luz de mañana en tu habitación. ☀️
+Dormitorio de MH Azagra: obra nueva, jardín y piscina en Azagra.
+¿Qué es lo primero que miras en una casa nueva?
+
+#ManzanosHabitat #MHAzagra #Azagra #Navarra #ObraNueva #RiberaDeNavarra #CasaConJardin #ViviendaNueva
+
 ### `g28d-06.jpg`
 Invertir en calidad nunca pasa de moda. 📈
 MH Grande 28: acabados nobles, suelo radiante, aerotermia y spa privado del edificio. El lujo que se revaloriza.
 Descubre cómo en la bio.
 
 #ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #Inversion #ViviendaDeLujo #ObraNueva #Patrimonio
+
+### `130-g28-salon.jpg`
+Sin vecinos de rellano. 🔑
+El ascensor llega directo a su vivienda. MH Grande 28: una planta completa, un solo propietario.
+Solo cuatro propietarios. Sea uno de ellos. Dossier en la bio.
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #Interiorismo #LuxuryRealEstate
 
 ### `g28d-07.jpg`
 Un hogar a la altura de tu esfuerzo. 🌟
@@ -515,12 +802,26 @@ Solo 4 residencias. Bio.
 
 #ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #ViviendaDeLujo #Interiorismo #Calidad #Exclusivo
 
+### `131-g28-salon.jpg`
+Luz a dos calles, en todas las estancias. ☀️
+El salón de MH Grande 28 mira al centro histórico de Calahorra. Suelo radiante y aire acondicionado incluidos.
+¿Con qué estancia se quedaría?
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #Rooftop #DiseñoInterior
+
 ### `g28d-08.jpg`
 La elegancia es una forma de pensar. 🏛️
 Interior de MH Grande 28: arquitectura clásica por fuera, vanguardia por dentro. El equilibrio perfecto en el centro histórico de Calahorra.
 Bio para saber más.
 
 #ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #Arquitectura #Interiorismo #ViviendaDeLujo #ObraNueva
+
+### `171-azagra-aza-dorm.jpg`
+Descansar en una casa a estrenar. 🌿
+MH Azagra: 8 casas con piscina y jardín.
+Pre-reserva reembolsable en la web. Link en la bio.
+
+#ManzanosHabitat #MHAzagra #Azagra #Navarra #ObraNueva #RiberaDeNavarra #CasaConJardin #ViviendaNueva
 
 ### `g28d-09.jpg`
 Espacios que inspiran a quien los habita. 💫
@@ -529,12 +830,26 @@ La Rioja nunca tuvo algo así. Bio.
 
 #ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #ViviendaDeLujo #DiseñoInterior #Exclusivo #Lifestyle
 
+### `132-g28-bano.jpg`
+Materiales que envejecen bien. 🪨
+Mármol natural y acabados de firma en MH Grande 28. Entrega llave en mano, a falta de mobiliario.
+Compra sobre plano con aval bancario y financiación de hasta el 90%. Bio.
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #LuxuryRealEstate #Exclusivo
+
 ### `g28d-10.jpg`
 Lo extraordinario empieza donde acaba lo estándar. ✨
 Detalle de MH Grande 28, la promoción más exclusiva de La Rioja: 4 residencias, una por planta, en pleno centro de Calahorra.
 Link en bio.
 
 #ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #ViviendaDeLujo #Exclusivo #ObraNueva #Interiorismo
+
+### `195-villafranca-vil-calle.jpg`
+Un barrio nuevo con alma de pueblo. 🤍
+MH Villafranca: piscina, pádel y zonas comunes en la Ribera de Navarra.
+Pre-reserva reembolsable en la web. Link en la bio.
+
+#ManzanosHabitat #MHVillafranca #Villafranca #Navarra #ObraNueva #RiberaDeNavarra #CasasConPiscina #Unifamiliar
 
 ### `g28d-11.jpg`
 Cada amanecer merece un escenario así. 🌅
@@ -543,12 +858,26 @@ Descúbrelo en la bio.
 
 #ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #Interiorismo #ViviendaDeLujo #Hogar #Lifestyle
 
+### `133-g28-dorm.jpg`
+Buenas noches, Calle Grande. 🌙
+Dormitorios con orientación a dos calles en MH Grande 28, el edificio insignia del centro de Calahorra.
+Tour virtual y dossier en el link de la bio.
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #DiseñoInterior #ViviendaDeLujo
+
 ### `g28d-12.jpg`
 El detalle es el nuevo lujo. 🖤
 MH Grande 28, Calahorra: iluminación pensada, mármol natural y carpintería a medida en cada residencia.
 Solo 4. Bio.
 
 #ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #ViviendaDeLujo #Interiorismo #DiseñoInterior #Exclusivo
+
+### `172-azagra-aza-dorm.jpg`
+Tu rincón, a tu manera. 🏡
+Interior de MH Azagra, en la Ribera de Navarra.
+Planos, vídeo y memoria en el link de la bio.
+
+#ManzanosHabitat #MHAzagra #Azagra #Navarra #ObraNueva #RiberaDeNavarra #CasaConJardin #ViviendaNueva
 
 ### `g28d-13.jpg`
 Hay casas que se enseñan y hogares que se presumen. 🏆
@@ -557,12 +886,26 @@ Más en bio.
 
 #ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #ViviendaDeLujo #Domotica #ObraNueva #Lifestyle
 
+### `134-g28-rooftop.jpg`
+El lujo de compartir sin renunciar a la intimidad. 🤍
+Zonas comunes de MH Grande 28: un club privado para solo cuatro familias.
+¿Qué pesa más para usted: metros o ubicación?
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #Exclusivo #Interiorismo
+
 ### `g28d-14.jpg`
 Diseñado para quien no necesita impresionar a nadie. 🤍
 La discreción del verdadero lujo: interior de MH Grande 28, Calahorra. 4 residencias de 350 m².
 Bio para más información.
 
 #ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #ViviendaDeLujo #Exclusivo #Interiorismo #Elegancia
+
+### `135-g28-rooftop.jpg`
+Una piscina sobre los tejados de Calahorra. 🌅
+Rooftop de MH Grande 28 con piscina exterior, solárium y vistas al casco histórico.
+Solo cuatro propietarios. Sea uno de ellos. Dossier en la bio.
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #ViviendaDeLujo #Rooftop
 
 ### `g28d-15.jpg`
 El futuro pertenece a los que construyen hoy. 🔑
@@ -571,12 +914,26 @@ Reserva tu visita en la bio.
 
 #ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #Inversion #ViviendaDeLujo #ObraNueva #Patrimonio
 
+### `173-azagra-aza-ext.jpg`
+Tu calle, tu casa, tu jardín. 🌳
+MH Azagra: 8 casas con piscina y jardín en la Ribera de Navarra.
+¿Qué es lo primero que miras en una casa nueva?
+
+#ManzanosHabitat #MHAzagra #Azagra #Navarra #ObraNueva #RiberaDeNavarra #CasaConJardin #ViviendaNueva
+
 ### `g28d-16.jpg`
 Las mejores decisiones se toman en espacios que inspiran. 💭
 Detalle interior de MH Grande 28, Calahorra: luz, orden y materiales que hablan por sí solos.
 Descúbrelo en la bio.
 
 #ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #Interiorismo #DiseñoInterior #ViviendaDeLujo #Calma
+
+### `136-g28-rooftop-comedor.jpg`
+Las sobremesas de verano tienen nuevo escenario. 🍷
+Rooftop de MH Grande 28: piscina, solárium y comedor exterior para cuatro familias.
+Precio bajo solicitud en la web. Link en la bio.
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #Interiorismo #LuxuryRealEstate
 
 ### `g28d-17.jpg`
 El lujo silencioso también existe en La Rioja. 🌾
@@ -585,12 +942,26 @@ Bio.
 
 #ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #QuietLuxury #ViviendaDeLujo #Exclusivo #Interiorismo
 
+### `196-villafranca-vil-calle.jpg`
+Tu casa en la Ribera, a estrenar. 🌿
+MH Villafranca, obra nueva a 35 minutos de Pamplona.
+Planos, vídeo y memoria en el link de la bio.
+
+#ManzanosHabitat #MHVillafranca #Villafranca #Navarra #ObraNueva #RiberaDeNavarra #CasasConPiscina #Unifamiliar
+
 ### `g28d-18.jpg`
 Tu próximo capítulo merece este escenario. 📖
 Interior de MH Grande 28: pensado para vivirse a diario y disfrutarse siempre.
 Solo 4 residencias. Link en bio.
 
 #ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #ViviendaDeLujo #Hogar #Lifestyle #ObraNueva
+
+### `137-g28-bano.jpg`
+Bienestar de hotel, privacidad de hogar. 🛁
+Los baños de MH Grande 28 se entregan completos, con firmas premium.
+¿Rooftop al atardecer o spa en invierno?
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #Rooftop #DiseñoInterior
 
 ### `g28d-19.jpg`
 La excelencia no grita: susurra. ✨
@@ -599,12 +970,26 @@ Más en la bio.
 
 #ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #Interiorismo #ViviendaDeLujo #DiseñoInterior #Elegancia
 
+### `174-azagra-aza-piscina.jpg`
+Verano sin salir de casa. ☀️
+MH Azagra: casas con piscina y jardín en la Ribera de Navarra.
+Pre-reserva reembolsable en la web. Link en la bio.
+
+#ManzanosHabitat #MHAzagra #Azagra #Navarra #ObraNueva #RiberaDeNavarra #CasaConJardin #ViviendaNueva
+
 ### `g28d-20.jpg`
 Vivir bien es el mejor plan de negocio. 📊
 MH Grande 28: 350 m² de residencia, spa y gimnasio privados, rooftop con piscina. Centro histórico de Calahorra.
 Infórmate en la bio.
 
 #ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #Inversion #ViviendaDeLujo #Lifestyle #Exclusivo
+
+### `138-g28-bano.jpg`
+Un rincón para empezar despacio. 🌿
+Cada residencia de MH Grande 28 tiene 7 baños y luz natural en todas las estancias.
+Tour virtual y dossier en el link de la bio.
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #LuxuryRealEstate #Exclusivo
 
 ### `g28d-21.jpg`
 Los clásicos nunca pasan de moda. Los buenos materiales tampoco. 🏛️
@@ -613,12 +998,26 @@ Descúbrela en la bio.
 
 #ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #Arquitectura #ViviendaDeLujo #Interiorismo #ObraNueva
 
+### `139-g28-comedor.jpg`
+Donde se celebran las cosas importantes. ✨
+El comedor de MH Grande 28, en la calle más emblemática de Calahorra.
+Pre-reserva reembolsable. Más información en la bio.
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #DiseñoInterior #ViviendaDeLujo
+
 ### `g28d-22.jpg`
 El hogar como obra de arte habitable. 🖼️
 Cada residencia de MH Grande 28 ocupa una planta completa: luz, volumen y detalle en el corazón de Calahorra.
 Bio para más.
 
 #ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #ViviendaDeLujo #DiseñoInterior #Exclusivo #Arte
+
+### `175-azagra-aza-ext.jpg`
+Arquitectura contemporánea en la Ribera. 🏡
+Obra nueva en Azagra con jardín privado.
+Planos, vídeo y memoria en el link de la bio.
+
+#ManzanosHabitat #MHAzagra #Azagra #Navarra #ObraNueva #RiberaDeNavarra #CasaConJardin #ViviendaNueva
 
 ### `g28d-23.jpg`
 Cuando el trabajo bien hecho se convierte en hogar. 🥂
@@ -627,6 +1026,13 @@ Reserva información en la bio.
 
 #ManzanosHabitat #MHGrande28 #Calahorra #LaRioja #ViviendaDeLujo #Rooftop #Exclusivo #LaRiojaApetece
 
+### `140-g28-club.jpg`
+Un club privado para solo cuatro familias. 🗝️
+Las zonas comunes de MH Grande 28 reúnen piscina interior climatizada, spa, gimnasio y merendero.
+¿Cena en la terraza o sobremesa en casa?
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #Exclusivo #Interiorismo
+
 ### `63-villafranca-comparativa.jpg`
 Estrenar cuesta menos de lo que imaginas. 🏡
 MH Villafranca: obra nueva con piscina, pádel y jardín en la Ribera de Navarra, a 35 minutos de Pamplona. Comparar merece la pena cuando la calidad y la eficiencia están de tu lado.
@@ -634,7 +1040,13 @@ Descubre MH Villafranca. Más información en el link de la bio.
 
 #ManzanosHabitat #MHVillafranca #Villafranca #Navarra #ObraNueva #Vivienda #Inmobiliaria #RiberaDeNavarra
 
----
+
+### `197-villafranca-vil-juegos.jpg`
+La infancia que recordarán. 🤍
+MH Villafranca: 34 viviendas con zonas comunes pensadas para las familias.
+¿Qué es lo primero que miras en una casa nueva?
+
+#ManzanosHabitat #MHVillafranca #Villafranca #Navarra #ObraNueva #RiberaDeNavarra #CasasConPiscina #Unifamiliar
 
 ### `64-san-adrian-industria.jpg`
 Donde crece la industria, crece el hogar. 🏭
@@ -643,7 +1055,13 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 #ManzanosHabitat #SanAdrian #Navarra #ObraNueva #Vivienda #Ribera #Inmobiliaria #ViviendaNueva
 
----
+
+### `141-g28-club.jpg`
+Compartir, solo con quien usted elige. 🤍
+El lujo de compartir sin renunciar a la intimidad: zonas comunes de MH Grande 28, Calahorra.
+Precio bajo solicitud en la web. Link en la bio.
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #ViviendaDeLujo #Rooftop
 
 ### `65-rentabilidad-ribera.jpg`
 Tu vivienda también puede trabajar para ti. 📈
@@ -652,7 +1070,13 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 #ManzanosHabitat #Inversion #Rentabilidad #ObraNueva #RiberaDeNavarra #Navarra #Vivienda #Inmobiliaria
 
----
+
+### `176-azagra-aza-noche.jpg`
+Las casas también tienen su hora dorada. 🌙
+MH Azagra de noche: 8 casas con piscina y jardín en la Ribera de Navarra.
+¿Qué es lo primero que miras en una casa nueva?
+
+#ManzanosHabitat #MHAzagra #Azagra #Navarra #ObraNueva #RiberaDeNavarra #CasaConJardin #ViviendaNueva
 
 ### `66-logrono-ramblasque.jpg`
 Vivir en Logroño, capital de La Rioja. 🌇
@@ -661,7 +1085,13 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 #ManzanosHabitat #Logrono #LaRioja #ObraNueva #Vivienda #Inmobiliaria #ViviendaNueva #Inversion
 
----
+
+### `142-g28-despacho.jpg`
+Teletrabajar con vistas al casco histórico. 💻
+Cada residencia de MH Grande 28 incluye un despacho para teletrabajo, en pleno centro de Calahorra.
+Compra sobre plano con aval bancario y financiación de hasta el 90%. Bio.
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #Interiorismo #LuxuryRealEstate
 
 ### `67-tudela-nuevo-barrio.jpg`
 Tudela crece hacia el futuro. 🏗️
@@ -670,7 +1100,13 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 #ManzanosHabitat #Tudela #Navarra #ObraNueva #RiberaDeNavarra #Vivienda #Inmobiliaria #ViviendaNueva
 
----
+
+### `143-g28-cocina.jpg`
+Detalles que se tocan cada día. 🤍
+Carpintería interior a medida y mármol natural en la cocina de MH Grande 28, en el centro histórico de Calahorra.
+¿Con qué estancia se quedaría?
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #Rooftop #DiseñoInterior
 
 ### `68-aval-primera-vivienda.jpg`
 Tu primera vivienda está más cerca de lo que crees. 🔑
@@ -679,7 +1115,13 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 #ManzanosHabitat #PrimeraVivienda #ObraNueva #Financiacion #Navarra #LaRioja #Vivienda #Inmobiliaria
 
----
+
+### `177-azagra-aza-piscina.jpg`
+La piscina, a unos pasos de tu puerta. 🏊
+Obra nueva en Azagra con piscina.
+Pre-reserva reembolsable en la web. Link en la bio.
+
+#ManzanosHabitat #MHAzagra #Azagra #Navarra #ObraNueva #RiberaDeNavarra #CasaConJardin #ViviendaNueva
 
 ### `69-azagra.jpg`
 Azagra, tu próxima casa en la Ribera de Navarra. 🌳
@@ -688,7 +1130,13 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 #ManzanosHabitat #Azagra #Navarra #ObraNueva #RiberaDeNavarra #Vivienda #Inmobiliaria #ViviendaNueva
 
----
+
+### `144-g28-rooftop-bbq.jpg`
+Barbacoa con vistas a la catedral. 🔥
+El rooftop de MH Grande 28 está pensado para disfrutarse: comedor exterior, solárium y piscina.
+Pre-reserva reembolsable. Más información en la bio.
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #LuxuryRealEstate #Exclusivo
 
 ### `70-vivir-tudela.jpg`
 Vivir en Tudela es vivir la Ribera. ☀️
@@ -697,7 +1145,13 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 #ManzanosHabitat #Tudela #Navarra #ObraNueva #RiberaDeNavarra #Vivienda #Inmobiliaria #CalidadDeVida
 
----
+
+### `198-villafranca-vil-calle.jpg`
+Espacio, luz y calma. ☀️
+Urbanización privada MH Villafranca en Villafranca, Navarra.
+Pre-reserva reembolsable en la web. Link en la bio.
+
+#ManzanosHabitat #MHVillafranca #Villafranca #Navarra #ObraNueva #RiberaDeNavarra #CasasConPiscina #Unifamiliar
 
 ### `71-calahorra-casco.jpg`
 Calahorra, historia y futuro en La Rioja Baja. 🏛️
@@ -706,7 +1160,13 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 #ManzanosHabitat #Calahorra #LaRioja #ObraNueva #Vivienda #Inmobiliaria #ViviendaNueva #LaRiojaBaja
 
----
+
+### `145-g28-pasillo.jpg`
+Recorrer la casa también es un placer. 🤍
+Suelo Pergo, iluminación técnica y decorativa incluida en MH Grande 28, Calahorra.
+Solo cuatro propietarios. Sea uno de ellos. Dossier en la bio.
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #DiseñoInterior #ViviendaDeLujo
 
 ### `72-placas-solares.jpg`
 El sol trabaja para tu hogar. ☀️
@@ -715,7 +1175,13 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 #ManzanosHabitat #EnergiaSolar #EficienciaEnergetica #ObraNueva #ViviendaSostenible #Navarra #LaRioja #Vivienda
 
----
+
+### `178-azagra-aza-noche.jpg`
+Volver a casa cuando se encienden las luces. ✨
+MH Azagra, obra nueva en Azagra, Navarra.
+Planos, vídeo y memoria en el link de la bio.
+
+#ManzanosHabitat #MHAzagra #Azagra #Navarra #ObraNueva #RiberaDeNavarra #CasaConJardin #ViviendaNueva
 
 ### `73-domotica.jpg`
 Tu hogar, conectado e inteligente. 📱
@@ -724,7 +1190,13 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 #ManzanosHabitat #Domotica #HogarInteligente #ObraNueva #ViviendaNueva #Navarra #LaRioja #Inmobiliaria
 
----
+
+### `146-g28-rooftop-comedor.jpg`
+Una mesa con vistas a toda la ciudad. 🌇
+La cubierta de MH Grande 28 convierte el centro de Calahorra en su terraza.
+¿Qué pesa más para usted: metros o ubicación?
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #Exclusivo #Interiorismo
 
 ### `74-villafranca-plaza.jpg`
 Villafranca, calidad de vida junto al Ebro. 🌿
@@ -733,7 +1205,13 @@ Descubre la obra nueva de Manzanos Hábitat. Más información en el link de la 
 
 #ManzanosHabitat #Villafranca #Navarra #ObraNueva #RiberaDeNavarra #Vivienda #Inmobiliaria #ViviendaNueva
 
----
+
+### `147-g28-pasillo.jpg`
+La distribución que pide una familia. 🏡
+MH Grande 28: 6 dormitorios, 7 baños y despacho para teletrabajo en cada planta.
+Compra sobre plano con aval bancario y financiación de hasta el 90%. Bio.
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #ViviendaDeLujo #Rooftop
 
 ### `75-hipoteca-autonomos.jpg`
 Ser autónomo no te cierra la puerta a la casa nueva. 🔑
@@ -742,7 +1220,13 @@ Te acompañamos en todo el proceso. Más información en el link de la bio.
 
 #ManzanosHabitat #ObraNueva #Hipoteca #Navarra #LaRioja #RiberaDeNavarra #Vivienda #Inmobiliaria
 
----
+
+### `179-azagra-aza-ext.jpg`
+Llegar a casa y respirar. 🌿
+MH Azagra, en el corazón de la Ribera de Navarra.
+¿Qué es lo primero que miras en una casa nueva?
+
+#ManzanosHabitat #MHAzagra #Azagra #Navarra #ObraNueva #RiberaDeNavarra #CasaConJardin #ViviendaNueva
 
 ### `76-ibi-vivienda-nueva.jpg`
 El impuesto que se paga cada año, no solo el día de la firma. 🧾
@@ -751,7 +1235,13 @@ Analizamos contigo todos los costes reales. Más información en el link de la b
 
 #ManzanosHabitat #ObraNueva #Navarra #LaRioja #Vivienda #Inmobiliaria #ViviendaNueva #ComprarCasa
 
----
+
+### `148-g28-despacho.jpg`
+La oficina más cerca de casa: dentro. 📚
+Despacho independiente en MH Grande 28. Ayuntamiento a 1 minuto a pie, catedral a 5.
+Tour virtual y dossier en el link de la bio.
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #Interiorismo #LuxuryRealEstate
 
 ### `77-obra-nueva-la-rioja.jpg`
 En La Rioja se construye poco, y eso se nota en el precio. 🏗️
@@ -760,7 +1250,13 @@ Descubre nuestras promociones. Más información en el link de la bio.
 
 #ManzanosHabitat #LaRioja #ObraNueva #Calahorra #Vivienda #Inmobiliaria #ViviendaNueva #Inversion
 
----
+
+### `199-villafranca-vil-piscina.jpg`
+La piscina de la urbanización, tu verano. 🏊
+Piscina comunitaria en MH Villafranca, Ribera de Navarra.
+Planos, vídeo y memoria en el link de la bio.
+
+#ManzanosHabitat #MHVillafranca #Villafranca #Navarra #ObraNueva #RiberaDeNavarra #CasasConPiscina #Unifamiliar
 
 ### `78-vender-para-comprar.jpg`
 Vender tu casa para estrenar otra: cuestión de orden. 🔄
@@ -769,7 +1265,13 @@ Planifiquemos juntos tu cambio de casa. Más información en el link de la bio.
 
 #ManzanosHabitat #ObraNueva #Navarra #LaRioja #Vivienda #Inmobiliaria #ComprarCasa #ViviendaNueva
 
----
+
+### `149-g28-comedor.jpg`
+Espacio para la familia de hoy y la de mañana. 🤍
+Cada residencia de MH Grande 28 ocupa una planta completa: 350 m², 6 dormitorios y 7 baños.
+¿Rooftop al atardecer o spa en invierno?
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #Rooftop #DiseñoInterior
 
 ### `79-seguro-hogar.jpg`
 Tu casa nueva ya nace protegida. 🛡️
@@ -778,7 +1280,13 @@ Resolvemos tus dudas sin compromiso. Más información en el link de la bio.
 
 #ManzanosHabitat #ObraNueva #Vivienda #Navarra #LaRioja #Inmobiliaria #ViviendaNueva #Hogar
 
----
+
+### `180-azagra-aza-ext.jpg`
+Un barrio pensado a escala humana. 🤍
+Las casas de MH Azagra, obra nueva en Azagra, Navarra.
+Pre-reserva reembolsable en la web. Link en la bio.
+
+#ManzanosHabitat #MHAzagra #Azagra #Navarra #ObraNueva #RiberaDeNavarra #CasaConJardin #ViviendaNueva
 
 ### `80-subrogar-hipoteca.jpg`
 Subrogar la hipoteca del promotor: a veces sí, a veces no. 🏦
@@ -787,7 +1295,13 @@ Te ayudamos a hacer esa comparación. Más información en el link de la bio.
 
 #ManzanosHabitat #ObraNueva #Hipoteca #Navarra #LaRioja #Vivienda #Inmobiliaria #ComprarCasa
 
----
+
+### `150-g28-dorm.jpg`
+La comodidad se diseña. 🛋️
+Suelo radiante, aire acondicionado e iluminación técnica incluidos en cada dormitorio de MH Grande 28.
+Solo cuatro propietarios. Sea uno de ellos. Dossier en la bio.
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #LuxuryRealEstate #Exclusivo
 
 ### `81-irpf-vivienda.jpg`
 Catorce kilómetros y un puente deciden si tu casa desgrava. 🧾
@@ -796,7 +1310,13 @@ Lo analizamos contigo antes de decidir. Más información en el link de la bio.
 
 #ManzanosHabitat #ObraNueva #Navarra #LaRioja #Vivienda #Inmobiliaria #ComprarCasa #ViviendaNueva
 
----
+
+### `151-g28-gym.jpg`
+El gimnasio más cerca de casa: en casa. 💪
+MH Grande 28 incluye gimnasio privado en planta baja para sus cuatro familias.
+Precio bajo solicitud en la web. Link en la bio.
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #DiseñoInterior #ViviendaDeLujo
 
 ### `82-tramites-suministros.jpg`
 Te dan las llaves. ¿Y ahora qué? 🔑
@@ -805,7 +1325,13 @@ Te acompañamos también en esa parte. Más información en el link de la bio.
 
 #ManzanosHabitat #ObraNueva #Navarra #LaRioja #ViviendaNueva #Inmobiliaria #ComprarCasa #Hogar
 
----
+
+### `152-g28-merendero.jpg`
+El merendero de casa, con cocina propia. 🍽️
+En la planta baja de MH Grande 28 hay un merendero con cocina, reservado a cuatro familias.
+¿Cena en la terraza o sobremesa en casa?
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #Exclusivo #Interiorismo
 
 ### `83-gastos-notaria.jpg`
 Lo que la hipoteca no te paga. 📝
@@ -814,7 +1340,13 @@ Calculamos contigo el coste real. Más información en el link de la bio.
 
 #ManzanosHabitat #ObraNueva #Hipoteca #Navarra #LaRioja #Vivienda #Inmobiliaria #ComprarCasa
 
----
+
+### `200-villafranca-vil-aerea.jpg`
+Así se ve una urbanización pensada desde el principio. 🌳
+Vista aérea de MH Villafranca: 34 viviendas, piscina y pádel.
+¿Qué es lo primero que miras en una casa nueva?
+
+#ManzanosHabitat #MHVillafranca #Villafranca #Navarra #ObraNueva #RiberaDeNavarra #CasasConPiscina #Unifamiliar
 
 ### `84-licencia-primera-ocupacion.jpg`
 La obra terminada, las llaves esperando y aún falta un papel. 🏢
@@ -823,7 +1355,13 @@ Nosotros lo gestionamos por ti. Más información en el link de la bio.
 
 #ManzanosHabitat #ObraNueva #Navarra #LaRioja #ViviendaNueva #Inmobiliaria #ComprarCasa #Vivienda
 
----
+
+### `153-g28-gym.jpg`
+Entrenar sin excusas. 🏋️
+Gimnasio, spa y piscina interior en MH Grande 28, Calahorra.
+Tour virtual y dossier en el link de la bio.
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #ViviendaDeLujo #Rooftop
 
 ### `85-aislamiento-acustico.jpg`
 Cierras la puerta y la calle desaparece. 🤫
@@ -832,7 +1370,13 @@ Ven a comprobarlo en nuestras promociones. Más información en el link de la bi
 
 #ManzanosHabitat #ObraNueva #Vivienda #Navarra #LaRioja #Inmobiliaria #ViviendaNueva #CalidadDeVida
 
----
+
+### `154-g28-dorm.jpg`
+Seis dormitorios. Ninguno de relleno. 🛏️
+Cada residencia de MH Grande 28 tiene 6 dormitorios y 7 baños: cuatro dormitorios adicionales con baño completo, además de la suite.
+Pre-reserva reembolsable. Más información en la bio.
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #Interiorismo #LuxuryRealEstate
 
 ### `86-certificado-energetico.jpg`
 Dos casas idénticas por fuera, una gasta cinco veces más. 🔤
@@ -841,7 +1385,13 @@ Descubre nuestras viviendas eficientes. Más información en el link de la bio.
 
 #ManzanosHabitat #ObraNueva #EficienciaEnergetica #Sostenibilidad #Navarra #LaRioja #Vivienda #ViviendaNueva
 
----
+
+### `155-g28-cocina.jpg`
+Una cocina pensada para reunir. 🥂
+En MH Grande 28 la cocina se abre a un salón de 76 m², con luz natural a dos calles.
+¿Con qué estancia se quedaría?
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #Rooftop #DiseñoInterior
 
 ### `87-tav-ribera.jpg`
 La obra cara del TAV ya está hecha. 🚄
@@ -850,7 +1400,13 @@ Más información en el link de la bio.
 
 #ManzanosHabitat #RiberaDeNavarra #Tudela #Navarra #ObraNueva #Inversion #Infraestructuras #ViviendaNueva
 
----
+
+### `156-g28-merendero.jpg`
+Celebraciones sin salir del edificio. 🥂
+Merendero con cocina en las zonas comunes de MH Grande 28.
+Precio bajo solicitud en la web. Link en la bio.
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #LuxuryRealEstate #Exclusivo
 
 ### `88-donacion-entrada.jpg`
 Los padres ponen la entrada. Hacienda también quiere saberlo. 🏦
@@ -859,7 +1415,13 @@ Más información en el link de la bio.
 
 #ManzanosHabitat #Navarra #LaRioja #GuiaDeCompra #Financiacion #ObraNueva #Vivienda #RiberaDeNavarra
 
----
+
+### `201-villafranca-vil-padel.jpg`
+Partido de pádel antes de cenar. 🎾
+MH Villafranca incluye pista de pádel y piscina comunitaria.
+Pre-reserva reembolsable en la web. Link en la bio.
+
+#ManzanosHabitat #MHVillafranca #Villafranca #Navarra #ObraNueva #RiberaDeNavarra #CasasConPiscina #Unifamiliar
 
 ### `89-colegios-ribera.jpg`
 El colegio es la variable que más veces se mira tarde. 🎒
@@ -868,7 +1430,13 @@ Más información en el link de la bio.
 
 #ManzanosHabitat #RiberaDeNavarra #Navarra #LaRioja #Familia #CalidadDeVida #Vivienda #ObraNueva
 
----
+
+### `157-g28-piscina.jpg`
+Nadar en invierno, en el centro de Calahorra. 🏊
+Piscina interior climatizada en la planta baja de MH Grande 28.
+Compra sobre plano con aval bancario y financiación de hasta el 90%. Bio.
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #DiseñoInterior #ViviendaDeLujo
 
 ### `90-rehabilitar-vs-obra-nueva.jpg`
 Una casa de pueblo a 60.000 euros parece resuelta antes de empezar. 🧱
@@ -877,7 +1445,13 @@ Más información en el link de la bio.
 
 #ManzanosHabitat #ObraNueva #Rehabilitacion #Navarra #LaRioja #GuiaDeCompra #RiberaDeNavarra #Vivienda
 
----
+
+### `158-g28-piscina.jpg`
+El agua siempre a su temperatura. 💧
+Piscina interior climatizada, sauna y baño turco en las zonas comunes de MH Grande 28.
+¿Qué pesa más para usted: metros o ubicación?
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #Exclusivo #Interiorismo
 
 ### `91-desglose-precio.jpg`
 ¿A dónde va cada euro de una casa nueva? 📐
@@ -886,7 +1460,13 @@ En la imagen, MH Azagra. Más información en el link de la bio.
 
 #ManzanosHabitat #ObraNueva #Azagra #Navarra #GuiaDeCompra #ViviendaNueva #RiberaDeNavarra #Inversion
 
----
+
+### `159-g28-merendero.jpg`
+Reunir a todos, sin mover un mueble. 🤍
+MH Grande 28: merendero, spa, gimnasio y rooftop para solo cuatro propietarios.
+Pre-reserva reembolsable. Más información en la bio.
+
+#ManzanosHabitat #MHGrande28 #ObraNueva #Calahorra #LaRioja #CentroHistorico #ViviendaDeLujo #Rooftop
 
 ### `92-vivir-tudela.jpg`
 Segunda ciudad de Navarra y capital de la Ribera. 🏜️
@@ -895,7 +1475,13 @@ Más información en el link de la bio.
 
 #ManzanosHabitat #Tudela #Navarra #RiberaDeNavarra #Bardenas #CalidadDeVida #Vivienda #ObraNueva
 
----
+
+### `202-villafranca-vil-padel.jpg`
+Deporte sin coger el coche. 🎾
+Pádel y piscina en las zonas comunes de MH Villafranca.
+Planos, vídeo y memoria en el link de la bio.
+
+#ManzanosHabitat #MHVillafranca #Villafranca #Navarra #ObraNueva #RiberaDeNavarra #CasasConPiscina #Unifamiliar
 
 ### `93-coste-mantener-casa.jpg`
 La casa no acaba en la cuota de la hipoteca. 🧾
@@ -904,7 +1490,13 @@ Más información en el link de la bio.
 
 #ManzanosHabitat #ObraNueva #Navarra #LaRioja #GuiaDeCompra #ViviendaNueva #RiberaDeNavarra #Inversion
 
----
+
+### `203-villafranca-vil-aerea.jpg`
+Todo en su sitio. 🏡
+MH Villafranca desde el aire: urbanización privada en Villafranca, Navarra.
+¿Qué es lo primero que miras en una casa nueva?
+
+#ManzanosHabitat #MHVillafranca #Villafranca #Navarra #ObraNueva #RiberaDeNavarra #CasasConPiscina #Unifamiliar
 
 ### `94-piscina-privada-comunitaria.jpg`
 Septiembre es cuando se decide la piscina del año que viene. 💧
@@ -913,7 +1505,6 @@ Más información en el link de la bio.
 
 #ManzanosHabitat #ObraNueva #Azagra #Villafranca #Navarra #RiberaDeNavarra #CasasConPiscina #GuiaDeCompra
 
----
 
 ### `95-punto-recarga.jpg`
 El enchufe que ya viene puesto. 🔌
@@ -922,7 +1513,6 @@ Más información en el link de la bio.
 
 #ManzanosHabitat #ObraNueva #Navarra #LaRioja #Sostenibilidad #EficienciaEnergetica #ViviendaNueva #CocheElectrico
 
----
 
 ### `96-retraso-entrega.jpg`
 La fecha de entrega no es una previsión optimista. 📅
@@ -931,7 +1521,6 @@ Más información en el link de la bio.
 
 #ManzanosHabitat #ObraNueva #Navarra #LaRioja #GuiaDeCompra #Garantias #RiberaDeNavarra #ViviendaNueva
 
----
 
 ### `97-tasacion-baja.jpg`
 El banco no presta sobre lo que pagas, sino sobre lo que escribe un tasador. 🏦
@@ -940,7 +1529,6 @@ En la imagen, Cárcar. Más información en el link de la bio.
 
 #ManzanosHabitat #Hipoteca #ObraNueva #Navarra #LaRioja #RiberaDeNavarra #GuiaDeCompra #Financiacion
 
----
 
 ### `98-tav-castejon.jpg`
 El TAV ya cruza la Ribera. 🚄
@@ -949,7 +1537,6 @@ En la imagen, la estación de Castejón. Más información en el link de la bio.
 
 #ManzanosHabitat #TAV #RiberaDeNavarra #Villafranca #Navarra #Infraestructuras #ObraNueva #Vivienda
 
----
 
 ### `99-ine-navarra-frena.jpg`
 Navarra frena. La Rioja, no. 📊
@@ -958,7 +1545,6 @@ En la imagen, Mendavia. Más información en el link de la bio.
 
 #ManzanosHabitat #Navarra #LaRioja #ObraNueva #MercadoInmobiliario #PrecioVivienda #RiberaDeNavarra #Vivienda
 
----
 
 ### `100-clausula-financiacion.jpg`
 ¿Y si el banco dice que no? 🏦
@@ -967,7 +1553,6 @@ Más información en el link de la bio.
 
 #ManzanosHabitat #ObraNueva #Hipoteca #GuiaDeCompra #Navarra #LaRioja #ComprarVivienda #Vivienda
 
----
 
 ### `101-teletrabajo-fibra.jpg`
 Teletrabajar en la Ribera ya no depende de la conexión. 💻
@@ -976,7 +1561,6 @@ Más información en el link de la bio.
 
 #ManzanosHabitat #Teletrabajo #RiberaDeNavarra #Azagra #Villafranca #ObraNueva #Navarra #LaRioja
 
----
 
 ### `102-alquiler-a-casa-nueva.jpg`
 Del alquiler a tu casa nueva, sin pagar de más. 📦
@@ -985,7 +1569,6 @@ Más información en el link de la bio.
 
 #ManzanosHabitat #ObraNueva #Alquiler #Mudanza #GuiaDeCompra #Navarra #LaRioja #ViviendaNueva
 
----
 
 ### `103-casa-sin-barreras.jpg`
 Una casa pensada para toda la vida. 🏠
@@ -994,7 +1577,6 @@ Más información en el link de la bio.
 
 #ManzanosHabitat #ObraNueva #Accesibilidad #DiseñoDeVivienda #Navarra #LaRioja #ViviendaNueva #Hogar
 
----
 
 ### `104-comprar-en-pareja.jpg`
 Comprar en pareja: el 50/50 no existe. 🔑
@@ -1003,8 +1585,8 @@ Más información en el link de la bio.
 
 #ManzanosHabitat #ComprarVivienda #Pareja #GuiaDeCompra #Navarra #LaRioja #ObraNueva #Vivienda
 
----
 
+---
 ## 91 STORIES
 ### `01-villafranca-story.jpg`
 🏡 MH Villafranca · Reserva por 100 € · Link en bio

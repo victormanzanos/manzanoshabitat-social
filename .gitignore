@@ -8,3 +8,6 @@ __pycache__/
 raw/
 reales/
 assets/*.svg
+.image_index.json
+.published_images.json
+pexels_story.json
