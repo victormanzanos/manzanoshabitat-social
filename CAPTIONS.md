@@ -9,7 +9,7 @@ invertir en tu futuro — siempre anclado a un proyecto real en venta o a la zon
 
 ---
 
-## 218 POSTS
+## 221 POSTS
 ### `01-villafranca.jpg`
 El esfuerzo de hoy es el hogar de mañana. 🏡
 MH Villafranca: 34 viviendas unifamiliares con piscina, pádel y jardín privado en la Ribera de Navarra. A 35 min de Pamplona.
@@ -1587,7 +1587,28 @@ Más información en el link de la bio.
 
 
 ---
-## 91 STORIES
+### `205-condensacion-primer-invierno.jpg`
+Primera mañana fría en la casa nueva y los cristales amanecen mojados. 💧
+Casi nunca es un defecto: una vivienda recién terminada todavía está soltando la humedad de la obra, y el primer invierno lo delata en las ventanas. Si la humedad baja semana a semana, se irá sola: la clave es que la ventilación funcione como se diseñó. Te contamos cuándo es normal y cuándo conviene avisar.
+Más información en el link de la bio.
+
+#ManzanosHabitat #ObraNueva #CasaNueva #Navarra #LaRioja #Vivienda #ConsejosHogar #RiberaDeNavarra
+
+### `206-calahorra-recuenco.jpg`
+Donde crece el empleo, crece la demanda de vivienda. 🏭
+El polígono El Recuenco sigue sumando suelo industrial en Calahorra: más de 120.000 m² adjudicados a finales de 2025. Señales que conviene leer con calma si piensas comprar o invertir en la Rioja Baja.
+Más información en el link de la bio.
+
+#ManzanosHabitat #Calahorra #LaRioja #RiojaBaja #ObraNueva #Inmobiliaria #Vivienda #InversionInmobiliaria
+
+### `208-radon-obra-nueva.jpg`
+Lo que no se ve también se construye. 🧱
+Villafranca, Calahorra y Haro están en la lista oficial de municipios con exposición al radón, y el Código Técnico exige a una casa nueva limitar la entrada de ese gas desde el terreno. Qué pide la ley y qué preguntar antes de comprar.
+Más información en el link de la bio.
+
+#ManzanosHabitat #ObraNueva #Navarra #LaRioja #CalidadDelAire #Vivienda #ViviendaNueva #Construccion
+
+## 108 STORIES
 ### `01-villafranca-story.jpg`
 🏡 MH Villafranca · Reserva por 100 € · Link en bio
 
@@ -1671,6 +1692,51 @@ Más información en el link de la bio.
 
 ### `43-villafranca-zonas-comunes-story.jpg`
 🌳 MH Villafranca · Zonas comunes para disfrutar
+
+### `s181-ribera-story.jpg`
+🏘️ La Ribera de Navarra · Vivir junto al Ebro
+
+### `s182-arnedo-story.jpg`
+⛰️ Arnedo · La Rioja Baja
+
+### `s196-perro-campo-story.jpg`
+🐕 Espacio para correr · Vivir cerca del campo
+
+### `s184-calahorra-story.jpg`
+🏛️ Calahorra · Catedral y ciudad nueva
+
+### `s199-mercado-huerta-story.jpg`
+🥕 Producto de la huerta · Ribera de Navarra
+
+### `s185-villafranca-estacion-story.jpg`
+🚉 Villafranca de Navarra · Bien conectada
+
+### `s197-picnic-familia-story.jpg`
+🧺 Tardes en familia · Navarra y La Rioja
+
+### `s190-pamplona-story.jpg`
+🌳 Pamplona · La capital a un paso
+
+### `s202-uva-vendimia-story.jpg`
+🍇 Tiempo de vendimia · La Rioja
+
+### `s192-tudela-ebro-story.jpg`
+🌊 Tudela y el Ebro · Ribera de Navarra
+
+### `s195-ninos-jugando-story.jpg`
+⚽ Sitio para jugar · Calidad de vida
+
+### `s191-pamplona-aerea-story.jpg`
+🗺️ Pamplona desde el aire
+
+### `s200-mercado-verduras-story.jpg`
+🥦 Mercado de temporada · Vida de pueblo
+
+### `s198-paseo-camino-story.jpg`
+🚶 Caminos para pasear · Navarra
+
+### `s201-pan-recien-story.jpg`
+🥖 Pan recién hecho · El ritmo de siempre
 
 ### `44-calahorra-2026-story.jpg`
 🌆 Calahorra · Comprar obra nueva en 2026 · Link en bio
@@ -1931,3 +1997,10 @@ Más información en el link de la bio.
 🔑 Comprar en pareja · El 50/50 no existe · Link en bio
 
 ---
+
+### `s193-almendro-flor-story.jpg`
+🌸 Almendros en flor · La primavera empieza en la Ribera
+
+### `s194-almendro-cielo-story.jpg`
+🌸 Primavera en la Ribera
+
