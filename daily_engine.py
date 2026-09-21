@@ -441,6 +441,11 @@ def main():
     # Todas las vías pasan por pick_fresh: ninguna foto se repite en 360 días,
     # y la story nunca lleva la misma foto que el post del mismo día.
     idx     = REG.load_index()
+    if not idx:
+        # WHY fail-closed: un índice vacío/ilegible haría pasar cualquier tarjeta
+        # y el ledger anotaría filas sin phash (que luego no bloquean nada).
+        print("⛔ .image_index.json vacío o ilegible — no publico hoy. Revisa con images_tool.py check.")
+        return
     blocked = REG.blocked_hashes(today)
     warns   = []
     if camp:

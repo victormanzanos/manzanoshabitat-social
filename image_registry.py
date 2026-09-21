@@ -74,9 +74,18 @@ def load_index():
         return {}
 
 
+def _atomic_dump(obj, path):
+    # WHY atomico: el motor puede leer el indice mientras images_tool lo reescribe;
+    # un JSON a medias se leeria como indice vacio y todas las tarjetas quedarian
+    # "sin identidad" (y el ledger apuntaria filas sin phash, que no bloquean nada).
+    tmp = path + ".tmp"
+    with open(tmp, "w", encoding="utf-8") as f:
+        json.dump(obj, f, indent=1, ensure_ascii=False)
+    os.replace(tmp, path)
+
+
 def save_index(idx):
-    json.dump({key(k): v for k, v in idx.items()}, open(INDEX_FILE, "w", encoding="utf-8"),
-              indent=1, ensure_ascii=False)
+    _atomic_dump({key(k): v for k, v in idx.items()}, INDEX_FILE)
 
 
 def card_phash(card, idx=None):
@@ -99,7 +108,7 @@ def record(date, kind, card, idx=None, ph=None, photo=None):
     rows = load_ledger()
     rows.append({"date": str(date), "kind": kind, "card": card,
                  "photo": photo or e.get("photo", "?"), "phash": ph or e.get("phash")})
-    json.dump(rows, open(LEDGER_FILE, "w", encoding="utf-8"), indent=1, ensure_ascii=False)
+    _atomic_dump(rows, LEDGER_FILE)
     return rows
 
 

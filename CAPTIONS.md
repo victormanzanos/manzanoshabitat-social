@@ -1608,7 +1608,7 @@ Más información en el link de la bio.
 
 #ManzanosHabitat #ObraNueva #Navarra #LaRioja #CalidadDelAire #Vivienda #ViviendaNueva #Construccion
 
-## 108 STORIES
+## 332 STORIES
 ### `01-villafranca-story.jpg`
 🏡 MH Villafranca · Reserva por 100 € · Link en bio
 
@@ -1693,314 +1693,987 @@ Más información en el link de la bio.
 ### `43-villafranca-zonas-comunes-story.jpg`
 🌳 MH Villafranca · Zonas comunes para disfrutar
 
+### `s105-haro-story.jpg`
+🏛️ Haro · Rioja Alta · Manzanos Hábitat
+
+### `s204-vineyard-rows-autumn-story.jpg`
+🍇 Viñedo en otoño · Manzanos Hábitat
+
 ### `s181-ribera-story.jpg`
 🏘️ La Ribera de Navarra · Vivir junto al Ebro
+
+### `s205-grape-harvest-hands-story.jpg`
+🍇 Vendimia · Manzanos Hábitat
+
+### `s206-vineyard-sunset-aerial-story.jpg`
+🌅 Viñedos al atardecer · Manzanos Hábitat
 
 ### `s182-arnedo-story.jpg`
 ⛰️ Arnedo · La Rioja Baja
 
+### `s207-wine-grapes-close-up-story.jpg`
+🍇 Uva en la cepa · Manzanos Hábitat
+
+### `s208-family-walking-countrysi-story.jpg`
+🌿 Paseo en familia · Manzanos Hábitat
+
 ### `s196-perro-campo-story.jpg`
 🐕 Espacio para correr · Vivir cerca del campo
+
+### `s209-grandparents-grandchildr-story.jpg`
+🤍 Abuelos y nietos · Manzanos Hábitat
+
+### `s210-children-playing-in-park-story.jpg`
+🛝 Niños jugando · Manzanos Hábitat
 
 ### `s184-calahorra-story.jpg`
 🏛️ Calahorra · Catedral y ciudad nueva
 
+### `s211-moving-boxes-new-home-story.jpg`
+📦 Mudanza · Manzanos Hábitat
+
+### `s212-family-picnic-field-story.jpg`
+🧺 Pícnic en el campo · Manzanos Hábitat
+
 ### `s199-mercado-huerta-story.jpg`
 🥕 Producto de la huerta · Ribera de Navarra
+
+### `s213-dog-running-grass-story.jpg`
+🐕 Tardes al aire libre · Manzanos Hábitat
+
+### `s214-friends-dinner-terrace-s-story.jpg`
+🍽️ Cena con amigos · Manzanos Hábitat
 
 ### `s185-villafranca-estacion-story.jpg`
 🚉 Villafranca de Navarra · Bien conectada
 
+### `s216-fresh-bread-bakery-story.jpg`
+🥖 Pan del día · Manzanos Hábitat
+
+### `s217-olive-tree-field-story.jpg`
+🫒 Olivos · Manzanos Hábitat
+
 ### `s197-picnic-familia-story.jpg`
 🧺 Tardes en familia · Navarra y La Rioja
+
+### `s218-wheat-field-sunset-story.jpg`
+🌾 Campo al atardecer · Manzanos Hábitat
+
+### `s219-poppy-field-spain-story.jpg`
+🌺 Amapolas · Manzanos Hábitat
 
 ### `s190-pamplona-story.jpg`
 🌳 Pamplona · La capital a un paso
 
+### `s221-river-reeds-sunset-story.jpg`
+🌅 Ribera al atardecer · Manzanos Hábitat
+
+### `s222-sunflower-field-story.jpg`
+🌻 Girasoles · Manzanos Hábitat
+
 ### `s202-uva-vendimia-story.jpg`
 🍇 Tiempo de vendimia · La Rioja
+
+### `s223-cyclist-country-road-story.jpg`
+🚴 Carreteras tranquilas · Manzanos Hábitat
+
+### `s224-morning-coffee-balcony-story.jpg`
+☕ Café de mañana · Manzanos Hábitat
 
 ### `s192-tudela-ebro-story.jpg`
 🌊 Tudela y el Ebro · Ribera de Navarra
 
+### `s225-tapas-table-story.jpg`
+🍷 Tapeo · Manzanos Hábitat
+
+### `s226-red-wine-glasses-toast-story.jpg`
+🥂 Brindis · Manzanos Hábitat
+
 ### `s195-ninos-jugando-story.jpg`
 ⚽ Sitio para jugar · Calidad de vida
+
+### `s227-autumn-leaves-path-story.jpg`
+🍂 Otoño · Manzanos Hábitat
+
+### `s228-snowy-mountains-pyrenees-story.jpg`
+🏔️ Montaña · Manzanos Hábitat
 
 ### `s191-pamplona-aerea-story.jpg`
 🗺️ Pamplona desde el aire
 
+### `s229-hiking-trail-mountains-s-story.jpg`
+🥾 Senderismo · Manzanos Hábitat
+
+### `s230-rural-landscape-spain-story.jpg`
+🌄 Paisaje · Manzanos Hábitat
+
 ### `s200-mercado-verduras-story.jpg`
 🥦 Mercado de temporada · Vida de pueblo
+
+### `s231-desert-badlands-spain-story.jpg`
+🏜️ Paisaje árido · Manzanos Hábitat
+
+### `s232-hot-air-balloon-sunrise-story.jpg`
+🎈 Amanecer · Manzanos Hábitat
 
 ### `s198-paseo-camino-story.jpg`
 🚶 Caminos para pasear · Navarra
 
+### `s233-starry-sky-countryside-story.jpg`
+✨ Cielo de noche · Manzanos Hábitat
+
+### `s234-family-garden-barbecue-story.jpg`
+🔥 Barbacoa en el jardín · Manzanos Hábitat
+
 ### `s201-pan-recien-story.jpg`
 🥖 Pan recién hecho · El ritmo de siempre
+
+### `s235-kids-bicycle-street-story.jpg`
+🚲 Niños en bici · Manzanos Hábitat
+
+### `s236-woman-reading-book-garde-story.jpg`
+📖 Tarde de lectura · Manzanos Hábitat
 
 ### `44-calahorra-2026-story.jpg`
 🌆 Calahorra · Comprar obra nueva en 2026 · Link en bio
 
+### `s237-architect-blueprint-plan-story.jpg`
+📐 Proyecto sobre plano · Manzanos Hábitat
+
+### `s238-construction-crane-sunse-story.jpg`
+🏗️ Construyendo futuro · Manzanos Hábitat
+
 ### `45-san-adrian-plaza-mh-story.jpg`
 🏘️ San Adrián · Obra nueva en la Ribera · Link en bio
+
+### `s239-hands-with-key-story.jpg`
+🔑 Tu próxima llave · Manzanos Hábitat
+
+### `s240-vineyard-rows-autumn-story.jpg`
+🍇 Viñedo en otoño · Manzanos Hábitat
 
 ### `46-passivhaus-tudela-story.jpg`
 🌿 Alta eficiencia energética · Menos consumo, más confort
 
+### `s241-grape-harvest-hands-story.jpg`
+🍇 Vendimia · Manzanos Hábitat
+
+### `s242-vineyard-sunset-aerial-story.jpg`
+🌅 Viñedos al atardecer · Manzanos Hábitat
+
 ### `47-villafranca-vivir-story.jpg`
 🏡 MH Villafranca · Unifamiliares con jardín · Link en bio
+
+### `s243-wine-grapes-close-up-story.jpg`
+🍇 Uva en la cepa · Manzanos Hábitat
+
+### `s244-family-walking-countrysi-story.jpg`
+🌿 Paseo en familia · Manzanos Hábitat
 
 ### `48-haro-plaza-mayor-story.jpg`
 🍇 Haro · Vivir en La Rioja Alta · Link en bio
 
+### `s245-grandparents-grandchildr-story.jpg`
+🤍 Abuelos y nietos · Manzanos Hábitat
+
+### `s246-children-playing-in-park-story.jpg`
+🛝 Niños jugando · Manzanos Hábitat
+
 ### `49-logrono-portales-story.jpg`
 🌆 Logroño · Ciudad a escala humana · Link en bio
+
+### `s247-family-picnic-field-story.jpg`
+🧺 Pícnic en el campo · Manzanos Hábitat
+
+### `s248-dog-running-grass-story.jpg`
+🐕 Tardes al aire libre · Manzanos Hábitat
 
 ### `50-personalizar-interior-story.jpg`
 ✨ Sobre plano · Personaliza tu vivienda · Link en bio
 
+### `s249-friends-dinner-terrace-s-story.jpg`
+🍽️ Cena con amigos · Manzanos Hábitat
+
+### `s250-farmers-market-vegetable-story.jpg`
+🥬 Mercado de temporada · Manzanos Hábitat
+
 ### `51-garantias-obra-nueva-story.jpg`
 🔑 Obra nueva con garantías · Estrena con tranquilidad
+
+### `s251-fresh-bread-bakery-story.jpg`
+🥖 Pan del día · Manzanos Hábitat
+
+### `s252-olive-tree-field-story.jpg`
+🫒 Olivos · Manzanos Hábitat
 
 ### `52-personalizar-calidades-story.jpg`
 ✨ Personaliza las calidades de tu vivienda · Sobre plano
 
+### `s253-wheat-field-sunset-story.jpg`
+🌾 Campo al atardecer · Manzanos Hábitat
+
+### `s254-poppy-field-spain-story.jpg`
+🌺 Amapolas · Manzanos Hábitat
+
 ### `53-amueblar-casa-nueva-story.jpg`
 🏡 Estrena vivienda · Un lienzo en blanco para hacerlo tuyo
+
+### `s256-river-reeds-sunset-story.jpg`
+🌅 Ribera al atardecer · Manzanos Hábitat
+
+### `s257-sunflower-field-story.jpg`
+🌻 Girasoles · Manzanos Hábitat
 
 ### `54-mh-azagra-unifamiliar-story.jpg`
 🌿 MH Azagra · Unifamiliares de obra nueva en la Ribera
 
+### `s258-cyclist-country-road-story.jpg`
+🚴 Carreteras tranquilas · Manzanos Hábitat
+
+### `s259-morning-coffee-balcony-story.jpg`
+☕ Café de mañana · Manzanos Hábitat
+
 ### `55-san-adrian-asequible-story.jpg`
 🌇 San Adrián · Obra nueva en la Ribera de Navarra · Link en bio
+
+### `s260-tapas-table-story.jpg`
+🍷 Tapeo · Manzanos Hábitat
+
+### `s261-red-wine-glasses-toast-story.jpg`
+🥂 Brindis · Manzanos Hábitat
 
 ### `56-ahorro-vivienda-nueva-story.jpg`
 💡 Obra nueva · Eficiencia y valor a largo plazo · Link en bio
 
+### `s262-autumn-leaves-path-story.jpg`
+🍂 Otoño · Manzanos Hábitat
+
+### `s263-snowy-mountains-pyrenees-story.jpg`
+🏔️ Montaña · Manzanos Hábitat
+
 ### `g28d-01-story.jpg`
 ✨ MH Grande 28 · Detalles de lujo · Calahorra
+
+### `s264-hiking-trail-mountains-s-story.jpg`
+🥾 Senderismo · Manzanos Hábitat
+
+### `s265-rural-landscape-spain-story.jpg`
+🌄 Paisaje · Manzanos Hábitat
 
 ### `g28d-02-story.jpg`
 🏛️ La promoción más exclusiva de La Rioja · Link en bio
 
+### `s266-desert-badlands-spain-story.jpg`
+🏜️ Paisaje árido · Manzanos Hábitat
+
+### `s267-hot-air-balloon-sunrise-story.jpg`
+🎈 Amanecer · Manzanos Hábitat
+
 ### `g28d-03-story.jpg`
 🤍 350 m² de diseño por residencia · MH Grande 28
+
+### `s268-starry-sky-countryside-story.jpg`
+✨ Cielo de noche · Manzanos Hábitat
+
+### `s269-family-garden-barbecue-story.jpg`
+🔥 Barbacoa en el jardín · Manzanos Hábitat
 
 ### `g28d-04-story.jpg`
 🥂 Solo 4 residencias · Centro histórico de Calahorra
 
+### `s270-kids-bicycle-street-story.jpg`
+🚲 Niños en bici · Manzanos Hábitat
+
+### `s271-woman-reading-book-garde-story.jpg`
+📖 Tarde de lectura · Manzanos Hábitat
+
 ### `g28d-05-story.jpg`
 🔑 Domótica, aerotermia y acabados nobles · Bio
+
+### `s272-architect-blueprint-plan-story.jpg`
+📐 Proyecto sobre plano · Manzanos Hábitat
+
+### `s273-construction-crane-sunse-story.jpg`
+🏗️ Construyendo futuro · Manzanos Hábitat
 
 ### `g28d-06-story.jpg`
 💫 El lujo silencioso existe · MH Grande 28
 
+### `s274-hands-with-key-story.jpg`
+🔑 Tu próxima llave · Manzanos Hábitat
+
+### `s275-vineyard-rows-autumn-story.jpg`
+🍇 Viñedo en otoño · Manzanos Hábitat
+
 ### `g28d-07-story.jpg`
 🌅 Interior de autor en Calahorra · Link en bio
+
+### `s276-grape-harvest-hands-story.jpg`
+🍇 Vendimia · Manzanos Hábitat
+
+### `s277-vineyard-sunset-aerial-story.jpg`
+🌅 Viñedos al atardecer · Manzanos Hábitat
 
 ### `g28d-08-story.jpg`
 🏆 MH Grande 28 · Una residencia por planta · La Rioja
 
+### `s278-wine-grapes-close-up-story.jpg`
+🍇 Uva en la cepa · Manzanos Hábitat
+
+### `s279-family-walking-countrysi-story.jpg`
+🌿 Paseo en familia · Manzanos Hábitat
+
 ### `63-villafranca-comparativa-story.jpg`
 🏡 MH Villafranca · Obra nueva con piscina y pádel en la Ribera · Link en bio
+
+### `s280-grandparents-grandchildr-story.jpg`
+🤍 Abuelos y nietos · Manzanos Hábitat
+
+### `s281-children-playing-in-park-story.jpg`
+🛝 Niños jugando · Manzanos Hábitat
 
 ### `64-san-adrian-industria-story.jpg`
 🏭 San Adrián · Obra nueva en la Ribera industrial de Navarra
 
+### `s183-villafranca-story.jpg`
+🏡 Villafranca de Navarra · Manzanos Hábitat
+
+### `s282-family-picnic-field-story.jpg`
+🧺 Pícnic en el campo · Manzanos Hábitat
+
 ### `65-rentabilidad-ribera-story.jpg`
 📈 Invertir en obra nueva · Rentabilidad en la Ribera de Navarra · Link en bio
+
+### `s284-friends-dinner-terrace-s-story.jpg`
+🍽️ Cena con amigos · Manzanos Hábitat
+
+### `s286-fresh-bread-bakery-story.jpg`
+🥖 Pan del día · Manzanos Hábitat
 
 ### `66-logrono-ramblasque-story.jpg`
 🌇 Logroño · Capital de La Rioja · Obra nueva en Navarra y La Rioja
 
+### `s287-olive-tree-field-story.jpg`
+🫒 Olivos · Manzanos Hábitat
+
+### `s288-wheat-field-sunset-story.jpg`
+🌾 Campo al atardecer · Manzanos Hábitat
+
 ### `67-tudela-nuevo-barrio-story.jpg`
 🏗️ Tudela · Nuevos barrios en la capital de la Ribera de Navarra
 
+### `s289-poppy-field-spain-story.jpg`
+🌺 Amapolas · Manzanos Hábitat
+
+### `s290-almond-blossom-story.jpg`
+🌸 Almendros en flor · Manzanos Hábitat
+
 ### `68-aval-primera-vivienda-story.jpg`
 🔑 Tu primera vivienda de obra nueva · Aval y financiación · Link en bio
+
+### `s291-river-reeds-sunset-story.jpg`
+🌅 Ribera al atardecer · Manzanos Hábitat
+
+### `s292-sunflower-field-story.jpg`
+🌻 Girasoles · Manzanos Hábitat
 
 ### `69-azagra-story.jpg`
 🌳 Azagra · Obra nueva junto al Ebro · Ribera de Navarra · Link en bio
 
 ---
 
+### `s293-cyclist-country-road-story.jpg`
+🚴 Carreteras tranquilas · Manzanos Hábitat
+
+### `s294-morning-coffee-balcony-story.jpg`
+☕ Café de mañana · Manzanos Hábitat
+
 ### `70-vivir-tudela-story.jpg`
 ☀️ Vivir en Tudela · Capital de la Ribera de Navarra · Obra nueva
 
 ---
+
+### `s295-tapas-table-story.jpg`
+🍷 Tapeo · Manzanos Hábitat
+
+### `s296-red-wine-glasses-toast-story.jpg`
+🥂 Brindis · Manzanos Hábitat
 
 ### `71-calahorra-casco-story.jpg`
 🏛️ Calahorra · La Rioja Baja · Obra nueva de calidad · Link en bio
 
 ---
 
+### `s297-autumn-leaves-path-story.jpg`
+🍂 Otoño · Manzanos Hábitat
+
+### `s298-snowy-mountains-pyrenees-story.jpg`
+🏔️ Montaña · Manzanos Hábitat
+
 ### `72-placas-solares-story.jpg`
 ☀️ Energía solar y eficiencia · Obra nueva sostenible · Manzanos Hábitat
 
 ---
+
+### `s299-hiking-trail-mountains-s-story.jpg`
+🥾 Senderismo · Manzanos Hábitat
+
+### `s300-rural-landscape-spain-story.jpg`
+🌄 Paisaje · Manzanos Hábitat
 
 ### `73-domotica-story.jpg`
 📱 Hogar inteligente · Domótica en obra nueva · Manzanos Hábitat
 
 ---
 
+### `s301-desert-badlands-spain-story.jpg`
+🏜️ Paisaje árido · Manzanos Hábitat
+
+### `s302-hot-air-balloon-sunrise-story.jpg`
+🎈 Amanecer · Manzanos Hábitat
+
 ### `74-villafranca-plaza-story.jpg`
 🌿 Villafranca · Chalets de obra nueva · Ribera de Navarra · Link en bio
 
 ---
+
+### `s303-starry-sky-countryside-story.jpg`
+✨ Cielo de noche · Manzanos Hábitat
+
+### `s304-family-garden-barbecue-story.jpg`
+🔥 Barbacoa en el jardín · Manzanos Hábitat
 
 ### `75-hipoteca-autonomos-story.jpg`
 🔑 Autónomo y con casa nueva · Obra nueva en Navarra y La Rioja · Link en bio
 
 ---
 
+### `s305-woman-reading-book-garde-story.jpg`
+📖 Tarde de lectura · Manzanos Hábitat
+
+### `s306-architect-blueprint-plan-story.jpg`
+📐 Proyecto sobre plano · Manzanos Hábitat
+
 ### `76-ibi-vivienda-nueva-story.jpg`
 🧾 IBI y Contribución Territorial · Lo que cuesta tu casa cada año
 
 ---
+
+### `s307-construction-crane-sunse-story.jpg`
+🏗️ Construyendo futuro · Manzanos Hábitat
+
+### `s308-hands-with-key-story.jpg`
+🔑 Tu próxima llave · Manzanos Hábitat
 
 ### `77-obra-nueva-la-rioja-story.jpg`
 🏗️ Obra nueva en La Rioja · Poca oferta, mucha demanda · Link en bio
 
 ---
 
+### `s309-vineyard-rows-autumn-story.jpg`
+🍇 Viñedo en otoño · Manzanos Hábitat
+
+### `s310-grape-harvest-hands-story.jpg`
+🍇 Vendimia · Manzanos Hábitat
+
 ### `78-vender-para-comprar-story.jpg`
 🔄 Vender para estrenar · La obra nueva te da tiempo · Manzanos Hábitat
 
 ---
+
+### `s311-vineyard-sunset-aerial-story.jpg`
+🌅 Viñedos al atardecer · Manzanos Hábitat
+
+### `s312-wine-grapes-close-up-story.jpg`
+🍇 Uva en la cepa · Manzanos Hábitat
 
 ### `79-seguro-hogar-story.jpg`
 🛡️ Seguro y garantías de la casa nueva · Obra nueva protegida · Link en bio
 
 ---
 
+### `s313-family-walking-countrysi-story.jpg`
+🌿 Paseo en familia · Manzanos Hábitat
+
+### `s314-grandparents-grandchildr-story.jpg`
+🤍 Abuelos y nietos · Manzanos Hábitat
+
 ### `80-subrogar-hipoteca-story.jpg`
 🏦 Subrogar la hipoteca del promotor · ¿Ahorra o no? · Manzanos Hábitat
 
 ---
+
+### `s315-children-playing-in-park-story.jpg`
+🛝 Niños jugando · Manzanos Hábitat
+
+### `s317-dog-running-grass-story.jpg`
+🐕 Tardes al aire libre · Manzanos Hábitat
 
 ### `81-irpf-vivienda-story.jpg`
 🧾 ¿Desgrava comprar casa? Navarra y La Rioja, dos respuestas · Link en bio
 
 ---
 
+### `s318-friends-dinner-terrace-s-story.jpg`
+🍽️ Cena con amigos · Manzanos Hábitat
+
+### `s319-farmers-market-vegetable-story.jpg`
+🥬 Mercado de temporada · Manzanos Hábitat
+
 ### `82-tramites-suministros-story.jpg`
 🔑 Luz, agua y padrón en tu casa nueva · La lista ordenada · Link en bio
 
 ---
+
+### `s320-fresh-bread-bakery-story.jpg`
+🥖 Pan del día · Manzanos Hábitat
+
+### `s321-olive-tree-field-story.jpg`
+🫒 Olivos · Manzanos Hábitat
 
 ### `83-gastos-notaria-story.jpg`
 📝 Notaría, registro y gestoría · El gasto que la hipoteca no cubre
 
 ---
 
+### `s322-wheat-field-sunset-story.jpg`
+🌾 Campo al atardecer · Manzanos Hábitat
+
+### `s323-poppy-field-spain-story.jpg`
+🌺 Amapolas · Manzanos Hábitat
+
 ### `84-licencia-primera-ocupacion-story.jpg`
 🏢 Licencia de primera ocupación · El papel que te deja estrenar · Link en bio
 
 ---
+
+### `s324-almond-blossom-story.jpg`
+🌸 Almendros en flor · Manzanos Hábitat
+
+### `s325-river-reeds-sunset-story.jpg`
+🌅 Ribera al atardecer · Manzanos Hábitat
 
 ### `85-aislamiento-acustico-story.jpg`
 🤫 El silencio se compra · Aislamiento acústico en obra nueva · Manzanos Hábitat
 
 ---
 
+### `s326-sunflower-field-story.jpg`
+🌻 Girasoles · Manzanos Hábitat
+
+### `s327-cyclist-country-road-story.jpg`
+🚴 Carreteras tranquilas · Manzanos Hábitat
+
 ### `86-certificado-energetico-story.jpg`
 🔤 Certificado energético · La letra que decide tu factura · Link en bio
 
 ---
+
+### `s328-morning-coffee-balcony-story.jpg`
+☕ Café de mañana · Manzanos Hábitat
+
+### `s329-tapas-table-story.jpg`
+🍷 Tapeo · Manzanos Hábitat
 
 ### `87-tav-ribera-story.jpg`
 🚄 El TAV ya cruza la Ribera · Qué está construido y qué no · Link en bio
 
 ---
 
+### `s330-red-wine-glasses-toast-story.jpg`
+🥂 Brindis · Manzanos Hábitat
+
+### `s331-autumn-leaves-path-story.jpg`
+🍂 Otoño · Manzanos Hábitat
+
 ### `88-donacion-entrada-story.jpg`
 🏦 Los padres ponen la entrada · 480 € en Navarra, 63 € en La Rioja · Link en bio
 
 ---
+
+### `s332-snowy-mountains-pyrenees-story.jpg`
+🏔️ Montaña · Manzanos Hábitat
+
+### `s333-hiking-trail-mountains-s-story.jpg`
+🥾 Senderismo · Manzanos Hábitat
 
 ### `89-colegios-ribera-story.jpg`
 🎒 Colegios en la Ribera · 4 de septiembre en Navarra, 9 en La Rioja · Link en bio
 
 ---
 
+### `s334-rural-landscape-spain-story.jpg`
+🌄 Paisaje · Manzanos Hábitat
+
+### `s335-desert-badlands-spain-story.jpg`
+🏜️ Paisaje árido · Manzanos Hábitat
+
 ### `90-rehabilitar-vs-obra-nueva-story.jpg`
 🧱 Rehabilitar o estrenar · La cuenta completa, impuestos incluidos · Link en bio
 
 ---
+
+### `s336-hot-air-balloon-sunrise-story.jpg`
+🎈 Amanecer · Manzanos Hábitat
+
+### `s337-starry-sky-countryside-story.jpg`
+✨ Cielo de noche · Manzanos Hábitat
 
 ### `91-desglose-precio-story.jpg`
 📐 A dónde va cada euro de tu casa nueva · Suelo, obra, impuestos y margen
 
 ---
 
+### `s338-family-garden-barbecue-story.jpg`
+🔥 Barbacoa en el jardín · Manzanos Hábitat
+
+### `s339-woman-reading-book-garde-story.jpg`
+📖 Tarde de lectura · Manzanos Hábitat
+
 ### `92-vivir-tudela-story.jpg`
 🏜️ Vivir en Tudela · 1.636 €/m² y servicios de capital · Link en bio
 
 ---
+
+### `s340-architect-blueprint-plan-story.jpg`
+📐 Proyecto sobre plano · Manzanos Hábitat
+
+### `s341-construction-crane-sunse-story.jpg`
+🏗️ Construyendo futuro · Manzanos Hábitat
+
 ### `93-coste-mantener-casa-story.jpg`
 🧾 Mantener la casa · 2.600 a 3.900 € al año en la Ribera · Link en bio
 
 ---
+
+### `s342-hands-with-key-story.jpg`
+🔑 Tu próxima llave · Manzanos Hábitat
+
+### `s343-vineyard-rows-autumn-story.jpg`
+🍇 Viñedo en otoño · Manzanos Hábitat
 
 ### `94-piscina-privada-comunitaria-story.jpg`
 💧 Piscina propia · 13.000 € de obra y hasta 1.500 al año · Link en bio
 
 ---
 
+### `s344-grape-harvest-hands-story.jpg`
+🍇 Vendimia · Manzanos Hábitat
+
+### `s345-vineyard-sunset-aerial-story.jpg`
+🌅 Viñedos al atardecer · Manzanos Hábitat
+
 ### `95-punto-recarga-story.jpg`
 🔌 Obra nueva con garaje · El punto de recarga viene instalado por norma
 
 ---
+
+### `s346-wine-grapes-close-up-story.jpg`
+🍇 Uva en la cepa · Manzanos Hábitat
+
+### `s347-family-walking-countrysi-story.jpg`
+🌿 Paseo en familia · Manzanos Hábitat
 
 ### `96-retraso-entrega-story.jpg`
 📅 Si la entrega se retrasa · Rescisión con intereses o prórroga por anexo
 
 ---
 
+### `s348-grandparents-grandchildr-story.jpg`
+🤍 Abuelos y nietos · Manzanos Hábitat
+
+### `s349-children-playing-in-park-story.jpg`
+🛝 Niños jugando · Manzanos Hábitat
+
 ### `97-tasacion-baja-story.jpg`
 🏦 Tasación por debajo del precio · La diferencia la pones tú · Link en bio
 
 ---
+
+### `s350-family-picnic-field-story.jpg`
+🧺 Pícnic en el campo · Manzanos Hábitat
+
+### `s351-dog-running-grass-story.jpg`
+🐕 Tardes al aire libre · Manzanos Hábitat
 
 ### `98-tav-castejon-story.jpg`
 🚄 TAV en la Ribera · Castejón-Olite ya con plataforma terminada · Link en bio
 
 ---
 
+### `s352-friends-dinner-terrace-s-story.jpg`
+🍽️ Cena con amigos · Manzanos Hábitat
+
+### `s353-farmers-market-vegetable-story.jpg`
+🥬 Mercado de temporada · Manzanos Hábitat
+
 ### `99-ine-navarra-frena-story.jpg`
 📊 INE 2T 2026 · En Navarra la obra nueva sube solo un 4,1% · Link en bio
 
 ---
+
+### `s355-olive-tree-field-story.jpg`
+🫒 Olivos · Manzanos Hábitat
+
+### `s356-wheat-field-sunset-story.jpg`
+🌾 Campo al atardecer · Manzanos Hábitat
 
 ### `100-clausula-financiacion-story.jpg`
 🏦 ¿Y si el banco dice no? · La cláusula de financiación · Link en bio
 
 ---
 
+### `s357-poppy-field-spain-story.jpg`
+🌺 Amapolas · Manzanos Hábitat
+
+### `s358-almond-blossom-story.jpg`
+🌸 Almendros en flor · Manzanos Hábitat
+
 ### `101-teletrabajo-fibra-story.jpg`
 💻 Teletrabajo en la Ribera · Azagra, 97,78% con gigabit · Link en bio
 
 ---
+
+### `s359-river-reeds-sunset-story.jpg`
+🌅 Ribera al atardecer · Manzanos Hábitat
+
+### `s360-sunflower-field-story.jpg`
+🌻 Girasoles · Manzanos Hábitat
 
 ### `102-alquiler-a-casa-nueva-story.jpg`
 📦 Del alquiler a tu casa nueva · 30 días de aviso · Link en bio
 
 ---
 
+### `s361-cyclist-country-road-story.jpg`
+🚴 Carreteras tranquilas · Manzanos Hábitat
+
+### `s362-morning-coffee-balcony-story.jpg`
+☕ Café de mañana · Manzanos Hábitat
+
 ### `103-casa-sin-barreras-story.jpg`
 🏠 Casa sin barreras · 7 decisiones sobre plano · Link en bio
 
 ---
+
+### `s363-tapas-table-story.jpg`
+🍷 Tapeo · Manzanos Hábitat
+
+### `s364-red-wine-glasses-toast-story.jpg`
+🥂 Brindis · Manzanos Hábitat
 
 ### `104-comprar-en-pareja-story.jpg`
 🔑 Comprar en pareja · El 50/50 no existe · Link en bio
 
 ---
 
+### `s365-autumn-leaves-path-story.jpg`
+🍂 Otoño · Manzanos Hábitat
+
+### `s366-snowy-mountains-pyrenees-story.jpg`
+🏔️ Montaña · Manzanos Hábitat
+
 ### `s193-almendro-flor-story.jpg`
 🌸 Almendros en flor · La primavera empieza en la Ribera
 
+### `s367-hiking-trail-mountains-s-story.jpg`
+🥾 Senderismo · Manzanos Hábitat
+
+### `s368-rural-landscape-spain-story.jpg`
+🌄 Paisaje · Manzanos Hábitat
+
 ### `s194-almendro-cielo-story.jpg`
 🌸 Primavera en la Ribera
+
+### `s369-desert-badlands-spain-story.jpg`
+🏜️ Paisaje árido · Manzanos Hábitat
+
+### `s370-starry-sky-countryside-story.jpg`
+✨ Cielo de noche · Manzanos Hábitat
+
+### `s371-family-garden-barbecue-story.jpg`
+🔥 Barbacoa en el jardín · Manzanos Hábitat
+
+### `s372-architect-blueprint-plan-story.jpg`
+📐 Proyecto sobre plano · Manzanos Hábitat
+
+### `s373-hands-with-key-story.jpg`
+🔑 Tu próxima llave · Manzanos Hábitat
+
+### `s374-vineyard-rows-autumn-story.jpg`
+🍇 Viñedo en otoño · Manzanos Hábitat
+
+### `s376-wine-grapes-close-up-story.jpg`
+🍇 Uva en la cepa · Manzanos Hábitat
+
+### `s378-grandparents-grandchildr-story.jpg`
+🤍 Abuelos y nietos · Manzanos Hábitat
+
+### `s380-family-picnic-field-story.jpg`
+🧺 Pícnic en el campo · Manzanos Hábitat
+
+### `s381-dog-running-grass-story.jpg`
+🐕 Tardes al aire libre · Manzanos Hábitat
+
+### `s382-fresh-bread-bakery-story.jpg`
+🥖 Pan del día · Manzanos Hábitat
+
+### `s383-wheat-field-sunset-story.jpg`
+🌾 Campo al atardecer · Manzanos Hábitat
+
+### `s384-poppy-field-spain-story.jpg`
+🌺 Amapolas · Manzanos Hábitat
+
+### `s385-almond-blossom-story.jpg`
+🌸 Almendros en flor · Manzanos Hábitat
+
+### `s386-river-reeds-sunset-story.jpg`
+🌅 Ribera al atardecer · Manzanos Hábitat
+
+### `s387-sunflower-field-story.jpg`
+🌻 Girasoles · Manzanos Hábitat
+
+### `s388-cyclist-country-road-story.jpg`
+🚴 Carreteras tranquilas · Manzanos Hábitat
+
+### `s389-tapas-table-story.jpg`
+🍷 Tapeo · Manzanos Hábitat
+
+### `s390-red-wine-glasses-toast-story.jpg`
+🥂 Brindis · Manzanos Hábitat
+
+### `s391-autumn-leaves-path-story.jpg`
+🍂 Otoño · Manzanos Hábitat
+
+### `s392-snowy-mountains-pyrenees-story.jpg`
+🏔️ Montaña · Manzanos Hábitat
+
+### `s393-hiking-trail-mountains-s-story.jpg`
+🥾 Senderismo · Manzanos Hábitat
+
+### `s394-desert-badlands-spain-story.jpg`
+🏜️ Paisaje árido · Manzanos Hábitat
+
+### `s395-starry-sky-countryside-story.jpg`
+✨ Cielo de noche · Manzanos Hábitat
+
+### `s396-family-garden-barbecue-story.jpg`
+🔥 Barbacoa en el jardín · Manzanos Hábitat
+
+### `s397-architect-blueprint-plan-story.jpg`
+📐 Proyecto sobre plano · Manzanos Hábitat
+
+### `s398-hands-with-key-story.jpg`
+🔑 Tu próxima llave · Manzanos Hábitat
+
+### `s399-vineyard-rows-autumn-story.jpg`
+🍇 Viñedo en otoño · Manzanos Hábitat
+
+### `s400-grape-harvest-hands-story.jpg`
+🍇 Vendimia · Manzanos Hábitat
+
+### `s401-wine-grapes-close-up-story.jpg`
+🍇 Uva en la cepa · Manzanos Hábitat
+
+### `s402-family-walking-countrysi-story.jpg`
+🌿 Paseo en familia · Manzanos Hábitat
+
+### `s403-grandparents-grandchildr-story.jpg`
+🤍 Abuelos y nietos · Manzanos Hábitat
+
+### `s404-family-picnic-field-story.jpg`
+🧺 Pícnic en el campo · Manzanos Hábitat
+
+### `s405-dog-running-grass-story.jpg`
+🐕 Tardes al aire libre · Manzanos Hábitat
+
+### `s406-fresh-bread-bakery-story.jpg`
+🥖 Pan del día · Manzanos Hábitat
+
+### `s407-wheat-field-sunset-story.jpg`
+🌾 Campo al atardecer · Manzanos Hábitat
+
+### `s408-poppy-field-spain-story.jpg`
+🌺 Amapolas · Manzanos Hábitat
+
+### `s409-river-reeds-sunset-story.jpg`
+🌅 Ribera al atardecer · Manzanos Hábitat
+
+### `s410-sunflower-field-story.jpg`
+🌻 Girasoles · Manzanos Hábitat
+
+### `s411-red-wine-glasses-toast-story.jpg`
+🥂 Brindis · Manzanos Hábitat
+
+### `s412-autumn-leaves-path-story.jpg`
+🍂 Otoño · Manzanos Hábitat
+
+### `s413-starry-sky-countryside-story.jpg`
+✨ Cielo de noche · Manzanos Hábitat
+
+### `s414-family-garden-barbecue-story.jpg`
+🔥 Barbacoa en el jardín · Manzanos Hábitat
+
+### `s415-architect-blueprint-plan-story.jpg`
+📐 Proyecto sobre plano · Manzanos Hábitat
+
+### `s416-vineyard-rows-autumn-story.jpg`
+🍇 Viñedo en otoño · Manzanos Hábitat
+
+### `s417-grape-harvest-hands-story.jpg`
+🍇 Vendimia · Manzanos Hábitat
+
+### `s418-wine-grapes-close-up-story.jpg`
+🍇 Uva en la cepa · Manzanos Hábitat
+
+### `s419-family-walking-countrysi-story.jpg`
+🌿 Paseo en familia · Manzanos Hábitat
+
+### `s420-grandparents-grandchildr-story.jpg`
+🤍 Abuelos y nietos · Manzanos Hábitat
+
+### `s421-family-picnic-field-story.jpg`
+🧺 Pícnic en el campo · Manzanos Hábitat
+
+### `s422-wheat-field-sunset-story.jpg`
+🌾 Campo al atardecer · Manzanos Hábitat
+
+### `s423-poppy-field-spain-story.jpg`
+🌺 Amapolas · Manzanos Hábitat
+
+### `s424-sunflower-field-story.jpg`
+🌻 Girasoles · Manzanos Hábitat
+
+### `s425-autumn-leaves-path-story.jpg`
+🍂 Otoño · Manzanos Hábitat
+
+### `s426-starry-sky-countryside-story.jpg`
+✨ Cielo de noche · Manzanos Hábitat
+
+### `s427-family-garden-barbecue-story.jpg`
+🔥 Barbacoa en el jardín · Manzanos Hábitat
+
+### `s428-architect-blueprint-plan-story.jpg`
+📐 Proyecto sobre plano · Manzanos Hábitat
+
+### `s429-vineyard-rows-autumn-story.jpg`
+🍇 Viñedo en otoño · Manzanos Hábitat
+
+### `s430-vineyard-rows-autumn-story.jpg`
+🍇 Viñedo en otoño · Manzanos Hábitat
+
+### `s431-vineyard-rows-autumn-story.jpg`
+🍇 Viñedo en otoño · Manzanos Hábitat
+
+### `s432-vineyard-rows-autumn-story.jpg`
+🍇 Viñedo en otoño · Manzanos Hábitat
+
+### `s433-vineyard-rows-autumn-story.jpg`
+🍇 Viñedo en otoño · Manzanos Hábitat
+
+### `s434-vineyard-rows-autumn-story.jpg`
+🍇 Viñedo en otoño · Manzanos Hábitat
+
+### `s435-vineyard-rows-autumn-story.jpg`
+🍇 Viñedo en otoño · Manzanos Hábitat
 
