@@ -1,0 +1,17 @@
+Fotos oficiales de manzanoshabitat.com, descargadas 2026-08-14.
+UNA CARPETA POR PROYECTO. Cada carpeta contiene SOLO imágenes de la página de ese
+proyecto (filtradas por /images/<slug>/ en el HTML), por lo que NO hay fotos
+mezcladas entre proyectos.
+
+Los nombres conservan la subcarpeta original de la web con "__" (p.ej.
+"gallery__interior-05.jpg" = /images/<slug>/gallery/interior-05.jpg).
+De cada hero hay variantes de tamaño (-640/-1024/-1600) y formato (.jpg/.webp):
+usar la versión sin sufijo (mayor resolución) para publicar.
+
+Proyectos:
+- calle-grande-28  -> MH Grande 28 (Calahorra) — proyecto estrella de la campaña
+- mh-villafranca   -> MH Villafranca
+- mh-azagra        -> MH Azagra
+- mh-san-adrian    -> MH San Adrián
+- mh-haro          -> MH Haro (Parking)
+- entre-rios       -> Entre Ríos
