@@ -9,7 +9,7 @@ invertir en tu futuro — siempre anclado a un proyecto real en venta o a la zon
 
 ---
 
-## 221 POSTS
+## 224 POSTS
 ### `01-villafranca.jpg`
 El esfuerzo de hoy es el hogar de mañana. 🏡
 MH Villafranca: 34 viviendas unifamiliares con piscina, pádel y jardín privado en la Ribera de Navarra. A 35 min de Pamplona.
@@ -1607,6 +1607,27 @@ Villafranca, Calahorra y Haro están en la lista oficial de municipios con expos
 Más información en el link de la bio.
 
 #ManzanosHabitat #ObraNueva #Navarra #LaRioja #CalidadDelAire #Vivienda #ViviendaNueva #Construccion
+
+### `209-jardin-otono-ribera.jpg`
+El mejor jardín de la Ribera se planta en otoño. 🌿
+Con menos de 400 mm de lluvia al año y el cierzo soplando, lo que se siembra ahora arraiga con las lluvias y llega al verano preparado. Qué plantar en tu primera casa con jardín, cuándo hacerlo y cómo gastar menos agua.
+Más información en el link de la bio.
+
+#ManzanosHabitat #RiberaDeNavarra #Navarra #CasaNueva #Jardin #ObraNueva #Vivienda #VidaEnLaRibera
+
+### `211-haro-lujo-historico.jpg`
+¿Qué es lujo en una vivienda en 2026? 🏛️
+En Haro, un palacio barroco lidera hoy el mercado de lujo riojano, y aun así su metro cuadrado cuesta menos que un piso medio en Logroño. Historia, piedra y escudo frente a eficiencia, confort y garantías: lo que el precio no cuenta.
+Más información en el link de la bio.
+
+#ManzanosHabitat #Haro #LaRioja #RiojaAlta #ViviendaDeLujo #ObraNueva #Inmobiliaria #Vivienda
+
+### `213-casa-nueva-perro.jpg`
+Si en la familia hay perro, la casa también se decide pensando en él. 🐾
+Suelo, valla, ducha exterior, sombra y plantas: siete decisiones que conviene tomar sobre plano, antes de estrenar casa con jardín en la Ribera, para que el día a día sea más fácil para todos.
+Más información en el link de la bio.
+
+#ManzanosHabitat #CasaNueva #ObraNueva #Mascotas #RiberaDeNavarra #Navarra #LaRioja #Vivienda
 
 ## 332 STORIES
 ### `01-villafranca-story.jpg`
