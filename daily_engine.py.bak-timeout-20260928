@@ -291,7 +291,6 @@ def archive_real(path):
 # ── INSTAGRAM GRAPH API ───────────────────────────────────────────────────
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36")
-API_TIMEOUT_S = 120  # Techo por llamada a Graph; ver WHY en api()
 def api(path, params, method="POST"):
     data = urllib.parse.urlencode(params).encode()
     hdr  = {"User-Agent": UA}
@@ -300,10 +299,7 @@ def api(path, params, method="POST"):
     else:
         req = urllib.request.Request(f"{BASE}/{path}", data=data, method="POST", headers=hdr)
     try:
-        # WHY: sin timeout, un socket colgado con Graph dejó el motor bloqueado 23 h el
-        # 2026-09-27 (día de publicación perdido) y launchd no relanza mientras sigue vivo.
-        # 120 s cubre de sobra la subida de un reel; el fallo cae en _net_error.
-        with urllib.request.urlopen(req, timeout=API_TIMEOUT_S) as r: return json.load(r)
+        with urllib.request.urlopen(req) as r: return json.load(r)
     except urllib.error.HTTPError as e:
         return {"_http_error": e.code, "body": e.read().decode()}
     except Exception as e:
