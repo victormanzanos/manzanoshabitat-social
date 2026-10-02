@@ -574,9 +574,19 @@ def main():
         else:
             _ledger(today, "post", f"posts/{pf}", idx)
 
-    time.sleep(random.randint(20, 120))  # gap humano antes del story
-    sr = publish_image(story_url, story=True)
+    # WHY (2-oct-2026): en @palaciodemanzanos el post fallo en 3 franjas y cada franja
+    # publico OTRA story (3 el mismo dia). La story solo sale si el post ha salido,
+    # y una sola vez al dia (story_date).
+    if not bool(pr.get("permalink") or pr.get("id")):
+        sr = {"error": "story no publicada: el post ha fallado (se reintenta en la siguiente franja)"}
+    elif s.get("story_date") == today:
+        sr = {"error": "story ya publicada hoy"}
+    else:
+        time.sleep(random.randint(20, 120))  # gap humano antes del story
+        sr = publish_image(story_url, story=True)
     story_ok = bool(sr.get("permalink") or sr.get("id"))
+    if story_ok:
+        s["story_date"] = today; save_state(s)
     if story_ok:
         advance_story(s)
         save_state(s)
