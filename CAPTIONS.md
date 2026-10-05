@@ -9,7 +9,7 @@ invertir en tu futuro — siempre anclado a un proyecto real en venta o a la zon
 
 ---
 
-## 224 POSTS
+## 227 POSTS
 ### `01-villafranca.jpg`
 El esfuerzo de hoy es el hogar de mañana. 🏡
 MH Villafranca: 34 viviendas unifamiliares con piscina, pádel y jardín privado en la Ribera de Navarra. A 35 min de Pamplona.
@@ -1628,6 +1628,27 @@ Suelo, valla, ducha exterior, sombra y plantas: siete decisiones que conviene to
 Más información en el link de la bio.
 
 #ManzanosHabitat #CasaNueva #ObraNueva #Mascotas #RiberaDeNavarra #Navarra #LaRioja #Vivienda
+
+### `214-presupuestos-rioja-vivienda.jpg`
+La vivienda es la partida que más crece en las cuentas de La Rioja para 2027: 45,4 millones de euros, un 60% más que este año. 🏛️
+AvalaRioja pasa de 1 a 3 millones para avalar el 20% de la hipoteca a compradores de hasta 45 años. Te contamos qué cambia si vas a comprar en Logroño, Calahorra o Haro.
+Más información en el link de la bio.
+
+#ManzanosHabitat #LaRioja #Logroño #Calahorra #Haro #PrimeraVivienda #Hipoteca #Vivienda
+
+### `216-oficina-vivienda-tudela.jpg`
+Vivienda ya atiende en Tudela. 📍
+Navarra estrena teléfono único de vivienda (848 42 00 42) y una oficina nueva en la calle Capuchinos, 6. Varios trámites que deciden cuánto dinero te llega al comprar casa en la Ribera ya no exigen ir a Pamplona.
+Más información en el link de la bio.
+
+#ManzanosHabitat #Tudela #RiberaDeNavarra #Navarra #Azagra #Villafranca #ObraNueva #Vivienda
+
+### `217-llaves-primera-casa.jpg`
+Comprar casa sin depender de una ayuda que hoy no existe. 🔑
+El préstamo Tu Casa para la entrada estuvo en vigor poco más de un día. Te explicamos qué sigue en pie y cómo planificar la compra de tu primera vivienda en Navarra o La Rioja con lo que sí está vigente.
+Más información en el link de la bio.
+
+#ManzanosHabitat #PrimeraVivienda #Navarra #LaRioja #Hipoteca #ObraNueva #Inmobiliaria #Vivienda
 
 ## 332 STORIES
 ### `01-villafranca-story.jpg`
