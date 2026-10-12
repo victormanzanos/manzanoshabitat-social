@@ -9,7 +9,7 @@ invertir en tu futuro — siempre anclado a un proyecto real en venta o a la zon
 
 ---
 
-## 227 POSTS
+## 231 POSTS
 ### `01-villafranca.jpg`
 El esfuerzo de hoy es el hogar de mañana. 🏡
 MH Villafranca: 34 viviendas unifamiliares con piscina, pádel y jardín privado en la Ribera de Navarra. A 35 min de Pamplona.
@@ -1649,6 +1649,34 @@ El préstamo Tu Casa para la entrada estuvo en vigor poco más de un día. Te ex
 Más información en el link de la bio.
 
 #ManzanosHabitat #PrimeraVivienda #Navarra #LaRioja #Hipoteca #ObraNueva #Inmobiliaria #Vivienda
+
+### `218-logrono-paseo-ebro.jpg`
+Logroño, a paso de río. 🌿
+El Campillo, junto al Parque del Ebro, suma 204 viviendas de alquiler: un senior living de 102 viviendas y 102 pisos de alquiler asequible. Te contamos qué significa para quien quiere comprar en Logroño.
+Más información en el link de la bio.
+
+#ManzanosHabitat #Logroño #LaRioja #ParqueDelEbro #Vivienda #MercadoInmobiliario #Inmobiliaria
+
+### `219-logrono-campillo-ebro.jpg`
+Un barrio que cambia junto al Ebro. 🏙️
+204 viviendas de alquiler nuevas en El Campillo. Analizamos cómo encaja esa oferta en el mercado de Logroño y qué conviene mirar antes de decidir entre alquilar y comprar.
+Más información en el link de la bio.
+
+#ManzanosHabitat #Logroño #LaRioja #ElCampillo #Alquiler #Vivienda #Inmobiliaria
+
+### `220-comprar-casa-extranjero.jpg`
+Estrenar casa en la Ribera, vengas de donde vengas. 🔑
+NIE, residencia fiscal, hipoteca y escritura: los 6 pasos que necesita un comprador extranjero en Navarra o La Rioja, y la diferencia que más pesa cuando llegas al banco.
+Más información en el link de la bio.
+
+#ManzanosHabitat #Navarra #LaRioja #RiberaDeNavarra #NIE #ObraNueva #Hipoteca #Vivienda
+
+### `221-alfaro-colegiata.jpg`
+El precio de la vivienda en La Rioja, tras el verano. 📈
+Alfaro +36%, Haro +16,6%, Calahorra +5,4% y Logroño empezando a frenar. Repasamos lo que dicen idealista y Gesvalt, municipio a municipio.
+Más información en el link de la bio.
+
+#ManzanosHabitat #LaRioja #Alfaro #Haro #Calahorra #Logroño #PrecioVivienda #Inmobiliaria
 
 ## 332 STORIES
 ### `01-villafranca-story.jpg`
