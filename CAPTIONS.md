@@ -9,7 +9,7 @@ invertir en tu futuro — siempre anclado a un proyecto real en venta o a la zon
 
 ---
 
-## 231 POSTS
+## 236 POSTS
 ### `01-villafranca.jpg`
 El esfuerzo de hoy es el hogar de mañana. 🏡
 MH Villafranca: 34 viviendas unifamiliares con piscina, pádel y jardín privado en la Ribera de Navarra. A 35 min de Pamplona.
@@ -1678,7 +1678,42 @@ Más información en el link de la bio.
 
 #ManzanosHabitat #LaRioja #Alfaro #Haro #Calahorra #Logroño #PrecioVivienda #Inmobiliaria
 
-## 332 STORIES
+### `222-plusvalia-vender-casa.jpg`
+Vender tu casa para estrenar otra, sin sorpresas. 🧾
+La plusvalía municipal grava la subida de valor del suelo y la paga quien vende. En Navarra, el coeficiente a los 10 años es de 0,58 y a los 19 años, de 0,06. Te explicamos cómo se calcula en Navarra y en La Rioja en 2026 y cuándo no se paga nada.
+Más información en el link de la bio.
+
+#ManzanosHabitat #Navarra #LaRioja #PlusvalíaMunicipal #VenderCasa #ObraNueva #Vivienda #Inmobiliaria
+
+### `223-rioja-17000-hogares.jpg`
+17.011 hogares más en La Rioja hasta 2041. 🏙️
+Es la proyección del INE, y Navarra sumaría 35.657. Hoy se construye menos de la mitad de lo necesario. Repasamos qué significan estos números para quien piensa comprar casa en el corredor del Ebro.
+Más información en el link de la bio.
+
+#ManzanosHabitat #LaRioja #Navarra #Logroño #MercadoInmobiliario #ObraNueva #Vivienda #Inmobiliaria
+
+### `224-vpo-cintruenigo-cortes.jpg`
+59 viviendas vuelven al alquiler público en la Ribera. 📍
+42 en Cintruénigo y 17 en Cortes. Y desde 2022 ninguna VPO nueva en Navarra tiene fecha de caducidad. Te contamos qué cambia si dudas entre una vivienda protegida y una casa libre.
+Más información en el link de la bio.
+
+#ManzanosHabitat #Cintruénigo #Cortes #RiberaDeNavarra #Navarra #VPO #Vivienda #Inmobiliaria
+
+### `225-deduccion-jovenes-navarra.jpg`
+¿Volverá a desgravar la primera vivienda en Navarra? 🔑
+Hacienda Foral estudia recuperar la deducción en el IRPF para menores de 35 años que compren su primera casa. La decisión aún no está tomada: te explicamos qué se propone y qué conviene hacer ya.
+Más información en el link de la bio.
+
+#ManzanosHabitat #Navarra #PrimeraVivienda #IRPF #Jóvenes #ObraNueva #Vivienda #Inmobiliaria
+
+### `226-cadreita-encuesta-vivienda.jpg`
+¿Qué casa necesitas de verdad? 🏡
+Cadreita ha abierto una encuesta para planificar la vivienda del pueblo. Sus preguntas son las mismas que deberías hacerte antes de visitar una sola casa en la Ribera.
+Más información en el link de la bio.
+
+#ManzanosHabitat #Cadreita #RiberaDeNavarra #Navarra #ComprarCasa #ObraNueva #Vivienda #Inmobiliaria
+
+## 333 STORIES
 ### `01-villafranca-story.jpg`
 🏡 MH Villafranca · Reserva por 100 € · Link en bio
 
@@ -1801,6 +1836,9 @@ Más información en el link de la bio.
 
 ### `s211-moving-boxes-new-home-story.jpg`
 📦 Mudanza · Manzanos Hábitat
+
+### `s436-logrono-pradoviejo-story.jpg`
+🏙️ Logroño · 17.011 hogares más en La Rioja hasta 2041
 
 ### `s212-family-picnic-field-story.jpg`
 🧺 Pícnic en el campo · Manzanos Hábitat
