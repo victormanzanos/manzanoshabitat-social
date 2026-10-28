@@ -9,7 +9,7 @@ invertir en tu futuro — siempre anclado a un proyecto real en venta o a la zon
 
 ---
 
-## 236 POSTS
+## 241 POSTS
 ### `01-villafranca.jpg`
 El esfuerzo de hoy es el hogar de mañana. 🏡
 MH Villafranca: 34 viviendas unifamiliares con piscina, pádel y jardín privado en la Ribera de Navarra. A 35 min de Pamplona.
@@ -1712,6 +1712,41 @@ Cadreita ha abierto una encuesta para planificar la vivienda del pueblo. Sus pre
 Más información en el link de la bio.
 
 #ManzanosHabitat #Cadreita #RiberaDeNavarra #Navarra #ComprarCasa #ObraNueva #Vivienda #Inmobiliaria
+
+### `227-zonas-tensionadas-navarra.jpg`
+13,3 millones para la vivienda en Navarra. 📍
+El Estado destina 13,3 M€ al alquiler asequible en los 21 municipios tensionados de Navarra, de Tudela a San Adrián. Te contamos qué cambia si estás pensando en comprar casa en la Ribera.
+Más información en el link de la bio.
+
+#ManzanosHabitat #Navarra #RiberaDeNavarra #Tudela #SanAdrián #Vivienda #ObraNueva #Inmobiliaria
+
+### `228-tudela-pisos-turisticos.jpg`
+Tudela ya suma 107 pisos turísticos. 🏙️
+Eran 91 hace un año, pese a la moratoria. Las nuevas zonas, la regla de los 3/5 de la comunidad y qué conviene mirar antes de comprar: te lo explicamos en cinco claves.
+Más información en el link de la bio.
+
+#ManzanosHabitat #Tudela #RiberaDeNavarra #Navarra #ComprarCasa #Vivienda #ObraNueva #Inmobiliaria
+
+### `229-rioja-oferta-venta.jpg`
+La Rioja se queda sin pisos en venta. 🔑
+La oferta cae un 24% en la comunidad y un 21% en Logroño, aunque los precios ya no suben. Qué significa si buscas casa este otoño, en cinco claves.
+Más información en el link de la bio.
+
+#ManzanosHabitat #LaRioja #Logroño #MercadoInmobiliario #ComprarCasa #ObraNueva #Vivienda #Inmobiliaria
+
+### `230-cierzo-casa-nueva.jpg`
+El cierzo también se diseña. 🌬️
+En Tudela casi la mitad del viento llega del norte y del noroeste. Cinco decisiones de diseño para que no se cuele en tu casa nueva ni en tu factura.
+Más información en el link de la bio.
+
+#ManzanosHabitat #Cierzo #Tudela #Bardenas #RiberaDeNavarra #CasaNueva #ObraNueva #Vivienda
+
+### `231-reformar-o-estrenar.jpg`
+¿Reformar o estrenar? 🏡
+Navarra destina 539.000 euros a que los ayuntamientos derriben edificios en ruina y levanten vivienda protegida. Qué cambia en los cascos históricos y cuándo te conviene más una casa nueva.
+Más información en el link de la bio.
+
+#ManzanosHabitat #Navarra #CascoHistórico #Rehabilitación #ObraNueva #CasaNueva #Vivienda #Inmobiliaria
 
 ## 333 STORIES
 ### `01-villafranca-story.jpg`
