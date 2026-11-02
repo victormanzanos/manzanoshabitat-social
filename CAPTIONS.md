@@ -9,7 +9,7 @@ invertir en tu futuro — siempre anclado a un proyecto real en venta o a la zon
 
 ---
 
-## 241 POSTS
+## 243 POSTS
 ### `01-villafranca.jpg`
 El esfuerzo de hoy es el hogar de mañana. 🏡
 MH Villafranca: 34 viviendas unifamiliares con piscina, pádel y jardín privado en la Ribera de Navarra. A 35 min de Pamplona.
@@ -1747,6 +1747,20 @@ Navarra destina 539.000 euros a que los ayuntamientos derriben edificios en ruin
 Más información en el link de la bio.
 
 #ManzanosHabitat #Navarra #CascoHistórico #Rehabilitación #ObraNueva #CasaNueva #Vivienda #Inmobiliaria
+
+### `232-comunidades-energeticas.jpg`
+La luz que se comparte. ☀️
+Navarra tiene seis veces más comunidades energéticas por habitante que la media de España, y desde marzo la energía solar se puede compartir a 5 km. Cinco claves si vas a estrenar casa en la Ribera.
+Más información en el link de la bio.
+
+#ManzanosHabitat #Navarra #RiberaDeNavarra #ComunidadesEnergéticas #Autoconsumo #EficienciaEnergética #ObraNueva #Vivienda
+
+### `233-casa-industrializada.jpg`
+Tu casa nueva, medio hecha en fábrica. 🏗️
+Seis de cada diez viviendas iniciadas en Navarra ya llevan piezas fabricadas en taller. Qué gana quien compra obra nueva y qué conviene preguntar antes de firmar.
+Más información en el link de la bio.
+
+#ManzanosHabitat #Navarra #ConstrucciónIndustrializada #ObraNueva #CasaNueva #RiberaDeNavarra #Vivienda #Inmobiliaria
 
 ## 333 STORIES
 ### `01-villafranca-story.jpg`
