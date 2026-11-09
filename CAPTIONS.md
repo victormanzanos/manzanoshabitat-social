@@ -9,7 +9,7 @@ invertir en tu futuro — siempre anclado a un proyecto real en venta o a la zon
 
 ---
 
-## 243 POSTS
+## 247 POSTS
 ### `01-villafranca.jpg`
 El esfuerzo de hoy es el hogar de mañana. 🏡
 MH Villafranca: 34 viviendas unifamiliares con piscina, pádel y jardín privado en la Ribera de Navarra. A 35 min de Pamplona.
@@ -1761,6 +1761,34 @@ Seis de cada diez viviendas iniciadas en Navarra ya llevan piezas fabricadas en 
 Más información en el link de la bio.
 
 #ManzanosHabitat #Navarra #ConstrucciónIndustrializada #ObraNueva #CasaNueva #RiberaDeNavarra #Vivienda #Inmobiliaria
+
+### `234-zona-inundable.jpg`
+¿Tu casa está en zona inundable? 🌊
+Se comprueba gratis en el visor oficial del Ministerio, en cinco minutos y antes de firmar. Seis comprobaciones para comprar con tranquilidad cerca del Ebro, en Navarra o La Rioja.
+Más información en el link de la bio.
+
+#ManzanosHabitat #Navarra #LaRioja #RiberaDelEbro #GuíaDeCompra #ObraNueva #Vivienda #Inmobiliaria
+
+### `235-tasa-basura.jpg`
+Pagar la basura según lo que tiras. ♻️
+La Ribera Alta de Navarra ya prueba en Cadreita y Falces una tasa ajustada a cada hogar. Azagra, San Adrián y Villafranca están en la misma mancomunidad. Cinco claves de lo que podría cambiar.
+Más información en el link de la bio.
+
+#ManzanosHabitat #Navarra #RiberaDeNavarra #Azagra #Villafranca #SanAdrián #Sostenibilidad #Vivienda
+
+### `236-viviendas-vacias.jpg`
+1.017 casas declaradas vacías en Navarra. 🏢
+Seis meses sin habitar bastan para que la ley presuma que una vivienda está vacía. Lo que conviene saber antes de comprar para invertir en la Ribera.
+Más información en el link de la bio.
+
+#ManzanosHabitat #Navarra #RiberaDeNavarra #InversiónInmobiliaria #Alquiler #GuíaDeCompra #Vivienda #Inmobiliaria
+
+### `238-haro-icio.jpg`
+Haro rebaja el impuesto de obras. 🏛️
+Hasta un 95% menos en edificios protegidos y un 50% en pisos vacíos que salgan al alquiler. Así queda el ICIO en Haro y a quién le compensa si vas a reformar.
+Más información en el link de la bio.
+
+#ManzanosHabitat #Haro #LaRioja #RiojaAlta #Rehabilitación #Reforma #Vivienda #Inmobiliaria
 
 ## 333 STORIES
 ### `01-villafranca-story.jpg`
