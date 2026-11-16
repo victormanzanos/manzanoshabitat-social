@@ -9,7 +9,7 @@ invertir en tu futuro — siempre anclado a un proyecto real en venta o a la zon
 
 ---
 
-## 247 POSTS
+## 250 POSTS
 ### `01-villafranca.jpg`
 El esfuerzo de hoy es el hogar de mañana. 🏡
 MH Villafranca: 34 viviendas unifamiliares con piscina, pádel y jardín privado en la Ribera de Navarra. A 35 min de Pamplona.
@@ -1789,6 +1789,27 @@ Hasta un 95% menos en edificios protegidos y un 50% en pisos vacíos que salgan 
 Más información en el link de la bio.
 
 #ManzanosHabitat #Haro #LaRioja #RiojaAlta #Rehabilitación #Reforma #Vivienda #Inmobiliaria
+
+### `240-azagra-cuidar-mayores.jpg`
+Una casa pensada también para cuidar. 🌿
+Azagra ya tiene centro de día y atiende a sus primeros 8 usuarios. Si vas a comprar pensando en tus padres mayores, hay 6 decisiones que marcan la diferencia: planta baja, accesos, jardín y distancias.
+Más información en el link de la bio.
+
+#ManzanosHabitat #Azagra #Navarra #RiberaDeNavarra #Familia #GuíaDeCompra #Vivienda #Hogar
+
+### `241-ap68-sin-peaje.jpg`
+La AP-68 ya es gratis en La Rioja. 🛣️
+Desde el 11 de noviembre no se paga peaje en sus 119 km riojanos. Quien iba a diario de Logroño a Calahorra ahorra unos 2.500 € al año. Cinco claves si buscas casa fuera de la capital.
+Más información en el link de la bio.
+
+#ManzanosHabitat #LaRioja #Calahorra #RiojaBaja #Navarra #Movilidad #Vivienda #Inmobiliaria
+
+### `242-briones-rioja-alta.jpg`
+La Rioja Alta, más cerca sin peaje. 🍇
+Haro y los pueblos de su entorno, como Briones, quedan ahora a un trayecto gratuito de Logroño por la AP-68. Vivir entre viñedos y trabajar en la ciudad sale más a cuenta.
+Más información en el link de la bio.
+
+#ManzanosHabitat #Haro #Briones #RiojaAlta #LaRioja #Movilidad #Vivienda #Inmobiliaria
 
 ## 333 STORIES
 ### `01-villafranca-story.jpg`
